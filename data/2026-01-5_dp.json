@@ -1,0 +1,763 @@
+{
+  "date": "2026/01/5[dp]",
+  "41525994": {
+    "title": "Transcriptional PBR cycles at pericentromeric repeats cause gross chromosomal rearrangements through Rad52-dependent ADR-loop formation.",
+    "score": 2
+  },
+  "41521671": {
+    "title": "New targets and procedures for validating the valence geometry of nucleic acid structures.",
+    "score": 1
+  },
+  "41521670": {
+    "title": "Bringing the ends together: cryo-EM structures of mycobacterial Ku in complex with DNA define its role in NHEJ synapsis.",
+    "score": 1
+  },
+  "41521669": {
+    "title": "Maternal TDP43 orchestrates nuclear speckle assembly and zygotic splicing activation during oocyte-to-embryo transition in mice.",
+    "score": 0
+  },
+  "41521668": {
+    "title": "STAN, a computational framework for inferring spatially informed transcription factor activity.",
+    "score": 0
+  },
+  "41521667": {
+    "title": "Linker histone H1.5 contributes to centromere integrity.",
+    "score": 2
+  },
+  "41521666": {
+    "title": "HLTF cooperates with GATA1 to activate transcriptional programs and chromatin remodeling during erythroid development.",
+    "score": 0
+  },
+  "41521665": {
+    "title": "Eukaryotic initiation factor eIF3 facilitates loading of eukaryotic release factor eRF1 or suppressor tRNA to the ribosome.",
+    "score": 1
+  },
+  "41521664": {
+    "title": "Accurate chromatin marks peak calling with Omnipeak.",
+    "score": 0
+  },
+  "41521663": {
+    "title": "Structural insights into \u03c328-dependent transcription initiation and its regulation by anti-sigma factor in Pseudomonas aeruginosa.",
+    "score": 0
+  },
+  "41521662": {
+    "title": "SVCROWS: a user-defined tool for interpreting significant structural variants in heterogeneous datasets.",
+    "score": 0
+  },
+  "41521661": {
+    "title": "Nuc domain electrostatics drive the trans cleavage activity of CRISPR-Cas12a.",
+    "score": 2
+  },
+  "41521660": {
+    "title": "Foliar-applied double-stranded RNA is mobile, transfers to plant pathogens, and triggers RNAi.",
+    "score": 0
+  },
+  "41521659": {
+    "title": "Presence of phosphodiester backbone, but not nucleobases, in the guide's 3' terminal region is necessary for RISC loading and target cleavage in vitro and in vivo.",
+    "score": 0
+  },
+  "41521658": {
+    "title": "Replication stress increases de novo CNVs across the malaria parasite genome.",
+    "score": 1
+  },
+  "41521657": {
+    "title": "Unravelling the noncanonical extracellular DNA structures in biofilm and NETosis.",
+    "score": 0
+  },
+  "41521656": {
+    "title": "Mechanistic insights into Lin28-dependent oligo-uridylylation of pre-let-7 by TUT4.",
+    "score": 0
+  },
+  "41505106": {
+    "title": "Accurate detection of somatic single-nucleotide variants from bulk RNA-seq data using RNA-MosaicHunter.",
+    "score": 1
+  },
+  "41505105": {
+    "title": "Initial spliceosomal U4/U6 di-snRNA formation occurs in the cytoplasm of Saccharomyces cerevisiae and requires a guard protein mediated quality control.",
+    "score": 1
+  },
+  "41505104": {
+    "title": "Dual transcriptional and post-transcriptional regulation by the bHLH proteins Rtg1 and RtgX in Komagataella phaffii.",
+    "score": 0
+  },
+  "41505103": {
+    "title": "CellMap: precision mapping of cellular landscape in spatial transcriptomics.",
+    "score": 2
+  },
+  "41505102": {
+    "title": "Design of bacterial DNT sensors based on computational models.",
+    "score": 0
+  },
+  "41505101": {
+    "title": "A unified computational framework for quantitative design and optimization of transcriptional regulation across bacterial species.",
+    "score": 0
+  },
+  "41505100": {
+    "title": "Differential association of primary and alternative \u03c3 factors with RNA polymerase of Mycobacterium tuberculosis during transcription elongation.",
+    "score": 0
+  },
+  "41505099": {
+    "title": "Enhanced SfaTnpB enables single-base-specific, one-pot nucleic acid detection for high-sensitivity diagnostics.",
+    "score": 0
+  },
+  "41505098": {
+    "title": "A conserved 3'UTR short motif regulates gene expression in vertebrates.",
+    "score": 1
+  },
+  "41505097": {
+    "title": "Effector gene silencing coordinated by histone methylation and small RNAs enhances host adaptation in a plant pathogen.",
+    "score": 0
+  },
+  "41505096": {
+    "title": "Sequence-dependent co-condensation of Lsr2 with DNA elucidates the mechanism of genome compaction in Mycobacterium tuberculosis.",
+    "score": 0
+  },
+  "41505095": {
+    "title": "A mechanism for telomere-specific telomere length regulation.",
+    "score": 1
+  },
+  "41505094": {
+    "title": "A network-based model of Aspergillus fumigatus elucidates regulators of development and defensive natural products of an opportunistic pathogen.",
+    "score": 0
+  },
+  "41505093": {
+    "title": "Binding of Glycyl-tRNA synthetase to Mengovirus RNA stimulates translation.",
+    "score": 0
+  },
+  "41505092": {
+    "title": "Potyviruses recruit host eIF4A3 to block m6A-mediated RNA decay by steric hindrance of viral RNA methylation in plants.",
+    "score": 0
+  },
+  "41505091": {
+    "title": "YAP-TEAD regulates the super-enhancer network to control early surface ectoderm commitment.",
+    "score": 0
+  },
+  "41505090": {
+    "title": "RNA polymerase II degradation triggered by DNA repair occurs in trans and independently of how the lesion is recognized.",
+    "score": 2
+  },
+  "41505089": {
+    "title": "Recognition of unnatural base pairs by a eukaryotic DNA polymerase enables universal sequencing of an expanded genetic alphabet.",
+    "score": 1
+  },
+  "41505088": {
+    "title": "Junction-targeting designs limit the application of CRISPR-Cas13d in circular RNA perturbation studies.",
+    "score": 2
+  },
+  "41505087": {
+    "title": "Triplex DNA clamp regulates Cas12a activation for ssDNA and RNA sensing.",
+    "score": 2
+  },
+  "41505086": {
+    "title": "Activation of bacterial transcription by distortion of promoter base pairing.",
+    "score": 0
+  },
+  "41505085": {
+    "title": "Co-transcriptional splicing changes combine with reduced productive transcription initiation for cold-induced repression of FLC.",
+    "score": 0
+  },
+  "41499240": {
+    "title": "Mucosal innate immune activation as the trigger to Prevotella species-induced arthritis in genetically resistant mice.",
+    "score": 0
+  },
+  "41495912": {
+    "title": "Phosphorylation-dependent modulation of the Lamin A/C-EZH2 complex regulates epithelial-mesenchymal plasticity.",
+    "score": 2
+  },
+  "41495911": {
+    "title": "ERK phosphorylates HNRNPF to promote the proliferation and suppress the differentiation of embryonic stem cells.",
+    "score": 2
+  },
+  "41495910": {
+    "title": "DNATCO v5.0: integrated web platform for 3D nucleic acid structure analysis.",
+    "score": 1
+  },
+  "41495909": {
+    "title": "Specific killing and resensitization of pathogenic Escherichia coli strains carrying blaCTX-M-15 \u03b2-lactamase using targeted-antibacterial-plasmids (TAPs).",
+    "score": 0
+  },
+  "41495908": {
+    "title": "Specificity of the stabilizing interaction between intrinsically disordered protein sequences and G-quadruplexes in RNA.",
+    "score": 0
+  },
+  "41495907": {
+    "title": "Systemic control of HNF1B-driven redox homeostasis by N6-adenosine methylation.",
+    "score": 0
+  },
+  "41495906": {
+    "title": "The DinG exonuclease acts as a primary quality controller to remove unprocessed ribosomal RNAs.",
+    "score": 1
+  },
+  "41495905": {
+    "title": "Division of labor in trypanosome RNA processing and export through expanded Mex67 paralogs.",
+    "score": 0
+  },
+  "41495904": {
+    "title": "Microenvironment-aware spatial modeling for accurate inference of cell identity.",
+    "score": 0
+  },
+  "41495903": {
+    "title": "PARP1 and PARP2 are dispensable for DNA repair by microhomology-mediated end-joining at double-ended DSBs.",
+    "score": 2
+  },
+  "41495902": {
+    "title": "Single-molecule mechanostructural fingerprinting of nucleic acid conformations.",
+    "score": 0
+  },
+  "41495901": {
+    "title": "Structural evolution of the selectivity clamp confers ADPR-PP specificity in Namat, a phage nicotinamide ADP-ribose transferase.",
+    "score": 0
+  },
+  "41495900": {
+    "title": "Modular determinants of cleavage preference in GIY-YIG nucleases revealed by block-based DNA shuffling and directed evolution.",
+    "score": 0
+  },
+  "41495899": {
+    "title": "scSuperAnnotator: a platform for benchmarking comparison and visualizing automated cellular annotation methods for scRNA-seq data.",
+    "score": 0
+  },
+  "41495898": {
+    "title": "Crystal structures of Caenorhabditis elegans PUF-3 depict plasticity of RNA recognition that enables germline gene regulation.",
+    "score": 0
+  },
+  "41495897": {
+    "title": "Multimodal bHLH-PAS DNA binding controls specificity and drives obesity.",
+    "score": 0
+  },
+  "41495896": {
+    "title": "A modified X10-23 DNAzyme that can better access large, structured RNA targets.",
+    "score": 3
+  },
+  "41495895": {
+    "title": "Allele-specific knockdown by an engineered DNAzyme capable of RNase H1 evasion.",
+    "score": 2
+  },
+  "41495894": {
+    "title": "Sequential structural rearrangements at the PAM-distal site of a type I-F3 CRISPR-Cas effector enabling RNA-guided DNA transposition.",
+    "score": 0
+  },
+  "41495893": {
+    "title": "Protein structure-informed bacteriophage genome annotation with Phold.",
+    "score": 0
+  },
+  "41495892": {
+    "title": "Argonaute-mediated RNA editing selectively repairs point mutations.",
+    "score": 1
+  },
+  "41495891": {
+    "title": "The nuclear cap-binding complex regulates subcellular RNA processing and surveillance of coding and noncoding RNAs.",
+    "score": 1
+  },
+  "41495890": {
+    "title": "Beyond DNA binding: single C2H2 zinc fingers with adjacent \u03b2-strands mediate dimerization in Drosophila transcription factors.",
+    "score": 0
+  },
+  "41495889": {
+    "title": "Directed evolution on compact landing pads yields highly efficient recombinases for large DNA integration.",
+    "score": 2
+  },
+  "41495888": {
+    "title": "Structure and function of the RNA polymerase complex of Borna disease virus, a nuclear-replicating non-segmented negative-strand RNA virus.",
+    "score": 0
+  },
+  "41495887": {
+    "title": "A universal kinetic framework for quantitative isothermal amplification governed by polymerase speed, amplicon size, and binding efficiency.",
+    "score": 0
+  },
+  "41495886": {
+    "title": "An N-terminal helix of Lsm11 stabilizes CPSF73 in U7 snRNP for histone pre-mRNA 3'-end processing.",
+    "score": 0
+  },
+  "41495885": {
+    "title": "Uncovering coordinated pathway interactions through gene co-differential expression in yeast.",
+    "score": 1
+  },
+  "41495884": {
+    "title": "Facultative heterochromatin mediated by core and accessory chromosome-encoded H3K27-specific methyltransferases controls virulence in a fungal phytopathogen.",
+    "score": 0
+  },
+  "41495883": {
+    "title": "PCNA encircling primer/template junctions is eliminated by exchange of RPA for Rad51: implications for the interplay between human DNA damage tolerance pathways.",
+    "score": 2
+  },
+  "41495882": {
+    "title": "A structure-guided approach to noncoding variant evaluation for transcription factor binding using AlphaFold\u00a03.",
+    "score": 0
+  },
+  "41495881": {
+    "title": "No evidence for the putative nitric oxide sensor NsrR as a key regulator of magnetosome formation in Magnetospirillum gryphiswaldense.",
+    "score": 0
+  },
+  "41495880": {
+    "title": "SCALE: unsupervised multiscale domain identification in spatial omics data.",
+    "score": 0
+  },
+  "41495220": {
+    "title": "Daily briefing: The human cells in our bodies that aren't genetically ours.",
+    "score": 0
+  },
+  "41494535": {
+    "title": "Impaired VLCFA-peroxisome-mediated intestinal epithelial repair causes gastrointestinal sequelae of long COVID.",
+    "score": 0
+  },
+  "41494530": {
+    "title": "Extracellular GPX4 impairs antitumor immunity via dendritic ZP3 receptors.",
+    "score": 0
+  },
+  "41494529": {
+    "title": "A glycolytic shunt via the pentose phosphate pathway is a metabolic checkpoint for nervous system sensory homeostasis and axonal regeneration.",
+    "score": 0
+  },
+  "41494526": { "title": "Potter wasp nests in Cretaceous amber.", "score": 0 },
+  "41494525": { "title": "Insect sensilla.", "score": 0 },
+  "41494524": { "title": "Natalia Jagielska.", "score": 0 },
+  "41494523": {
+    "title": "Neuroscience: What doesn't kill you makes you stronger.",
+    "score": 0
+  },
+  "41494522": {
+    "title": "Microbial interactions: Crosstalk in the fungal mycobiome through a novel small protein.",
+    "score": 0
+  },
+  "41494521": {
+    "title": "Cytoskeleton: How three proteins collude to break actin filaments.",
+    "score": 1
+  },
+  "41494520": { "title": "Plant evolution: Making a splash.", "score": 0 },
+  "41494519": {
+    "title": "Environmental history: When oyster reefs disappeared from memory.",
+    "score": 0
+  },
+  "41494518": {
+    "title": "Cooperative behavior: Weaver ants build homes without a plan.",
+    "score": 0
+  },
+  "41494517": {
+    "title": "Invasion biology: The golden oyster mushroom in North America.",
+    "score": 0
+  },
+  "41494516": { "title": "Sleep: Primates bear a social cost.", "score": 0 },
+  "41493851": {
+    "title": "METTL3 regulates \u03b1-KG-dependent mitophagy and apoptosis in nucleus pulposus cells through the MALAT1/miR-23c/IDH1 axis.",
+    "score": 0
+  },
+  "41492094": {
+    "title": "Axicabtagene ciloleucel in combination with rituximab for refractory large B cell lymphoma: the phase 2, single-arm ZUMA-14 trial.",
+    "score": 0
+  },
+  "41492093": {
+    "title": "Evaluating progesterone receptor agonist megestrol plus letrozole for women with early-stage estrogen-receptor-positive breast cancer: the window-of-opportunity, randomized, phase 2b, PIONEER trial.",
+    "score": 0
+  },
+  "41492092": { "title": "From embryos to cancer.", "score": 3 },
+  "41492091": {
+    "title": "De novo H3.3K27M-altered diffuse midline glioma in human brainstem organoids to dissect GD2 CAR T cell function.",
+    "score": 0
+  },
+  "41492090": {
+    "title": "TGF\u03b2 induces an atypical EMT to evade immune mechanosurveillance in lung adenocarcinoma dormant metastasis.",
+    "score": 0
+  },
+  "41492089": {
+    "title": "Cell stiffness regulates immune evasion during metastatic dormancy.",
+    "score": 0
+  },
+  "41492088": {
+    "title": "Loss of SMARCA5 redirects pancreatic tumorigenesis toward a regenerative cell fate.",
+    "score": 1
+  },
+  "41492087": {
+    "title": "Cryoablation induces abscopal immunity in intrahepatic cholangiocarcinoma.",
+    "score": 0
+  },
+  "41491920": {
+    "title": "Homogeneous crystallization via sustained solvent-extraction channels for methylammonium-free all-perovskite tandem solar cells.",
+    "score": 0
+  },
+  "41491776": {
+    "title": "Computationally efficient tail distribution-aware large-scale power system overloading risk assessment.",
+    "score": 0
+  },
+  "41491775": {
+    "title": "Deep learning and superoscillatory speckles empowered multimode fiber probe for in situ nano-displacement detection and micro-imaging.",
+    "score": 1
+  },
+  "41491774": { "title": "Flash upcycling of spent LiCoO", "score": 0 },
+  "41491771": {
+    "title": "Harnessing strengthening-metastability synergy for extreme work hardening in additively manufactured titanium alloys.",
+    "score": 0
+  },
+  "41491438": {
+    "title": "Microscopy Nodes: versatile 3D microscopy visualization with Blender.",
+    "score": 1
+  },
+  "41491422": {
+    "title": "Programmed 'DNA splicing' removes transposons from genes.",
+    "score": 1
+  },
+  "41491304": {
+    "title": "A disulfide redox switch mechanism regulates glycoside hydrolase function.",
+    "score": 0
+  },
+  "41491298": {
+    "title": "Revisiting superradiance dynamics from single diamond nanocrystals with a physically consistent model for fluorescence decay.",
+    "score": 0
+  },
+  "41491291": {
+    "title": "Palladium-catalyzed asymmetric migratory diarylation of unactivated directing-group-free internal alkenes.",
+    "score": 0
+  },
+  "41491285": {
+    "title": "Low-noise optomechanical single phonon-photon conversion for quantum networks.",
+    "score": 0
+  },
+  "41491262": {
+    "title": "Sunyaev-Zeldovich detection of hot intracluster gas at redshift 4.3.",
+    "score": 0
+  },
+  "41491236": {
+    "title": "What does not kill you makes you Weaker!",
+    "score": 0
+  },
+  "41491224": {
+    "title": "Favorable histo-molecular remodeling of pancreatic ductal adenocarcinoma after neoadjuvant FOLFIRINOX followed by high-dose stereotactic body radiotherapy.",
+    "score": 0
+  },
+  "41491223": {
+    "title": "Distant recurrence and margin involvement in invasive breast cancer.",
+    "score": 0
+  },
+  "41491222": {
+    "title": "Targeting the DNA damage response prevents regrowth of colorectal peritoneal metastasis-derived organoids following treatment with mitomycin C.",
+    "score": 0
+  },
+  "41491188": {
+    "title": "Author Correction: Leishmania RNA virus exacerbates Leishmaniasis by subverting innate immunity via TLR3-mediated NLRP3 inflammasome inhibition.",
+    "score": 0
+  },
+  "41491162": {
+    "title": "VACmap: an accurate long-read aligner for unraveling complex genomic rearrangements.",
+    "score": 0
+  },
+  "41491153": {
+    "title": "The visual system of the longest-living vertebrate, the Greenland shark.",
+    "score": 0
+  },
+  "41490890": {
+    "title": "EIF4B Ser93 phosphorylation by ERK2 promotes epithelial-mesenchymal transition to drive colorectal cancer metastasis.",
+    "score": 0
+  },
+  "41490886": {
+    "title": "Measuring and locating the changes in protein structure using MELO.",
+    "score": 1
+  },
+  "41490885": {
+    "title": "Neoadjuvant immune checkpoint blockade before chemoradiation for cervical squamous carcinoma (GINECO window-of-opportunity COLIBRI study): a phase II trial.",
+    "score": 0
+  },
+  "41490884": {
+    "title": "EZH2 Inhibitors Sensitize Breast Cancer to HER2 Kinase Inhibitors through Cooperative Effects on YAP and Pro-apoptotic Regulators.",
+    "score": 0
+  },
+  "41490712": {
+    "title": "Hot zones for liver cancer: metabolic zonation, ferroptosis, and the origins of HCC.",
+    "score": 0
+  },
+  "41490480": {
+    "title": "Erratum: Successful Outcomes of Newly Diagnosed T Lymphoblastic Lymphoma: Results From Children's Oncology Group AALL0434.",
+    "score": 0
+  },
+  "41490448": {
+    "title": "Therapeutic Considerations in Early-Stage, Estrogen Receptor-Positive, ",
+    "score": 0
+  },
+  "41490421": {
+    "title": "Optimizing In Vivo CAR-T Cell Engineering for Cancer Immunotherapy.",
+    "score": 0
+  },
+  "41490344": {
+    "title": "Temperate phage evolve to integrate host stress and quorum signals in lysis-lysogeny decisions.",
+    "score": 0
+  },
+  "41490318": {
+    "title": "Female moths incorporate plant acoustic emissions into their oviposition decision-making process.",
+    "score": 0
+  },
+  "41490263": {
+    "title": "Characterization of RNA interference in the cnidarian Nematostella vectensis reveals partial target silencing but lack of small RNA amplification.",
+    "score": 0
+  },
+  "41490244": {
+    "title": "The Rho GTPase regulator ARHGEF3 orchestrates hair placode budding by coordinating cell fate and P-cadherin patterning in mice.",
+    "score": 0
+  },
+  "41490241": {
+    "title": "MMSpa is a deep learning-based tool that enhances the identification of spatial domains in spatial transcriptomics studies.",
+    "score": 1
+  },
+  "41490237": {
+    "title": "Rapid gain and loss of a chromosome drives key morphology and virulence phenotypes in the fungal pathogen Histoplasma.",
+    "score": 0
+  },
+  "41490149": {
+    "title": "Emerging Strategies to Inhibit the G1/S Transition for Cancer Therapy.",
+    "score": 2
+  },
+  "41490148": {
+    "title": "Cosmopolitan inversions have a major impact on trait variation and the power of different GWAS approaches to identify associations.",
+    "score": 0
+  },
+  "41490138": {
+    "title": "Modeling of H5N1 influenza virus kinetics during dairy cattle infection suggests the timing of infectiousness.",
+    "score": 0
+  },
+  "41490098": {
+    "title": "Population analyses reveal heterogeneous encoding in the medial prefrontal cortex during naturalistic foraging.",
+    "score": 0
+  },
+  "41490069": {
+    "title": "Comparative transcriptomics reveal the common anteroposterior molecular blueprint of adult bilaterian guts.",
+    "score": 0
+  },
+  "41490061": {
+    "title": "How do immunometabolites shape bacterial infections?",
+    "score": 0
+  },
+  "41490055": {
+    "title": "Foxi1 regulates multipotent mucociliary progenitors and ionocyte specification through transcriptional and epigenetic mechanisms.",
+    "score": 0
+  },
+  "41490046": {
+    "title": "TDP-43-mediated alternative polyadenylation is associated with a reduction in VPS35 and VPS29 expression in frontotemporal dementia.",
+    "score": 0
+  },
+  "41489691": {
+    "title": "<SPAN style=\"font-weight: 400;\">Deep Learning-derived Sarcopenia Marker Predicts Benefit from Anti-EGFR Therapy in Patients with RAS Wild-Type Metastatic Colorectal Cancer</SPAN>.",
+    "score": 0
+  },
+  "41489510": {
+    "title": "LINE-1 Locus Transcription Nucleates Oncogenic Chromatin Architecture.",
+    "score": 1
+  },
+  "41489497": {
+    "title": "CCDC32 stabilizes clathrin-coated pits and drives their invagination.",
+    "score": 1
+  },
+  "41489473": {
+    "title": "Long-term management of body weight and physiological mechanisms of weight regain.",
+    "score": 0
+  },
+  "41489455": {
+    "title": "A protein-based prediction model for fragility fracture risk in individuals with diabetes.",
+    "score": 0
+  },
+  "41489261": {
+    "title": "TCAB1: a key promoter of tumor growth through telomere maintenance and senescence evasion.",
+    "score": 2
+  },
+  "41487078": {
+    "title": "Identifying new targets in the fight against opioids.",
+    "score": 0
+  },
+  "41486985": {
+    "title": "CTCF maintains centromere function and mitotic fidelity.",
+    "score": 0
+  },
+  "41486301": {
+    "title": "Progress in stem cell-based embryo models and their applications in developmental biology and biomedicine.",
+    "score": 0
+  },
+  "41486279": {
+    "title": "Neuronal feedback loop of the suprachiasmatic nucleus generates robust circadian rhythms.",
+    "score": 0
+  },
+  "41474971": {
+    "title": "Separating chromosomes, one way or another.",
+    "score": 2
+  },
+  "41416987": {
+    "title": "Correction: Matriptase drives dissemination of ovarian cancer spheroids by a PAR-2/PI3K/Akt/MMP9 signaling axis.",
+    "score": 0
+  },
+  "41416986": {
+    "title": "Keeping a stiff upper lip: p120ctn and tissue fusion.",
+    "score": 0
+  },
+  "41412127": {
+    "title": "Local rules and geometric constraints enable robust leaf-nest construction in weaver ants.",
+    "score": 0
+  },
+  "41412126": { "title": "Cambrian origin of the arachnid brain.", "score": 0 },
+  "41406967": {
+    "title": "Environmentally controlled production of pagoamide A in marine macroalgae by an intracellular bacterial symbiont.",
+    "score": 0
+  },
+  "41406966": {
+    "title": "Pth4 neurons define a novel hypothalamic circuit that promotes sleep via brainstem monoaminergic neurons.",
+    "score": 0
+  },
+  "41405833": {
+    "title": "A crucial step toward understanding tip growth in plants.",
+    "score": 0
+  },
+  "41401809": {
+    "title": "Poly-immunity arrays associated with Rhs toxins confer wide protection against competitors.",
+    "score": 0
+  },
+  "41389795": {
+    "title": "Rank and social context influence sleep in wild chimpanzees.",
+    "score": 0
+  },
+  "41389794": {
+    "title": "Drosophila DNp03 descending neurons serve as a hub within a flight saccade network.",
+    "score": 0
+  },
+  "41389793": {
+    "title": "Longitudinal assessment of total daily energy expenditure in professional cyclists supports a maximal sustainable metabolic ceiling.",
+    "score": 0
+  },
+  "41389792": {
+    "title": "Dominant baboons experience more interrupted and less rest at night.",
+    "score": 0
+  },
+  "41382985": {
+    "title": "Chronic enteritis triggered by diet westernization is driven by epithelial ATG16L1-mediated autophagy.",
+    "score": 0
+  },
+  "41380679": {
+    "title": "A new fossil fish sheds light on the rapid evolution of early lungfishes.",
+    "score": 0
+  },
+  "41380678": {
+    "title": "Fire enables passive directed seed dispersal by birds.",
+    "score": 0
+  },
+  "41379578": {
+    "title": "Perinuclear non-centrosomal microtubules direct nuclei dispersion during epithelial morphogenesis.",
+    "score": 1
+  },
+  "41371220": {
+    "title": "The convergent genomic dynamism for aquatic adaptation in vascular plants.",
+    "score": 0
+  },
+  "41371219": {
+    "title": "Psilocybin induces sex- and context-specific recruitment of the stress axis.",
+    "score": 0
+  },
+  "41371218": {
+    "title": "Multisensory integration for active mechanosensation in Drosophila flight.",
+    "score": 0
+  },
+  "41371217": {
+    "title": "High-fat food reinforces risk taking by suppressing defensive neurons.",
+    "score": 0
+  },
+  "41371216": {
+    "title": "Evolved format assimilation in phototrophic Rhodopseudomonas palustris indicates the need for a CO",
+    "score": 0
+  },
+  "41365304": {
+    "title": "Convergent evolution of cell size enables adaptation to the mangrove habitat.",
+    "score": 2
+  },
+  "41364076": {
+    "title": "TMEDs mediate versatile cargo transport in vesicle-dependent unconventional secretion.",
+    "score": 0
+  },
+  "41352353": {
+    "title": "A reference brain for the clonal raider ant.",
+    "score": 0
+  },
+  "41352350": {
+    "title": "Retrograde optogenetics reveals sensorimotor convergence within a corticotectal pathway of non-human primates.",
+    "score": 0
+  },
+  "41349533": {
+    "title": "Invasive predator reshapes island trophic network and biogeography.",
+    "score": 0
+  },
+  "41348103": {
+    "title": "Loss of ErbB3 redirects Integrin \u03b21 from early endosomal recycling to secretion in extracellular vesicles.",
+    "score": 0
+  },
+  "41344333": {
+    "title": "The Great Wall of China harbors a diverse and protective biocrust microbiome.",
+    "score": 0
+  },
+  "41335120": {
+    "title": "lncRNA EGFR-AS1 promotes DNA damage repair by enhancing PARP1-mediated PARylation.",
+    "score": 2
+  },
+  "41308648": {
+    "title": "A small Candida glabrata protein promotes hyphal growth in C. albicans during mixed-species invasive candidiasis.",
+    "score": 0
+  },
+  "41295951": {
+    "title": "Is the Parkinson's-associated protein TMEM175 a proton channel: Yay or nay?",
+    "score": 0
+  },
+  "41288572": {
+    "title": "Homocysteine disrupts lysosomal function by V-ATPase inhibition.",
+    "score": 0
+  },
+  "41269158": {
+    "title": "Talin-tensin3 interactions regulate fibrillar adhesion formation and tensin3 phase separation.",
+    "score": 1
+  },
+  "41269157": {
+    "title": "Bacterial CipB is an exogenous receptor to drive the mitophagy-TFEB axis and promote pathogenesis.",
+    "score": 0
+  },
+  "41259080": {
+    "title": "Inwardly rectifying potassium channels promote directional sensing during neutrophil chemotaxis.",
+    "score": 0
+  },
+  "41237772": {
+    "title": "Millennial-scale societal shifts drive the widespread loss of oyster reefs in East Asia.",
+    "score": 0
+  },
+  "41236477": {
+    "title": "Actin arginylation alters myosin engagement and F-actin patterning despite structural conservation.",
+    "score": 1
+  },
+  "41236476": {
+    "title": "High-content phenotyping reveals Golgi dynamics and their role in cell cycle regulation.",
+    "score": 2
+  },
+  "41231213": {
+    "title": "Actomyosin contractility and a threshold of cadherin cell adhesion are required during tissue fusion.",
+    "score": 1
+  },
+  "41186574": {
+    "title": "Autoinhibitory calcium ATPases regulate the calcium gradient required for rapid polarized growth.",
+    "score": 1
+  },
+  "41186573": {
+    "title": "Systematic membrane thickness variation across cellular organelles revealed by cryo-ET.",
+    "score": 0
+  },
+  "41182173": {
+    "title": "Lipid packing and local geometry influence septin curvature sensing.",
+    "score": 0
+  },
+  "41171079": {
+    "title": "Close-up of vesicular ER exit sites by volume electron imaging using FIB-SEM.",
+    "score": 0
+  },
+  "41134537": {
+    "title": "TMEM175 does not function as a proton-selective ion channel to prevent lysosomal over-acidification.",
+    "score": 0
+  },
+  "41124275": {
+    "title": "Mechanical coordination between anaphase A and B drives asymmetric chromosome segregation.",
+    "score": 2
+  },
+  "41123438": {
+    "title": "Fibroblasts promote osmotic surveillance by wound-induced unique calcium patterns.",
+    "score": 0
+  },
+  "41118517": {
+    "title": "Structure of\u00a0Bacillus subtilis Ku-mediated DNA synaptic complex.",
+    "score": 1
+  }
+}
