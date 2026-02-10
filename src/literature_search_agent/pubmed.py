@@ -1,4 +1,5 @@
 import json
+import random
 import time
 import xml.etree.ElementTree as ET
 from datetime import datetime
@@ -30,6 +31,7 @@ class PubMedArticle(BaseModel):  # type: ignore[misc]
                 "journal": "Nature Cell Biology",
                 "pub_date": "2025",
                 "date_fetched": "2025-01-24T10:30:00",
+                "doi": "10.1038/s41592-025-02345-6",
             }
         }
     )
@@ -43,6 +45,7 @@ class PubMedArticle(BaseModel):  # type: ignore[misc]
     date_fetched: str = Field(
         default_factory=lambda: datetime.now().isoformat()
     )
+    doi: str | None = None
 
 
 class ScoringSheet(BaseModel):  # type: ignore[misc]
@@ -51,6 +54,8 @@ class ScoringSheet(BaseModel):  # type: ignore[misc]
             "example": {
                 "pmid": "12345678",
                 "title": "CRISPR-mediated disruption of CDK4/6",
+                "abstract": "We investigated...",
+                "journal": "Nature Cell Biology",
                 "score": 0,
             }
         }
@@ -58,10 +63,14 @@ class ScoringSheet(BaseModel):  # type: ignore[misc]
 
     pmid: str
     title: str
+    abstract: str | None = None
+    journal: str
     score: int = Field(default=0)
 
 
-def _pubmed_search(query: str, batch_size: int = 1000) -> list[str]:
+def _pubmed_search(
+    query: str, batch_size: int = 1000, max_pmids: int | None = None
+) -> list[str]:
     """Search PubMed for articles matching the query.
 
     Args:
@@ -109,8 +118,13 @@ def _pubmed_search(query: str, batch_size: int = 1000) -> list[str]:
     query_key = record["QueryKey"]
 
     pmids = []
+    target_count = count
+    if max_pmids is not None:
+        target_count = min(count, max_pmids)
+        logger.info("Limiting PMID retrieval to %s results", target_count)
 
-    for start in range(0, count, batch_size):
+    for start in range(0, target_count, batch_size):
+        retmax = min(batch_size, target_count - start)
         try:
             handle = Entrez.esearch(
                 db="pubmed",
@@ -118,7 +132,7 @@ def _pubmed_search(query: str, batch_size: int = 1000) -> list[str]:
                 webenv=webenv,
                 query_key=query_key,
                 retstart=start,
-                retmax=batch_size,
+                retmax=retmax,
             )
             batch = Entrez.read(handle)
             handle.close()
@@ -170,6 +184,7 @@ def _fetch_pubmed_xml(
                 db="pubmed",
                 id=",".join(batch_pmids),
                 retmode="xml",  # converts list of PMIDs to comma-separated string
+                timeout=30,
             )
             xml_data = handle.read()
             handle.close()
@@ -248,7 +263,7 @@ def _fetch_pubmed_xml(
                 )
                 logger.warning(unexpected_error)
                 continue
-            time.sleep(0.34)  # respect NCBI limits
+        time.sleep(0.34)  # respect NCBI limits
     return all_records
 
 
@@ -308,7 +323,11 @@ def _save_scoring_sheet(
 
     # Convert PubMedArticles to ScoringSheets (minimal info only)
     scoring_sheets = [
-        ScoringSheet(pmid=article.pmid, title=article.title)
+        ScoringSheet(
+            pmid=article.pmid,
+            title=article.title,
+            journal=article.journal,
+        )
         for article in articles
     ]
 
@@ -318,7 +337,9 @@ def _save_scoring_sheet(
     try:
         with open(filepath, "w") as f:
             json.dump(
-                [sheet.model_dump() for sheet in scoring_sheets], f, indent=2
+                [sheet.model_dump(exclude_none=True) for sheet in scoring_sheets],
+                f,
+                indent=2,
             )
         save_success_message = f"Successfully saved {len(scoring_sheets)} scoring sheets to {filepath}"
         logger.info(save_success_message)
@@ -329,7 +350,7 @@ def _save_scoring_sheet(
         raise RuntimeError(save_error) from e
 
 
-def pubmed_search(query: str, date: str, path: Path) -> None:
+def pubmed_search(query: str, date: str, path: Path, eval: bool = False) -> None:
     """Search PubMed for articles matching the query.
     Args:
         query: The query to search for.
@@ -340,13 +361,19 @@ def pubmed_search(query: str, date: str, path: Path) -> None:
     """
     start_message = f"Searching PubMed for: {date}"
     logger.info(start_message)
-    pubmed_articles = _pubmed_search(query)
+    max_pmids = 50 if eval else None
+    pubmed_articles = _pubmed_search(query, max_pmids=max_pmids)
     pubmed_metadata = _fetch_pubmed_xml(pubmed_articles)
-    _save_pubmed_data(pubmed_metadata, date, path)
-    _save_scoring_sheet(pubmed_metadata, date, path)
+    
+    if eval:
+        sample_size = min(50, len(pubmed_metadata))
+        pubmed_metadata = random.sample(pubmed_metadata, sample_size)
+        _save_pubmed_data(pubmed_metadata, date, path)
+        _save_scoring_sheet(pubmed_metadata, date, path)
 
 
 if __name__ == "__main__":
-    date = datetime.now().strftime("%Y-%m-%d")
-    query = f"{PUBMED_QUERY} AND {date}[dp]"
-    pubmed_search(query, date, Path("data"))
+    for i in range(20):
+        date = f"2026-01-{i+1}"
+        query = f"{PUBMED_QUERY} AND {date}[dp]"
+        pubmed_search(query, date, Path("data"), eval=True)
