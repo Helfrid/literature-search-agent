@@ -45,5 +45,5 @@ repos:
     rev: v2.4.1
     hooks:
         - id: codespell
-          args: ["--write-changes", "--ignore-words-list=commun"]  # commun is valid (Nat Commun = Nature Communications)
+          args: ["--write-changes", "--ignore-words-list=commun,cyclin"]  # commun = Nature Communications, cyclin = protein name
           exclude: ^data/
