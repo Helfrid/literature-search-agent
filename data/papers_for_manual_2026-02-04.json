@@ -1,0 +1,1082 @@
+[
+  {
+    "pmid": "41645012",
+    "title": "Daily briefing: More than one-third of cancer cases are preventable.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41643682",
+    "title": "Precise control of transcription condensates across S phase balances linker histone expression with DNA replication, ensuring genome stability.",
+    "score": 2,
+    "analysed": true,
+    "classification": "Cell Cycle"
+  },
+  {
+    "pmid": "41643678",
+    "title": "Ketogenic diet alleviates septic lung injury via microbial gut-lung axis.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41643677",
+    "title": "Meningeal blood vessel blockage enhances anti-glioblastoma immunity.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41643676",
+    "title": "Molecular architecture of human dermal sleeping nociceptors.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41643675",
+    "title": "Divergent tumor immunity determined by bacteria-cancer cell engagement.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41643674",
+    "title": "An NSP2-MYB module orchestrates flavonoid biosynthesis and nodule symbiosis.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41643673",
+    "title": "A voltage-dependent switch underlies efficient yet specific learning and memory.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41643672",
+    "title": "Fungal pathogen promotes caterpillar feeding and weight gain using a host-like trehalase.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41643671",
+    "title": "Interpretable data integration for single-cell and spatial multi-omics.",
+    "score": 1,
+    "classification": "AI and Biology",
+    "analysed": true
+  },
+  {
+    "pmid": "41643670",
+    "title": "Integrated single-cell analyses of affinity-tested B cells enable the identification of a gene signature to predict antibody affinity.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41643664",
+    "title": "Organizers in a dish: Modeling human CNS morphogenesis.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41643293",
+    "title": "Identification of molecularly targeted therapy-induced immunopeptidome in diffuse midline glioma (DMG).",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41642708",
+    "title": "Distances and charges along the Orai1 nexus-TM3 interface control STIM1 binding and pore opening.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41640016",
+    "title": "PRKN activation for mitophagy requires an NME3-regulated phosphatidic acid signal that separates mitochondria from endoplasmic reticulum tethering.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639599",
+    "title": "Metabolic engineering of doxorubicin biosynthesis through P450-redox partner optimization and structural analysis of DoxA.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639598",
+    "title": "Author Correction: Buried deep freshwater reserves beneath salinity-stressed coastal Bangladesh.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639589",
+    "title": "Mutation in HER1 enhances stigma exsertion and hybrid seed production in rice.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639585",
+    "title": "Template-in-template assembly nanostructured microspheres for high performance chromatography.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639583",
+    "title": "Author Correction: Directed rescue strategy for enhanced implant osteointegration in aged rats.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639565",
+    "title": "Open-source AI tool beats giant LLMs in literature reviews - and gets citations right.",
+    "score": 1,
+    "classification": "AI and Biology",
+    "analysed": true
+  },
+  {
+    "pmid": "41639564",
+    "title": "How tumours trick the brain into shutting down cancer-fighting cells.",
+    "score": 1,
+    "analysed": true,
+    "classification": "Cancer Biology"
+  },
+  {
+    "pmid": "41639563",
+    "title": "These mysterious ridges could help skin regenerate.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639562",
+    "title": "AI could transform research assessment - and some academics are worried.",
+    "score": 1,
+    "classification": "AI and Biology",
+    "analysed": true
+  },
+  {
+    "pmid": "41639561",
+    "title": "Innovative CAR-T therapy destroys cancer cells without dangerous side effects.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639560",
+    "title": "NIH rolls back red tape on some experiments - spurring excitement and concern.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639558",
+    "title": "'It means I can sleep at night': how sensors are helping to solve scientists' problems.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639557",
+    "title": "What my cave stay taught me about sensors.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639556",
+    "title": "How a protein repurposes vitamin B12 as a light sensor.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639555",
+    "title": "Author knows best? Top AI conference asks for self-ranked papers amid paper deluge.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639554",
+    "title": "Common genetic variants affect risk of a major cause of pregnancy loss.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639553",
+    "title": "Atlantic ocean currents defied the ice age.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639552",
+    "title": "Immune cells from the gut drive development of Parkinson's disease in the brain.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639551",
+    "title": "A way to gauge the equity of ocean-related initiatives.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639550",
+    "title": "Evolutionary insights into a skin fold.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639549",
+    "title": "A tumour-to-brain pathway hinders anticancer defences.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639548",
+    "title": "Eviction notice.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639466",
+    "title": "Author Correction: Cotranslational assembly of protein complexes in eukaryotes revealed by ribosome profiling.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639465",
+    "title": "Atlas-guided discovery of transcription factors for T cell programming.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639464",
+    "title": "Resolving intervalley gaps and many-body resonances in moir\u00e9 superconductors.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639463",
+    "title": "Mosquito-capsid interactions contribute to flavivirus vector specificity.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639462",
+    "title": "Phenome-wide analysis of copy number variants in 470,727 UK Biobank genomes.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639461",
+    "title": "Cleavage of mRNAs by a minority of pachytene piRNAs improves sperm fitness.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639460",
+    "title": "ZFTA-RELA ependymomas make itaconate to epigenetically drive fusion expression.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639459",
+    "title": "Efficient near-telomere-to-telomere assembly of nanopore simplex reads.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639458",
+    "title": "Rete ridges form via evolutionarily distinct mechanisms in mammalian skin.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639457",
+    "title": "Single-molecule dynamics of the TRiC chaperonin system in vivo.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639456",
+    "title": "Bacterial immune activation via supramolecular assembly with phage triggers.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639455",
+    "title": "Large-scale analogue quantum simulation using atom dot arrays.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639454",
+    "title": "PtdIns(3,5)P",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639453",
+    "title": "Integrated structural dynamics uncover a new B",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639452",
+    "title": "Regulation of STRING activation by phosphoinositide and cholesterol.",
+    "score": 1,
+    "analysed": true,
+    "classification": "Genome stability"
+  },
+  {
+    "pmid": "41639451",
+    "title": "Regulatory grammar in human promoters uncovered by MPRA-based deep learning.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639450",
+    "title": "Spin-wave band-pass filters for 6G communication.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639449",
+    "title": "Activated ATF6\u03b1 is a hepatic tumour driver restricting immunosurveillance.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639448",
+    "title": "Atmospheric H",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639447",
+    "title": "Tumour-brain crosstalk restrains cancer immunity via a sensory-sympathetic axis.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639446",
+    "title": "Synthesizing scientific literature with retrieval-augmented language models.",
+    "score": 2,
+    "analysed": true,
+    "classification": "AI and Biology"
+  },
+  {
+    "pmid": "41639445",
+    "title": "A pore-forming antiphage defence is activated by oligomeric phage proteins.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639444",
+    "title": "Imaging the sub-moir\u00e9 potential using an atomic single\u00a0electron transistor.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639443",
+    "title": "Chemical capture of diazo metabolites reveals biosynthetic hydrazone oxidation.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639442",
+    "title": "Signatures of fractional charges via anyon-trions in twisted MoTe",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639441",
+    "title": "Imaging a terahertz superfluid plasmon in a two-dimensional superconductor.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639440",
+    "title": "Parkinson's disease as a somato-cognitive action network disorder.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639439",
+    "title": "Contemporaneous mobile- and stagnant-lid tectonics on the Hadean Earth.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639438",
+    "title": "A universal concept for melting in mantle upwellings.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639254",
+    "title": "Publisher Correction: DNA nanodevices detect an acidic nanolayer on the lysosomal surface.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639120",
+    "title": "Decoding efficacy and resistance space at a drug binding site.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639114",
+    "title": "Author Correction: High-order harmonic generation in an organic molecular crystal.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639106",
+    "title": "Indolent primary cutaneous B-cell lymphomas resemble persistent antigen reactions without signs of dedifferentiation.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639104",
+    "title": "Interfacial dipole engineering by self-assembled molecules in n-i-p and p-i-n perovskite solar cells.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639100",
+    "title": "Binding properties of sulfur to enable solvent-free fabrication of high-performance polymer-free sulfur-carbon positive electrodes.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639097",
+    "title": "A primary auditory cortex-anterior cingulate cortex circuit underlying cross-modal visceral pain modulation.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639096",
+    "title": "High quality-factor terahertz phonon-polaritons in layered lead iodide.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639095",
+    "title": "The gut microbiome and metabolome associate with Schistosoma mansoni infection and cardiovascular disease risk in Uganda.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639093",
+    "title": "Deep learning drives autonomous molecular reactions with single-bond selectivity in tetra-brominated porphyrins on Au(111).",
+    "score": 1,
+    "analysed": true,
+    "classification": "AI and Biology"
+  },
+  {
+    "pmid": "41639092",
+    "title": "Viral mimicry acts as a tumor suppressor in colitis.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639091",
+    "title": "Record-breaking emergence of upstream-downstream zonal-consistent variation in the Eurasian jet axis.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639090",
+    "title": "Injectable hydrogel bioelectrostimulator for wireless deep brain neuromodulation.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639089",
+    "title": "An experimentally-informed polymer model reveals high resolution organization of genomic loci.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639086",
+    "title": "Cytoplasmic NAD/H synthesis via NRK1 regulates inflammatory capacity and promotes survival of CD4",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639083",
+    "title": "Customized composition of lithium metal solid-electrolyte interphase by electric field modulation of anion motion direction.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639082",
+    "title": "Chlorination-controlled aggregation and film-formation kinetics enabling high-efficiency organic solar cells with low-cost linear conjugated polymers.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639081",
+    "title": "Molecular clustering unlocks high-performance hydrovoltaics across temperatures from -35\u2009\u00b0C to 80\u2009\u00b0C.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639079",
+    "title": "Machine learning for microscopy data analytics targeting real-time optical characterization of semiconductor nanocrystals.",
+    "score": 1,
+    "analysed": true,
+    "classification": "Imaging"
+  },
+  {
+    "pmid": "41639077",
+    "title": "Inhibition mechanism of the fungal \u03b2-1,3-glucan synthases by triterpenoid antifungal drugs.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639076",
+    "title": "Neural and computational mechanisms underlying one-shot perceptual learning in humans.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639074",
+    "title": "Environmental and economic benefits of UHPFRC intervention in bridge management for the Swiss network.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639073",
+    "title": "Enhancing CAR- and TCR-mediated targeting of cancer via an immune synapse-stabilizing receptor.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639072",
+    "title": "Ampere-level CO",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639071",
+    "title": "A multivalent adaptor mechanism drives the nuclear import of proteasomes.",
+    "score": 1,
+    "analysed": true,
+    "classification": "Other"
+  },
+  {
+    "pmid": "41639070",
+    "title": "Sensory encoding and memory retrieval are coordinated with propagating waves in the human brain.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639068",
+    "title": "Regulating interfacial water for oxygen transfer to benzylic C(sp",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639067",
+    "title": "Electricity-free hydrogen production from the air.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639066",
+    "title": "Bell correlations between momentum-entangled pairs of ",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639061",
+    "title": "Global impacts of transportation infrastructure on forest degradation and loss.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639060",
+    "title": "Structuring light with flows.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639058",
+    "title": "Short-range order in high entropy carbides.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639057",
+    "title": "Retraction Note: Circular RNA circCTNNA1 promotes colorectal cancer progression by sponging miR-149-5p and regulating FOXM1 expression.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639056",
+    "title": "Engineering thin 3D Li-composite foil negative electrodes with high mechanical toughness.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639055",
+    "title": "Branched-chain amino acid specialization drove diversification within Calditenuaceae (Caldarchaeia) and enables their cultivation.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41639053",
+    "title": "DNA-PKcs orchestrates CTLA-4 depletion-induced senescence in cancer cells.",
+    "score": 2,
+    "analysed": true,
+    "classification": "Senescence"
+  },
+  {
+    "pmid": "41639051",
+    "title": "Miniature endoscope for high resolution electrophysiological recordings from the colon of live mice.",
+    "score": 1,
+    "analysed": true,
+    "classification": "Imaging"
+  },
+  {
+    "pmid": "41639049",
+    "title": "TGF\u03b2 signaling promotes cell cycle progression and resistance to the CDK4/6 inhibitor palbociclib through SOX4 transcriptional modulation in breast cancer cells.",
+    "score": 2,
+    "analysed": true,
+    "classification": "Cell Cycle"
+  },
+  {
+    "pmid": "41639048",
+    "title": "Advances and challenges in non-canonical nucleic acids data storage.",
+    "score": 1,
+    "analysed": true,
+    "classification": "Other"
+  },
+  {
+    "pmid": "41637687",
+    "title": "Survival Outcomes With or Without Risk-Reducing Mastectomy in ",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41637685",
+    "title": "Integrated Molecular Diagnosis Paving the Way for Therapeutic Success in Recurrent Astrocytoma Treatment.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41637683",
+    "title": "Integrating Electronic Patient-Reported Outcomes and Palliative Care in Pediatric Advanced Cancer: The PediQUEST Response Multisite Randomized Controlled Trial.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41637546",
+    "title": "ZNF395 Is a Hypoxia-Responsive Regulator of Mitochondrial Glutaminolysis in Clear Cell Renal Cell Carcinoma.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41637529",
+    "title": "Erratum for the Research Article \"Calmodulin inhibitors improve erythropoiesis in Diamond-Blackfan anemia\".",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41637528",
+    "title": "Chimeric antigen receptor T cells against the IGHV4-34 B cell receptor specifically eliminate neoplastic and autoimmune B cells.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41637527",
+    "title": "Phase 1 and preclinical studies reveal safety, pharmacokinetics, and efficacy of intranasal delivery of the influenza antibody CR9114.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41637526",
+    "title": "Sine oculis homeobox 1 drives endothelial dysfunction in preclinical pulmonary arterial hypertension.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41637525",
+    "title": "Small-molecule inhibition of YTHDC1 as a strategy against acute myeloid leukemia in mouse models.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41637524",
+    "title": "The E205D mutation in CYP6P3 drives pyrethroid insecticide resistance in the African malaria mosquito vector ",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41637523",
+    "title": "Kras G12C- and G12D-driven lung cancers differ in oncogenic potency, immunogenicity, and relapse after Kras inhibition in mouse models.",
+    "score": 1,
+    "analysed": true,
+    "classification": "Cancer Biology"
+  },
+  {
+    "pmid": "41637521",
+    "title": "Nanocollision promotes locomotion of dendritic cells for tumor therapy.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41637520",
+    "title": "Introgressed mitochondrial fragments from archaic hominins alter nuclear genome function in modern humans.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41637519",
+    "title": "Complex perishable technologies from the North American Great Basin reveal specialized Late Pleistocene adaptations.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41637518",
+    "title": "Optoacoustically augmented magnetic guidewire for radiation-free minimally invasive therapies.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41637517",
+    "title": "Fungal infection drives metabolic reprogramming in epithelial cells via aerobic glycolysis and an alternative TCA cycle shunt.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41637516",
+    "title": "School discipline disparities increase when neighborhood Black population changes.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41637515",
+    "title": "High-efficiency methane consumption by atmospheric methanotrophs in subsurface karst caves: The irrefutable methane sink.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41637514",
+    "title": "Photoinduced femtosecond spin-flip assisted by a single-mode linear phonon.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41637513",
+    "title": "OsRNS4-mediated cross-kingdom RNA interference is inhibited by ",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41637512",
+    "title": "Wildfire smoke PM",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41637511",
+    "title": "Discovery and preclinical evaluation of monoclonal antibodies and bispecific engagers targeting the NKG2A inhibitory receptor.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41637510",
+    "title": "Observation of super-ballistic Brownian motion in liquid.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41637509",
+    "title": "Hybrid female sterility due to cohesin protection errors in mouse oocytes.",
+    "score": 1,
+    "analysed": true,
+    "classification": "Other"
+  },
+  {
+    "pmid": "41637508",
+    "title": "Overcoming host restrictions to enable continuous passaging of GII.3 human norovirus in human intestinal enteroids.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41637507",
+    "title": "Oriented cell divisions induce basal progenitors and regulate neural expansion across tissues and species.",
+    "score": 1,
+    "analysed": true,
+    "classification": "Cell Cycle"
+  },
+  {
+    "pmid": "41637506",
+    "title": "Self-modifying percolation governs detachment in soft suction wet adhesion.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41637505",
+    "title": "Lunar chronology model with the Chang'e-6 farside samples and implications for the early impact history.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41637504",
+    "title": "Electrolyte design for aqueous batteries.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41637503",
+    "title": "The ocean's biological carbon pump under pressure.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41637502",
+    "title": "Interface-engineered plasmonic covalent organic framework nanofilms on TiO",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41637501",
+    "title": "Injury-induced electrochemical coupling triggers organ growth.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41637500",
+    "title": "Volcanism-induced collapse and recovery of the Atlantic meridional overturning circulation under glacial conditions.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41637499",
+    "title": "Hydrostatic pressure induces strong leakage of dissolved organic matter from \"marine snow\" particles.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41637498",
+    "title": "Stress ensemble in the BNST mediates comorbid anxiety and sleep disruption.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41637497",
+    "title": "Noninvasive photoacoustic computed mesoscopy for longitudinal brain imaging.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41637496",
+    "title": "Day-to-day fluctuations in cognitive precision predict the domain-general intention-behavior gap.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41637495",
+    "title": "Single-molecule localization microscopy reveals the molecular organization of endogenous membrane receptors.",
+    "score": 1,
+    "analysed": true,
+    "classification": "Imaging"
+  },
+  {
+    "pmid": "41637494",
+    "title": "In vivo functional profiling and structural characterization of the human ",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41637466",
+    "title": "An ecological model of vaginal dysbiosis provides new research leads.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41637173",
+    "title": "Rapid pronucleus assembly using cytoplasmic RNAs in fertilized eggs of ",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41637162",
+    "title": "Molecular features and clinical significance of Cancer-Associated Fibroblasts in colorectal cancer.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41637136",
+    "title": "High-Plasticity Cell State Drives Lung Cancer Progression and Drug Resistance.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41637132",
+    "title": "Single-cell transcriptomics of X-ray irradiated ",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41636820",
+    "title": "The role of lactate on arthritis-associated cells: physiology, pathology, and therapeutic strategies.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41636814",
+    "title": "Proximity labeling reveals non-catalytic interactions between DPP9 and ubiquitin signaling complexes.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41636792",
+    "title": "Targeting Tumor-Associated Macrophages and Cancer-Associated Fibroblasts to Overcome Therapeutic Resistance in Hepatocellular Carcinoma.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41636041",
+    "title": "TISSUE-SPECIFIC SPATIAL REGULATION OF INNATE IMMUNE CHECKPOINTS IN CANCER.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41636016",
+    "title": "Lipids challenge ligands to control receptors.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41635220",
+    "title": "AACR Pediatric Cancer Progress Report 2025.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41634689",
+    "title": "Stage dependent plasticity and the evolution of a non-obligate cave dwelling life cycle in frogs.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41634033",
+    "title": "Local alkalinity enables high-performance pure water anion exchange membrane electrolysis.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41633999",
+    "title": "Predator-prey temporal niche partitioning under human disturbance: a meta-analysis.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41556583",
+    "title": "The PI4K2A-OSBPL6/ORP6-PS axis mediates lysosomal membrane repair to restore neuronal lipid homeostasis and promote neuronal survival after spinal cord injury.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41342886",
+    "title": "FET-Rearranged Myoepithelial Tumors Are Clinically Heterogeneous and Epigenetically Distinct from PLAG1-Rearranged Adnexal and Salivary Gland Myoepithelial Tumors.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41342881",
+    "title": "Pancreatic Cancer Organoids Recapitulate Chemotherapy Response and Identify a Potent Cytotoxic T-Cell Population.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41335237",
+    "title": "A Phase Ib Study of Sapacitabine and Olaparib in Patients with BRCA1/2-Mutated Metastatic Breast Cancer.",
+    "score": 1,
+    "analysed": true,
+    "classification": "Genome stability"
+  },
+  {
+    "pmid": "41329840",
+    "title": "Repositioning GLP-1 Receptor Agonists in Endometrial Cancer: Molecular Rationale, Preclinical Insights, and Translational Opportunities.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41329478",
+    "title": "Facts and Hopes in Harnessing Macrophage-Mediated Antibody-Dependent Cellular Phagocytosis for Cancer Immunotherapy.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41329470",
+    "title": "Clinical Translation of Antibody Positron Emission Tomography for Cancer Imaging.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41324568",
+    "title": "Addition of Ipatasertib to Dual Anti-HER2 Maintenance Therapy in HER2-Positive Metastatic Breast Tumors with PIK3CA Mutations: The Phase Ib SOLTI-1507 IPATHER Trial.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41324567",
+    "title": "Associations of the HER2DX Genomic Test with Biological and Pathologic Features in HER2-Positive Breast Cancer.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41324566",
+    "title": "Tislelizumab and Hypofractionated Radiotherapy plus Nab-Paclitaxel/Gemcitabine as Conversion Therapy for BRPC/LAPC: A Phase II Trial with Dynamic Biomarker Monitoring.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41324555",
+    "title": "A Computational Pathology Model to Predict Docetaxel Benefit in Localized High-Risk and Metastatic Prostate Cancer.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41324553",
+    "title": "Automated Imaging as an Adjunct to Serum and Clinical Biomarkers: A New Validated Prediction Tool for Metastatic Castration-Resistant Prostate Cancer.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41269209",
+    "title": "HPV Integration in Head and Neck Cancer: Downstream Splicing Events and Expression Ratios Linked with Poor Outcomes.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41263694",
+    "title": "Accelerating Drug Development in Hormone-Na\u00efve Prostate Cancer through Multimodal Therapy Strategies: The MetaCURE Phase 2 Randomized Clinical Trial.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41263691",
+    "title": "Phase II Trial of Cabozantinib in Combination with Nivolumab for Advanced Extrapancreatic Neuroendocrine Tumors.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41252574",
+    "title": "Cergutuzumab Amunaleukin in Combination with Atezolizumab in Patients with Carcinoembryonic Antigen-Positive Advanced/Metastatic Solid Tumors.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41231131",
+    "title": "Ibrutinib and PD-1 Blockade Potentiate Mesothelin-Targeting CAR T-cell Therapy in Preclinical Models of Pancreatic Cancer.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41117857",
+    "title": "Long-term Survival and Molecular Biomarker Evaluation of a Phase II Cetuximab and Nivolumab Clinical Trial in Recurrent/Metastatic Head and Neck Cancer.",
+    "score": 0,
+    "analysed": true
+  },
+  {
+    "pmid": "41020769",
+    "title": "Glypican-3-Targeted PET Imaging for Precise Diagnosis of Hepatocellular Carcinoma: From Bench to Bedside.",
+    "score": 0
+  }
+]

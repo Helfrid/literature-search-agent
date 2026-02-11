@@ -1,0 +1,1325 @@
+[
+  {
+    "pmid": "41621421",
+    "title": "NHS England sets up world's first national genetic cancer risk register.",
+    "abstract": "",
+    "authors": "Wilkinson Emma",
+    "journal": "The Lancet. Oncology",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:17.442075"
+  },
+  {
+    "pmid": "41621420",
+    "title": "Lithuania introduces taxes on sugar-sweetened beverages.",
+    "abstract": "",
+    "authors": "Kirby Tony",
+    "journal": "The Lancet. Oncology",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:17.787251"
+  },
+  {
+    "pmid": "41617798",
+    "title": "Daily briefing: Brain-immune crosstalk worsens the damage of heart attacks.",
+    "abstract": "",
+    "authors": "Smith Jacob",
+    "journal": "Nature",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:18.134132"
+  },
+  {
+    "pmid": "41616782",
+    "title": "Human orbitofrontal neural activity is linked to obsessive-compulsive behavioral dynamics.",
+    "abstract": "Biomarkers of obsessive-compulsive disorder (OCD) symptom dynamics and related behavior could advance personalized interventions. Aberrant activity in the orbitofrontal cortex (OFC) has been implicated in symptom exacerbation in OCD. We conducted an intracranial monitoring assay to identify high-resolution neurophysiologic correlates of OCD symptoms in the human OFC. We found that low-gamma power in the anteromedial OFC was consistently elevated during high symptom states in a symptom provocation task. Furthermore, electrical stimulation of the ventral basal ganglia that reduced OCD symptoms also reduced anteromedial OFC gamma power. These results link OFC gamma activity to moment-to-moment expression of OCD symptoms, providing mechanistic insights to guide therapeutic strategies such as deep brain stimulation.",
+    "authors": "Nho Young-Hoon; Qiu Liming; Seilheimer Robert L; Campos Gustavo; Chang Andrew; Wang Zhengjia; Magnotti John F; Beauchamp Michael S; Barbosa Daniel A N; Horn Andreas; Williams Nolan R; Brown Lily A; Ganguly Taneeta M; Cristancho Mario; Pesaran Bijan; Oathes Desmond J; Miller Kai J; Scangos Katherine W; Halpern Casey H",
+    "journal": "Cell",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:18.475226"
+  },
+  {
+    "pmid": "41616781",
+    "title": "Sympathetic-epithelial crosstalk governs tissue-resident memory T cell immunosurveillance in the skin.",
+    "abstract": "Effective host defense and immunosurveillance at barrier tissues require coordinated functions of multiple cell types. Here, we show that in the skin, sympathetic nerves engage with epidermal keratinocytes to regulate the local density of tissue-resident memory CD8",
+    "authors": "Zhang Peng; Miao Juju; Yu Haoyue; Yu Hualin; Liu Chao; Zhao Luming; Yang Ping; Zhou Ting; Zhang Bing",
+    "journal": "Cell",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:18.820705"
+  },
+  {
+    "pmid": "41616780",
+    "title": "Molecular features of human pathological tau distinguish tauopathy-associated dementias.",
+    "abstract": "In Alzheimer's disease (AD), pathological tau protein shows a progressive accumulation of post-translational modifications (PTMs), reflecting disease severity, progression, and prion-like activity. Although many neurodegenerative diseases with dementia display tau aggregates, the pathological proteoforms of tau protein from each disease type remain unknown. Here, using a quantitative mass spectrometry-based proteomics platform, FLEXITau, deep characterization of pathological tau protein isolated from the brains of 203 human subjects with AD, familial AD (fAD), chronic traumatic encephalopathy (CTE), corticobasal degeneration (CBD), Pick's disease (PiD), progressive supranuclear palsy (PSP), dementia with Lewy bodies (DLB)-a non-tauopathy symptomatic control-and healthy controls (CTR) is performed. Unsupervised data analyses and supervised machine learning identify distinct molecular features of pathological tau for each disease, enabling molecular disease stratification. This study identifies potential disease-specific biomarkers and therapeutic targets for tauopathies and provides critical quantitative information for pharmacokinetic modeling required for therapeutic and disease mechanism studies.",
+    "authors": "Kumar Mukesh; Schlaffner Christoph N; Tang Shaojun; Beuvink Maaike A; Viode Arthur; Mair Waltraud; Jha Meenakshi; Uncu Ceren; Wesseling Hendrik; Wang Tian; Oakley Derek H; Beerepoot Pieter; Xue Jie; Connors Theresa R; Davis David A; Frosch Matthew P; Murray Melissa E; Spina Salvatore E; Grinberg Lea T; Seeley William W; Miller Bruce L; Boxer Adam L; Geschwind Daniel H; Kosik Kenneth S; Dickson Dennis W; Renard Bernhard Y; DeTure Michael; McKee Ann C; Hyman Bradley T; Steen Hanno; Steen Judith A",
+    "journal": "Cell",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:19.167163"
+  },
+  {
+    "pmid": "41616779",
+    "title": "Hallmarks of cancer-Then and now, and beyond.",
+    "abstract": "Cancer presents a remarkably instructive perturbation of mechanisms manifesting in our biology that have gone awry, eliciting a malady that is inexorably increasing in incidence and societal burden concomitant with healthier aging. The wealth of knowledge and data forthcoming from decades of cancer research can be organized into conceptually distinct but interconnected parametric dimensions that define the mechanistic foundation of the disease: aberrantly acquired functional capabilities (the hallmarks of cancer), enabling phenotypic characteristics, hallmark-conveying cells populating cancer microenvironments, and systemic interactions. Collectively, they provide a logical framework with which to illuminate the operating systems of these outlaw organs, from inception through multistage tumorigenesis to adaptive evolution. This review presents a concise synthesis of the hallmark conceptualization as it has been refined during the past 25 years, including a corollary hypothesis that mechanism-guided hallmark co-targeting could offer impactful new therapeutic strategies for treating human cancers.",
+    "authors": "Hanahan Douglas",
+    "journal": "Cell",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:19.512360"
+  },
+  {
+    "pmid": "41616775",
+    "title": "Dual targeting of SLC25A51 and succinate dehydrogenase selectively depletes mitochondrial NAD",
+    "abstract": "Acute myeloid leukemia (AML) arises from diverse mutations, yet its most aggressive drivers remain elusive. Here, we show that Kirsten rat sarcoma viral oncogene homolog (KRAS) mutations drive hyperproliferative and therapy-/glucose stress-resistant AML, whereas existing inhibitors lack sufficient cytotoxicity. Dual physiological/glucose-deprived screening identified compound 615 selectively eliminating KRAS-mutant cells through concurrently inhibiting succinate dehydrogenase (SDH) and the cytosol-to-mitochondrial NAD",
+    "authors": "Jia Ang; Zhang Xiaowen; Zhou Ji-Hao; Ma Yongcan; Wang Jing; Gong Yongbo; Song Wenjie; Hu Hangcheng; Yu Yufei; Yang Haixia; Lu Youli; Huang Linzhang; Du Xingrong; Chang Chunmei; Pei Shanshan; Li Peng; Jordan Craig T; Zhao Tong-Jin; Ye Haobin",
+    "journal": "Cell metabolism",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:19.855848"
+  },
+  {
+    "pmid": "41616774",
+    "title": "Emerging landscape of KRAS inhibitors in cancer treatment.",
+    "abstract": "Alterations in KRAS, NRAS, and HRAS occur in roughly 20% of patients with cancer, making RAS one of the most intensively studied oncogenic targets. The discovery of mutant-selective KRAS",
+    "authors": "Riedl Jakob M; Matsubara Hiroyuki; McNeil Reid; Patel Parasvi S; Fece de la Cruz Ferran; Gulhan Doga C; Corcoran Ryan B",
+    "journal": "Cancer cell",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:20.196505"
+  },
+  {
+    "pmid": "41616773",
+    "title": "Lymph node colonization induces tissue remodeling via immunosuppressive fibroblast-myeloid cell niches supporting metastatic tolerance.",
+    "abstract": "Lymph node (LN) colonization in cancer is linked to poor prognosis. Evidence suggests that LN colonization induces systemic immunosuppression, facilitating distant metastasis. We investigated LN-mediated immunosuppression in patients with head-and-neck cancer using spatial proteomics, spatial transcriptomics, and an in vivo model of melanoma LN metastasis. Both primary tumors and paired LNs of nodal-positive patients exhibit enhanced interferon-\u03b3 signaling and an enrichment of immunosuppressive myeloid cells and cancer-associated fibroblasts (calves). The spatial intersection of these myeloid-CAF-enriched niches with perifollicular T cell zones and LN follicles is linked to enhanced T cell dysfunction and Treg activation therein, thereby driving architectural LN remodeling. These immune suppressive changes extend to adjacent non-tumor-involved LN regions and nearby tumor-free LNs, but were not detected in LNs of non-cancer patients, reflecting a systemic effect that compromises anti-tumor immunity beyond the tumor-involved LN. Hence, our findings establish LN colonization as an active driver of systemic immunosuppression, facilitating metastatic progression.",
+    "authors": "Haist Maximilian; Baertsch Marc-A; Reticker-Flynn Nathan E; Lu Guolan; Kempchen Tim N; Chu Pauline; Vazquez Gustavo; Chen Han; Sunwoo John B; Zhang Weiruo; Laseinde Eyiwunmi; Adami Bonny; Zimmer Stefanie; Kaufman Justus; Le Quynh Thu; Gentles Andrew J; Kong Christina S; Plevritis Sylvia K; Goltsev Yury; Hickey John W; Nolan Garry P",
+    "journal": "Cancer cell",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:20.541963"
+  },
+  {
+    "pmid": "41616772",
+    "title": "AI for cancer treatment information: Can academia stay in the game?",
+    "abstract": "In this issue of Cancer Cell, Jun et al. developed a retrieval-augmented large language model linked to an academia-led molecular knowledge database, demonstrating how AI may deliver cancer treatment information without hallucination. It must compete for adoption amid a fast-paced, industry-led transformation in the flow of clinical information to patients.",
+    "authors": "Jee Justin; Zack Travis",
+    "journal": "Cancer cell",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:20.886742"
+  },
+  {
+    "pmid": "41616771",
+    "title": "A pair of interneurons that confer positive real-time valence to sweet sensation in Drosophila.",
+    "abstract": "Assigning valence-appeal or aversion-to gustatory stimuli and relaying it to higher-order brain regions to guide flexible behaviors is crucial to survival. Yet the neural circuits that transform taste into motivationally relevant signals remain poorly defined in any model system. In Drosophila melanogaster, substantial progress has been made in mapping the sensorimotor pathways encoding intrinsic valence for feeding and the architecture of the dopaminergic reinforcement system. However, where and how \"effective\" (i.e., real-time) valence is first imposed on a taste has long been a mystery. Here, we identified a pair of subesophageal zone interneurons in Drosophila, termed Fox, that impart reinforcing positive valence to sweet taste and convey this signal to the mushroom body, the fly's associative learning center. We show that Fox neuron activity is necessary and sufficient to drive appetitive behaviors and can override a tastant's intrinsic neutral or aversive valence without impairing taste quality discrimination. Furthermore, Fox neurons relay the positive valence to specific dopaminergic neurons that mediate appetitive memory formation. Our findings reveal a circuit mechanism through which effective valence is bestowed upon sweet sensation and transformed into a reinforcing signal that supports learned sugar responses. The Fox neurons form a convergent-divergent \"hourglass\" circuit motif, acting as a bottleneck for valence assignment and distributing motivational signals to higher-order centers. This architecture confers both robustness and flexibility in reward processing-an organizational principle that may generalize across species.",
+    "authors": "Christie Kevin William; Dadyala Tarandeep Singh; Sinakevitch Irina Troufakina; Chung Phuong; Ito Masayoshi; Shao Lisha",
+    "journal": "Current biology : CB",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:21.228607"
+  },
+  {
+    "pmid": "41616770",
+    "title": "Disrupted hippocampal replay is associated with reduced offline map stabilization in an Alzheimer's mouse model.",
+    "abstract": "Alzheimer's disease is characterized by progressive memory decline associated with hippocampal degeneration. However, the specific physiological mechanisms underlying hippocampal dysfunction in the disease remain poorly understood-improved knowledge may aid diagnosis and identify new avenues for therapeutic intervention. We investigated how disruptions in hippocampal reactivations relate to place cell stability and spatial memory deficits in an Alzheimer's mouse model. Using the App knockin mouse model NL-G-F, we conducted simultaneous behavioral and electrophysiological recordings in a radial arm maze. NL-G-F mice exhibited significant impairments in memory performance, demonstrated by an increased propensity to revisit arms, compared with wild-type controls. These memory deficits were associated with reduced stability of hippocampal place cells, which was particularly pronounced following rest periods. Crucially, although wild-type mice showed enhanced place cell stability after quiescence, NL-G-F mice failed to exhibit this consolidation. Although the rate of hippocampal reactivation events during rest remained unchanged, analysis of replay content revealed significantly degraded replay quality in NL-G-F mice. This degradation manifested as disrupted cell recruitment and reduced co-firing structure within reactivation events, both of which predicted the failure of offline place cell stabilization. Together, these findings suggest that compromised reactivation quality may underlie disruptions in offline consolidation processes, offering a potential mechanism for memory dysfunction in Alzheimer's disease.",
+    "authors": "Shipley Sarah; Abrate Marco P; Hayman Robin; Chan Dennis; Barry Caswell",
+    "journal": "Current biology : CB",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:21.573703"
+  },
+  {
+    "pmid": "41616766",
+    "title": "Mitigating xenogeneic barriers to chimerism through Cas13-induced host attenuation.",
+    "abstract": "Interspecies chimeras serve as valuable models for studying mammalian development and advancing strategies for organ generation. However, xenogeneic barriers-such as mismatched developmental timing, cell adhesion differences, and intercellular competition-restrict the contribution of human pluripotent stem cells (hPSCs) to non-human embryos. Here, we report that Cas13 collateral RNA cleavage can be harnessed to selectively attenuate host cell proliferation to boost donor cell chimerism. In mouse epiblast stem cells (mEpiSCs), Cas13 activation degraded target RNAs and bystander transcripts, producing a reversible decrease in cell proliferation while preserving pluripotency. In co-culture, selective attenuation of mEpiSCs enhanced the competitiveness and survival of wild-type mEpiSCs and hPSCs in both intra- and interspecies settings. In vivo, blastocysts engineered with inducible Cas13 (iCas13) showed increased donor cell integration in chimeric embryos and adult tissues. Together, these findings demonstrate a generalizable strategy to modulate donor-host dynamics and mitigate xenogeneic barriers to interspecies organogenesis.",
+    "authors": "He Bingbing; Lv Shijian; Li Leijie; Zhang Lin; Hu Yingying; Okamura Daiji; Huang Jia; Wu Jun",
+    "journal": "Developmental cell",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:21.918901"
+  },
+  {
+    "pmid": "41616458",
+    "title": "MYLK4 promotes colorectal cancer progression by regulating lipid metabolism reprogramming via targeting ferroptosis.",
+    "abstract": "The advancement of novel pharmaceuticals and targeted therapeutic approaches is considerably obstructed by the insufficient comprehension of the intricate pathophysiology of colorectal cancer (CRC). The therapeutic effectiveness of tyrosine kinase inhibitors (TKI)-based systemic treatment for advanced CRC is limited by medication resistance. Research has revealed that therapeutic strategies aimed at the myosin light chain kinase family member 4 (MYLK4) and its corresponding response element can suppress tumour proliferation and yield significant clinical advantages for cancer patients. This study reveals that MYLK4-mediated lipid metabolic reprogramming confers resistance to TKI-induced ferroptosis in CRC. MYLK4 directly interacts with tripartite motif containing 15 (TRIM15) in a way reliant on mouse double minute 2 homolog (MDM2), hence enhancing p53 ubiquitination and degradation. Significantly, p53 suppresses the transcription of stearoyl-CoA desaturase 1 (SCD1) through binding to its promoter. Elevated SCD1 levels correlate with increased MYLK4 levels, and their concurrent expression forecasts regorafenib resistance and poor prognosis in colorectal cancer. Regorafenib and SCD1 inhibitor (SCD1 inhibitor-3) co-treatment demonstrate promising anti-tumor efficacy in organoids and xenografted tumours derived from wild-type p53 colorectal cancer patients. Patients with colorectal cancer exhibiting elevated MYLK4 activity and wild-type p53 may derive clinical benefits from this combination therapy. These results suggest that MYLK4 may serve as a promising therapeutic target for the treatment of colorectal cancer.",
+    "authors": "Wang Bishi; Wu Kongxiu; Liu Xin; Shen Yuhai; Li Yanliang",
+    "journal": "Neoplasia (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:22.260335"
+  },
+  {
+    "pmid": "41616211",
+    "title": "Dual Targeting of TGF\u03b21 and PD-1 Is Safe and Tolerable in Solid Tumors.",
+    "abstract": "",
+    "authors": "",
+    "journal": "Cancer discovery",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:22.605540"
+  },
+  {
+    "pmid": "41615805",
+    "title": "PD-L1 is an intrinsic switch for natural killer cell-mediated, TRAIL-dependent antiviral function.",
+    "abstract": "Each year, influenza A virus (IAV) infection of the lung causes half a million deaths worldwide. Patients with compromised immunity experience distinct influenza pathogenesis; however, most IAV-related research is done with wild-type mice or people who are otherwise healthy. We utilize a model of immunocompromised recombination-activating gene 1 (Rag1)-knockout (KO) mice to discover natural killer (NK) cell activation and regulation mechanisms during IAV infection. The treatment of IAV-challenged Rag1-KO mice with a monoclonal antibody (mAb) targeting programmed death ligand 1 (PD-L1) triggers NK cell-intrinsic signaling of PD-L1 and significantly delays lethality. This treatment upregulates tumor necrosis factor-related apoptosis-inducing ligand on NK cells downstream of PD-L1 signaling and is required for the benefits of PD-L1 mAb treatment in IAV-challenged Rag1-KO mice. These results present a paradigm shift for understanding the innate immune response to respiratory virus infections, offering an alternative approach for therapeutic treatment of IAV infections in patients with compromised immunity.",
+    "authors": "Frank Kayla; Sharma Himani; Motakis Efthymios; Nourbakhsh Nooshin; Abeynaike Shawn; Huynh Tridu R; Jones Cheryl A; Johnson Scott K; Tompkins S Mark; Paust Silke",
+    "journal": "Cell reports",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:22.950807"
+  },
+  {
+    "pmid": "41615803",
+    "title": "Fn14 is an activity-dependent, Bmal1-regulated cytokine receptor that induces rod-like microglia and restricts neuronal activity in vivo.",
+    "abstract": "Cytokines and their receptors play important roles in brain development and aging-related disease, but their functions within the healthy adult brain remain poorly understood. Here, we show that pyramidal neurons in hippocampal CA1 induce Fn14 expression in response to activity and environmental enrichment. Once expressed, Fn14 dampens the activity of these neurons most prominently at the daily transition between light and dark. Fn14 expression in CA1 neurons is regulated by the circadian transcription factor Bmal1, and mice lacking Fn14 exhibit disrupted sleep-wake patterns in vivo. At the cellular level, microglia contact fewer excitatory synapses in the absence of Fn14, while neuronal overexpression of Fn14 induces rod-like microglia and recruits them to excitatory synapses. Beyond a homeostatic context, mice lacking Fn14 exhibit heightened susceptibility to chemically induced seizures. These findings reveal that pro-inflammatory cytokine receptors such as Fn14 can play major roles in healthy neurological function in the adult brain.",
+    "authors": "Ferro Austin; Vita Dominic J; Fallon Trevor; Arshad Anosha; Boyd Leah; Stanley Tess; Lin Qianyu; Berisha Adrian; Vrudhula Uma; Gomez Adrian M; Sanchez-Martin Irene; Borniger Jeremy C; Cheadle Lucas",
+    "journal": "Cell reports",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:23.295100"
+  },
+  {
+    "pmid": "41615802",
+    "title": "Systems mapping of intra-donor, cross-tissue T cell clonal expansion and tissue adaptation in the gut-liver-blood axis.",
+    "abstract": "The human gut-liver axis is a critical immunological interface, yet factors that shape T cell adaptation and clonal expansion across tissues remain unclear. We performed integrated single-cell RNA and T cell receptor sequencing on T cells from matched colon epithelium, lamina propria, liver, and blood of the same donors, enabling clonal tracking and tissue-specific transcriptional profiling without inter-individual confounders. Colonic intraepithelial lymphocytes were largely clonally distinct from lamina propria T cells. Tissue-resident T cells in colon vs. liver displayed marked transcriptional divergence, with colonic lamina propria tissue-resident memory T cells (TRMs) enriched for interferon-stimulated genes (e.g., ISG15 and IFITM3). Ligand-receptor analysis implicated liver-derived factors, including fibrinogen gamma chain, in shaping colon TRM states. Across tissues, highly expanded clones of the same cell type shared a core upregulated gene set, suggesting common determinants of clonal success. These data provide a same-donor single-cell atlas of T cell diversity and adaptation across the human gut-liver-blood axis.",
+    "authors": "Ran Ran; Uslu Merve; Siddiqui Mohd Farhan; Brubaker Douglas K; Trapecar Martin",
+    "journal": "Cell reports",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:23.638820"
+  },
+  {
+    "pmid": "41615801",
+    "title": "Leveraging current steering and the biophysics of spike generation for cellular-resolution electrical stimulation of neurons.",
+    "abstract": "Electrical stimulation at cellular resolution to restore the function of neural circuits is limited by the density of available electrode arrays. Although current steering with multi-electrode stimulation can be used to target cells between electrodes, it has not been proven for systematically targeting individual cells. We develop a framework for cellular-resolution current steering, leveraging the biophysics of electrically evoked spike generation, and test its efficacy in isolated macaque and human retina. Currents were passed through three electrodes simultaneously using large-scale high-density microelectrode arrays, directly evoking single spikes in retinal ganglion cells. The currents combined either linearly or nonlinearly to drive spiking, depending on the geometry of the electrodes relative to the cell. These findings were captured by a biophysical model and by a simpler parametric model in which spikes can initiate at several sites on the cell membrane and were leveraged to efficiently identify multi-electrode stimulation patterns that optimized cellular selectivity.",
+    "authors": "Vasireddy Praful K; Vilkhu Ramandeep S; Lotlikar Amrith; Brown Jeff B; Phillips A J; Gogliettino Alex R; Hays Madeline R; Baum Claire; Kato Ethan J; Sharon Aviv; Hottowy Pawel; Sher Alexander; Litke Alan M; Mitra Subhasish; Shah Nishal P; Chichilnisky E J",
+    "journal": "Cell reports",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:23.982595"
+  },
+  {
+    "pmid": "41615796",
+    "title": "HRD1 negatively regulates autolysosome formation by inhibiting liquid-liquid phase separation of SNAP29.",
+    "abstract": "Autophagy is a highly conserved cellular process in which cytoplasmic contents are sequestrated by autophagosomes and delivered to lysosomes for degradation. Generation of degradative autolysosomes mediated by SNARE proteins is essential; however, the regulatory mechanisms governing this process remain underexplored. This study aimed to demonstrate that E3 ubiquitin ligase HRD1 regulates liquid-liquid phase separation (LLPS) of SNAP29, thereby modulating SNARE assembly. We found that HRD1 deficiency enhances autophagy activity and promotes autolysosome formation in a SNAP29-dependent manner. We also determined that SNAP29 forms highly dynamic condensates in in vivo and in vitro, which are crucial for the assembly of the SNARE complex. Mechanistically, HRD1 interacts with SNAP29 to suppress its condensation, whereas HRD1 depletion accelerates both SNAP29 condensate formation and SNARE complex assembly. Our findings reveal that HRD1 acts as a negative regulator in autolysosome formation by interacting with SNAP29, inhibiting its LLPS process, thereby modulating the binding affinity among SNARE components.",
+    "authors": "Qu Wenyan; Chen Di; Zhao Hongyu; Sheng Qiang; Wang Juan; Shen Yujun; Shen Yuxian",
+    "journal": "Cell reports",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:24.327999"
+  },
+  {
+    "pmid": "41612599",
+    "title": "Kitasamycin overcomes ferroptosis and immunotherapy resistance by targeting the HUWE1-NCOA4-FTH1 Axis.",
+    "abstract": "Clinicians typically avoid antibiotics use during immunotherapy due to concerns about reduced efficacy. However, cancer patients requiring antibiotics postoperatively or for infections urgently need options that provide antimicrobial coverage while potentially enhancing, rather than impairing, immunotherapy. Restoring ferroptosis susceptibility represents a promising strategy to overcome immunotherapy resistance, yet the role of antibiotics in modulating ferroptosis and interacting with immunotherapy remains unexplored. In this study, we screened 96 FDA-approved antibiotics across seven pharmacological classes and identified the macrolide kitasamycin as a specific and potent ferroptosis sensitizer in vitro and in vivo. Mechanistically, kitasamycin competitively bound to HUWE1, inhibiting its E3 ubiquitin ligase activity, which stabilized NCOA4 and activated the NCOA4-FTH1 ferritinophagy axis. Single-cell transcriptomics, flow cytometry, and multiplex immunohistochemistry revealed that kitasamycin induced immunogenic ferroptosis and reshaped anti-tumor T-cell immunity. Critically, kitasamycin potentiated immune checkpoint blockade (ICB)-mediated ferroptosis and overcame ICB resistance across multiple preclinical melanoma models, including B16F10 subcutaneous tumors, BRAF-PTEN-driven spontaneous tumors, and human sourced peripheral blood mononuclear cells (HsPBMCs)-humanized mouse models. Clinically, a high NCOA4, low HUWE1 signature correlated with ferroptosis activation, increased T-cell infiltration, and improved survival in ICB-treated patients, suggesting its potential as a predictive biomarker. Our findings positioned kitasamycin as a promising adjunct to immunotherapy for cancer patients requiring concurrent antibiotic therapy. ",
+    "authors": "Li Daishi; Dian Yating; Li Linfeng; Du Songtao; Meng Yu; Yao Lei; Zhou Qian; Xiong Yixiao; Sun Yuming; Su Hui; Li Yayun; Guo Ziyu; Ge Yi; Liu Sitao; Zeng Furong; Chen Xiang; Lu Lixia; Su Juan; Deng Guangtong",
+    "journal": "Autophagy",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:24.672200"
+  },
+  {
+    "pmid": "41612594",
+    "title": "PRKAB2 as a tumor suppressor in renal cell carcinoma: inhibiting mitophagy via the LRPPRC-PRKN/parkin interaction and cardiolipin biosynthesis.",
+    "abstract": "Renal cell carcinoma (RCC) is characterized by dysregulated lipid metabolism and a high propensity for developing resistance to targeted therapies. Mitophagy is a key process involved in the progression of various cancers, including RCC. Here, using ",
+    "authors": "Chen Kailei; Zhang Yuanpeng; Ruan Hailong; Wei Zhihao; Wang Keshan; Cao Qi; Wang Qi; Dong Zirui; Wu Yilong; Yang Hongmei; Liu Lei; Liu Yuenan; Zhang Xiaoping",
+    "journal": "Autophagy",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:25.027737"
+  },
+  {
+    "pmid": "41612592",
+    "title": "Newcastle disease virus hijacks mitophagy to reprogram amino acid metabolism for enhanced replication.",
+    "abstract": "Mitochondria serve as the cellular \"power plants,\" supplying energy and regulating metabolism, signal transduction, and other physiological processes. To successfully replicate within host cells, viruses have evolved multiple strategies to hijack mitochondrial functions. The oncolytic Newcastle disease virus (NDV) causes severe organelle damage in tumor cells; however, how it manipulates mitochondrial architecture to facilitate its own replication remains poorly understood. Here, we provide evidence that NDV infection disrupts mitochondrial spatial distribution and imbalances mitochondrial fusion and fission, leading to mitochondrial structural damage. The resulting accumulation of fragmented mitochondria is cleared via PRKN-dependent mitophagy, a process that supports NDV replication. Interestingly, although MAVS (mitochondrial antiviral signaling protein) is degraded along with mitophagy, genetic ablation of PRKN - while blocking MAVS degradation - does not restore downstream innate immune responses. This indicates that NDV exploits mitophagy to enhance replication through mechanisms not entirely dependent on the suppression of MAVS-mediated immunity. Given the central role of mitochondria, we further explored the link between amino acid metabolism and viral proliferation after NDV infection. Our results show that NDV-induced mitophagy leads to the accumulation of free amino acids in host cells, and this metabolic reprogramming promotes viral replication. In summary, we show that NDV drives its replication by remodeling mitochondrial dynamics to induce mitophagy, which in turn triggers an amino acid metabolic reprogramming that benefits the virus. This provides new insights into the mechanisms supporting efficient oncolytic NDV replication, offering potential avenues for therapeutic intervention in oncolytic virus therapy.",
+    "authors": "Qu Yang; Ren Shanhui; Liao Ying; Qiu Xusheng; Tan Lei; Song Cuiping; Sun Yingjie; Ding Chan",
+    "journal": "Autophagy",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:25.373040"
+  },
+  {
+    "pmid": "41612313",
+    "title": "Energy metabolism and adaptation to hypoxia in the non-photosynthetic green alga Leontynka.",
+    "abstract": "Leontynka is a non-photosynthetic lineage of the order Chlamydomonadales (Chlorophyta). Although many Chlamydomonadales members encode components of the anaerobic energy metabolism, studies focused on Chlamydomonadales algae thriving in hypoxia and not prospering in oxic conditions are missing. Using a combination of experimental approaches, comparative genomics, and advanced in silico protein localization analyses, we employed Leontynka as a model to investigate the evolution of anaerobiosis in Chlamydomonadales.\nLeontynka spp. accumulate a wide range of storage forms, enabling them to cope with nutritional stresses. Their mitochondria contain well-developed cristae mediating a conventional aerobic energy metabolism. Moreover, colocalization of a Raman signal for cytochromes with the position of mitochondria in the cell indicates that oxidative phosphorylation is an important route of energy metabolism in the alga. Interestingly, Leontynka spp. concentrate enzymes potentially involved in oxygen-independent ATP synthesis within the plastid, which lost the ability to produce ATP using proton gradient generated by membrane complexes that exploit redox reactions. We analyzed the composition of prokaryotic communities co-isolated with Leontynka spp. and hypothesize that their preference for hypoxic/microoxic conditions is facilitated by metabolic interactions with certain microaerophilic and anaerobic bacteria.\nThis study represents the first comprehensive analysis of microaerophilic Chlamydomonadales algae. Having retained several ancestral enzymes of the anaerobic energy metabolism, Leontynka represents a unique vantage point for understanding the evolution of the hydrogen production machinery and adaptations to low oxygen in Chlamydomonadales (and core chlorophytes in general). Our findings suggest that the plastid of non-photosynthetic Leontynka follows a similar evolutionary path as mitochondria when adapting to anaerobiosis and parallels the transition of a mitochondrion into a hydrogenosome.",
+    "authors": "Corre Pia; Pil\u00e1tov\u00e1 Jana; B\u00edl\u00fd Tom\u00e1\u0161; Zadrob\u00edlkov\u00e1 Eli\u0161ka; \u010cepi\u010dka Ivan; Vancov\u00e1 Marie; Lohr Martin; Caspari Oliver D; Eli\u00e1\u0161 Marek; P\u00e1nek Tom\u00e1\u0161",
+    "journal": "BMC biology",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:25.718679"
+  },
+  {
+    "pmid": "41612263",
+    "title": "Major transitions in early coral development: novel insights enabled by visualisation of a comprehensive transcriptomic dataset for Acropora millepora.",
+    "abstract": "Given the ecological importance of reef-building corals (Scleractinia), it is perhaps surprising that the molecular mechanisms underlying many of the morphological and metabolic changes during their development remain unclear. In part, this is due to the lack of a comprehensive transcriptomic dataset for any coral. A second challenge in the analysis of such non-model developmental datasets is that the volume of data often complicates its interpretation.\nTo overcome these limitations, we profiled gene expression in Acropora millepora across 26 life stages from unfertilised eggs to juvenile polyps and developed an interactive online tool based on the R-application Shiny to simultaneously visualise changes in the expression of large numbers of genes. As expected, major transcriptomic changes (transitions) occurred during gastrulation and the acquisition of competence. Surprisingly, however, settlement triggered by using an extract of the natural inducing crustose coralline alga did not immediately lead to major changes in gene expression, but a major transition involving many genes was observed 3-6\u00a0h after settlement induction.\nWe hope that providing access to this extensive developmental transcriptome dataset and software to facilitate its analysis will expedite a better understanding of the changes that occur during coral development. The online tool is available at https://amil-deview.mmb.group.",
+    "authors": "Brunner Ramona; Grinblat Mila; Moya Aurelie; Foret Sylvain; Hayward David C; Lapeyre Bruno; Ball Eldon E; Cooke Ira; Miller David J",
+    "journal": "BMC biology",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:26.063374"
+  },
+  {
+    "pmid": "41612022",
+    "title": "Longevity is in the genes: half of lifespan is heritable.",
+    "abstract": "",
+    "authors": "Kozlov Max",
+    "journal": "Nature",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:26.408623"
+  },
+  {
+    "pmid": "41612019",
+    "title": "This AI has chemical expertise - and helps synthesize 35 new compounds.",
+    "abstract": "",
+    "authors": "Extance Andy",
+    "journal": "Nature",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:26.752771"
+  },
+  {
+    "pmid": "41612018",
+    "title": "ArXiv says submissions must be in English: are AI translators up for the job?",
+    "abstract": "",
+    "authors": "Jones Nicola",
+    "journal": "Nature",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:27.097750"
+  },
+  {
+    "pmid": "41612017",
+    "title": "48 hours without lungs: artificial organ kept man alive until transplant.",
+    "abstract": "",
+    "authors": "Fieldhouse Rachel",
+    "journal": "Nature",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:27.442101"
+  },
+  {
+    "pmid": "41612016",
+    "title": "Five ways to make the academic workplace happier and healthier this year.",
+    "abstract": "",
+    "authors": "G Sa\u011f\u0131n Ferhan; A Harris Robert",
+    "journal": "Nature",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:27.785593"
+  },
+  {
+    "pmid": "41612000",
+    "title": "Targeted inhibition of FBXL2 confers susceptibility of HER2-negative breast cancer to trastuzumab deruxtecan.",
+    "abstract": "Trastuzumab deruxtecan (T-DXd), an anti-HER2-drug conjugate, has transformed treatment for HER2-expressing solid tumors. However, heterogeneous intratumoral HER2 expression, particularly high densities of HER2-immunohistochemistry score 0 (HER2-IHC 0) cells, limits its clinical efficacy. Here, we discovered that targeted inhibition of F-box protein FBXL2 elevates HER2 expression on the plasma membrane of HER2-IHC 0 triple-negative breast cancer (TNBC) cells, thereby sensitizing them to T-DXd. Mechanistically, FBXL2 promotes HER2 polyubiquitination at K747 and proteasomal degradation. Notably, small molecules GGTi-2418 and ketoconazole effectively elevate HER2 expression via blocking FBXL2 membrane localization. We further developed lipid nanoparticles (LNPs) to encapsulate GGTi-2418 and ketoconazole, enabling their enrichment in TNBC tumors. Strikingly, GGTi-2418@LNP or ketoconazole@LNP combined with T-DXd induced robust and durable tumor regression in HER2-IHC 0 TNBC xenograft models in female mice. Together, this study highlights that targeted inhibition of FBXL2 combined with T-DXd may be a viable therapeutic strategy for treating HER2-IHC 0 solid tumors.",
+    "authors": "Xu Jing; Liu Jing; Liu Yang; Huang Ting; Yi Yong; Bai Ruixiao; Zheng Haorui; Chen Xiaoli; Gao Jiexin; Lian Xin; Guo Rongtian; Xu Chuan; Li Qintong; Zhang Yujun; Cao Yang; Mi Peng; Xiao Zhi-Xiong Jim; Niu Mengmeng",
+    "journal": "Nature cancer",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:28.132714"
+  },
+  {
+    "pmid": "41611999",
+    "title": "Preventing HER2 degradation improves efficacy of trastuzumab deruxtecan.",
+    "abstract": "",
+    "authors": "Lewis Gail D",
+    "journal": "Nature cancer",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:28.477525"
+  },
+  {
+    "pmid": "41611998",
+    "title": "Neoadjuvant PD-1 blockade in surgically resectable desmoplastic melanoma: cohort A of the phase 2 SWOG S1512 trial.",
+    "abstract": "The phase 2 SWOG S1512 trial ( NCT02775851 ) was designed to evaluate the response to pembrolizumab (anti-PD-1) in individuals with desmoplastic melanoma. Here we report the results of cohort A of the trial, evaluating the pathological complete response (pCR) rate of neoadjuvant PD-1 blockade in surgically resectable desmoplastic melanoma. Secondary endpoints included clinical response rate, overall survival and toxicities. Twenty-eight eligible individuals with resectable desmoplastic melanoma received intravenous pembrolizumab (200\u2009mg) every 3 weeks three times, followed by excision. Tissue samples before treatment, at 3-5 weeks after treatment initiation and at the time of surgery were reviewed. The primary endpoint of pCR rate by local pathological review was 71% (95% confidence interval, 51-87%; P\u2009<\u20090.001), which met the prespecified endpoint. There were two (7%) grade 3 treatment-related adverse events. At three years of follow-up, four participants have died, none known to be from melanoma or adverse events. In conclusion, neoadjuvant pembrolizumab in individuals with resectable desmoplastic melanoma results in a high pCR rate with acceptable safety profile. Clinicaltrials.gov: NCT02775851 .",
+    "authors": "Kendra Kari L; Bellasea Shay L; Eroglu Zeynep; Hu-Lieskovan Siwen; Campbell Katie M; Carson William E; Wada David A; Plaza Jose A; In Gino K; Ikeguchi Alexandra; Hyngstrom John; Brohl Andrew S; Chmielowski Bartosz; Khushalani Nikhil I; Markowitz Joseph; Monroe Marcus; Contreras Carlo M; Bowles Tawnya; Norman Kurt; Medina Egmidio; Gonzalez Cynthia R; Baselga-Carretero Ignacio; Garcilazo Ivan Perez; Vega-Crespo Agustin; Chen Jia Ming; Deen Nataly Naser Al; Patel Sapna P; Grossmann Kenneth F; Sondak Vernon K; Sharon Elad; Moon James; Wu Michael C; Ribas Antoni",
+    "journal": "Nature cancer",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:28.821391"
+  },
+  {
+    "pmid": "41611989",
+    "title": "Fasting-mimicking diet induces IFN\u03b2 secretion in tumor-associated macrophages via NRF1-mediated ubiquitin-dependent proteolysis of Trex1.",
+    "abstract": "Fasting-mimicking diet (FMD) is a safe and effective strategy in clinical oncology via metabolically restricting tumour growth and remodelling the immunity. To date, few studies have investigated the impact of on tumour-associated macrophages (TAMs), which are a crucial component of immune cells in the tumour microenvironment. Fasting can induce the ubiquitin-proteasome system (UPS) to regulate intracellular protein turnover homoeostasis, while Nuclear Factor Erythroid 2-like 1 (NRF1; encoded by the gene Nfe2l1), which controls proteasome gene transcription, may potentially be induced by fasting. However, whether NRF1 is induced by FMD/fasting, and how NRF1-mediated protein turnover works on TAMs remain unknown. This study investigated the hypothesis that FMD activates the anti-tumour immunity of TAMs by ubiquitinated protein metabolism.\nSubcutaneous MC38 tumour models were established in WT and myeloid-specific NRF1 knockout (Mye-NFE2L1\nFMD/fasting triggers interferon-\u03b2 (IFN\u03b2) secretion in TAMs, which is driven by protein metabolism. In TAMs with FMD, an initial accumulation of ubiquitinated proteins occurs concomitantly with the induction of NRF1 in response to fasting-induced energy stress, leading to the ubiquitin/proteasome-dependent proteolysis of the three prime repair exonuclease 1 (Trex1) through UPS. Such a process engages type I interferon responses, which derepress the cGAS-Sting-IFN\u03b2 axis to promote anti-tumour effects of TAMs. In the absence of NRF1, Trex1 accumulates due to impaired UPS and binds to mtDNA, disrupting cGAS sensing of mtDNA to inhibit IFN\u03b2 secretion in TAMs, which attenuates anti-tumour effects of FMD/fasting.\nIn this study, we revealed for the first time that FMD/fasting coordinates NRF1-UPS and Trex1/Sting-mediated type I interferon responses in TAMs that contribute to suppressing tumour growth. Graphical abstract: FMD upregulates the entry of NRF1 into the TAM nucleus to promote gene expression of proteasome subunits, which induces the ubiquitin/proteasome-dependent proteolysis of Trex1, leading to derepression of the cGAS-Sting-IFN\u03b2 axis. On the other hand, FMD triggers increasing of mtDNA in TAMs, promoting the cGAS-Sting-IFN\u03b2 axis to release IFN\u03b2. In myeloid NRF1 knockout TAMs, transcriptional levels of proteasome subunits are reduced, resulting in impaired proteolysis of Trex1 and its subsequent accumulation during fasting. Then, Trex1 binds to mtDNA, directing the inhibition of the cGAS-Sting-IFN\u03b2 axis and inhibiting IFN\u03b2 secretion of macrophages.",
+    "authors": "Li Jiakun; Jiang Wenjiao; Tu Guowei; Zhong Ziwen; Luo Zhe; Horng Tiffany; Miao Changhong",
+    "journal": "British journal of cancer",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:29.168820"
+  },
+  {
+    "pmid": "41611890",
+    "title": "Organelles stick together through PDZD8-mediated condensate formation.",
+    "abstract": "",
+    "authors": "Heinke Lisa",
+    "journal": "Nature reviews. Molecular cell biology",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:29.516845"
+  },
+  {
+    "pmid": "41611888",
+    "title": "Author Correction: Hunter-gatherer sea voyages extended to remotest Mediterranean islands.",
+    "abstract": "",
+    "authors": "Scerri Eleanor M L; Blinkhorn James; Groucutt Huw S; Stewart Mathew; Candy Ian; Allu\u00e9 Ethel; Burguet-Coca Aitor; Curr\u00e1s Andr\u00e9s; Carleton W Christopher; Lindauer Susanne; Spengler Robert; Boxleitner Kseniia; Asciak Gillian; Colucci Margherita; Gauci Ritienne; Hatton Amy; Kutowsky Johanna; Maier Andreas; Mata-Gonz\u00e1lez Mario; Mifsud Nicolette; Niang Khady; Roberts Patrick; de Giorgio Joshua; Xerri Rochelle; Vella Nicholas C",
+    "journal": "Nature",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:29.862268"
+  },
+  {
+    "pmid": "41611887",
+    "title": "Developmental convergence and divergence in human stem cell models of autism.",
+    "abstract": "Two decades of genetic studies in autism spectrum disorder (ASD) have identified more than 100 genes\u00a0harbouring rare risk mutations",
+    "authors": "Gordon Aaron; Yoon Se-Jin; Bicks Lucy K; Mart\u00edn Jacqueline M; Pintacuda Greta; Arteaga Stephanie; Wamsley Brie; Guo Qiuyu; Elahi Lubayna; Dolmetsch Ricardo E; Bernstein Jonathan A; O'Hara Ruth; Hallmayer Joachim F; Lage Kasper; Pasca Sergiu P; Geschwind Daniel H",
+    "journal": "Nature",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:30.207340"
+  },
+  {
+    "pmid": "41611885",
+    "title": "Brain endothelial spheroids and cortical organoids reveal the impact of Toxoplasma gondii lineage and host-phagocyte-pathogen interactions on colonization.",
+    "abstract": "Toxoplasma gondii chronically infects the central nervous system (CNS), but the mechanisms enabling its traversal of the blood-brain barrier (BBB) remain unclear. Here, we investigated BBB penetration using brain endothelial spheroids and cerebral tissue-derived organoids that recapitulate three-dimensional barrier features. We show that T. gondii tachyzoites efficiently colonize spheroids, without detectable barrier disruption or obligatory parasite replication. Following direct transmigration, tachyzoites invaded and replicated within deeper cell layers. Type I strains (RH, CPS) exhibited higher colonization efficiency than type II strains (PRU, ME49), independent of replication. In contrast, when spheroids were exposed to T. gondii-infected dendritic cells (DCs), both strain types were transported similarly into deep cellular layers. Infected DCs adopted an amoeboid-like migratory phenotype that facilitated parasite transport and subsequent dissemination after egress. Colonization was attenuated by ICAM-1 blockade or heparin treatment, while the parasite effector GRA15, despite modulating DC-endothelial adhesion, did not significantly impact intratissue migration. In contrast, deletion of the effector TgWIP markedly reduced the number of infected DCs entering the spheroids. Similar colonization dynamics were observed in murine cerebral organoids. Collectively, these findings highlight spheroid and organoid models as robust systems for uncovering the cellular and molecular mechanisms underlying T. gondii BBB traversal and CNS colonization.",
+    "authors": "Rodriguez Matias E; Afanaseva Elena; Hassan Ali; Harryson-Oliveberg Felix; Barragan Antonio",
+    "journal": "Cellular and molecular life sciences : CMLS",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:30.551262"
+  },
+  {
+    "pmid": "41611844",
+    "title": "Phosphorylation-dependent STAMBP drives the progression of pancreatic ductal adenocarcinoma by deubiquitinating and stabilizing BAG3.",
+    "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is a highly aggressive cancer that is usually diagnosed at a late stage and has a modest clinical response and poor prognosis. Therefore, identifying targets for the effective treatment of PDAC is particularly important. STAM-binding protein (STAMBP) is a JAMM metalloprotease of the deubiquitinase (DUB) family that typically regulates the stabilization and trafficking of substrates in a range of cell types by specifically removing ubiquitin chains. However, its roles in the initiation and progression of PDAC remain unclear. Here, we found that STAMBP is highly expressed in PDAC and is associated with a poor prognosis. STAMBP facilitates the proliferation and migration of PDAC cells and the growth of pancreatic cancer xenograft tumours in mice. We then identified the cochaperone BAG3, which plays a pivotal role in tumourigenesis, as a potential substrate of STAMBP using mass spectrometry (MS). Mechanistically, STAMBP interacts with BAG3 and promotes its stabilization by removing its K63-linked polyubiquitin chains. The Lys29 and Lys60 residues of BAG3 are essential for the K63-linked ubiquitination of BAG3. Moreover, a phosphorylation-dependent mechanism of STAMBP was identified as follows: STAMBP is phosphorylated by IKK\u03b1 at Ser2 without affecting STAMBP protein abundance, and this phosphorylation enables it to deubiquitinate BAG3. In addition, we found that STAMBP deficiency effectively increases cisplatin/oxaliplatin sensitivity in PDAC. Overall, IKK\u03b1 phosphorylates STAMBP at Set 2, which activates STAMBP to deubiquitinase BAG3, thus resulting in an IKK\u03b1/STAMBP/BAG3 signaling axis that promotes PDAC progression. STAMBP might serve as a potential therapeutic target for PDAC therapy.",
+    "authors": "Shi Yongkang; Gong Jun; Chen Lin; Zhou Min; Pan Shutao; Yin Taoyuan; Zhao Chunle; Liu Yuhui; Zhang Zhenxiong; Bai Yu; Liao Yangwei; Xia Qilong; Wang Min; Qin Renyi",
+    "journal": "Cell death and differentiation",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:30.896358"
+  },
+  {
+    "pmid": "41611843",
+    "title": "A tale of two tags: UFMylation counters ubiquitination for ciliary homeostasis.",
+    "abstract": "",
+    "authors": "Pruneda Jonathan N; Damgaard Rune Busk",
+    "journal": "Cell death and differentiation",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:31.239872"
+  },
+  {
+    "pmid": "41611842",
+    "title": "Loss of BOK increases vulnerability of p53 deficient non-small cell lung cancer cells to ATR inhibition through its role in uridine metabolism.",
+    "abstract": "BOK is a pro-apoptotic member of the BCL-2 family frequently repressed in cancer and with emerging roles beyond apoptosis. BOK interacts with and increases uridine monophosphate synthetase (UMPS) activity, thereby promoting uridine monophosphate (UMP) synthesis. We previously showed that BOK protein is downregulated in primary human lung cancer samples, correlating with poorer patient survival. Here, we demonstrate that BOK deficiency increases DNA damage, triggering p53 activation and cell cycle arrest in two independent non-small cell lung cancer (NSCLC) cell models that express either WT or defective p53. In a p53-deficient setting, BOK loss caused elevated baseline DNA damage rendering cells more dependent on alternative DNA repair pathways. We exploited this vulnerability by inhibiting the ATR-mediated DNA damage response pathway with the selective ATR inhibitor ceralasertib (AZD6738). ATR inhibition in BOK/p53 compound-deficient NSCLC cells exacerbated DNA damage and induced cell death, indicating a synthetic lethal interaction. The DNA damage in BOK-deficient cells was rescued by a cell permeable BOK-BH3-derived peptide, confirming the mechanistic link between BOK and UMPS. Taken together, our findings reveal a vulnerability in NSCLC, where combined loss of p53 and BOK sensitises cells to ATR inhibition. This synthetic interaction suggests that p53-deficient tumours with reduced BOK expression may be more reliant on ATR-mediated DNA repair, providing a mechanistic basis for their susceptibility to ATR inhibitors. Given the frequent inactivation of p53 in lung cancer, our study offers a rationale for clinical exploration of ATR inhibitors, in combination with standard chemotherapy, in the context of reduced BOK function. Future investigations into the broader role of BOK in genomic stability and nucleotide metabolism may uncover additional therapeutic strategies for cancers with repressed BOK.",
+    "authors": "JeanRichard Philippe; Ananthanarayan Aparna; Wu Liyang; Jazaeri Jouneghani Ali; Bachmann Daniel; Kaufmann Thomas",
+    "journal": "Cell death and differentiation",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:31.584628"
+  },
+  {
+    "pmid": "41611736",
+    "title": "Bioinspired triboelectric droplet sensor for ammonia monitoring.",
+    "abstract": "Gas sensors with fast response are in high demand for environmental and health applications. Conventional solid-state sensing materials are inherently constrained by response delays arising from chemical bond transformations, posing significant challenges in overcoming response time lag. In this work, inspired by the alveoli of our respiratory system, we develop a triboelectric nanogenerator probe sensor driven by the formation of water droplets containing an air cavity, which incorporates NH",
+    "authors": "Liu Tao; Li Xuedi; He Huanjie; Yu Kang; Zhang Song; Ye Ziyi; Cui Xue; Luo Bin; Liu Yanhua; Chi Mingchao; Wang Jinlong; Cai Chenchen; Wang Shuangfei; Nie Shuangxi",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:31.929346"
+  },
+  {
+    "pmid": "41611731",
+    "title": "A molecularly defined basalo-prefrontal-thalamic circuit regulates sensory and affective dimensions of pain in male mice.",
+    "abstract": "Both the medial prefrontal cortex (mPFC) and thalamus have been implicated in pain regulation. However, the roles of the mPFC-thalamus connection in pain and how the mPFC modulates nociceptive processing remain unclear. Here, we show that the mPFC neurons projecting to thalamus, marked by Foxp2 expression, are deactivated in both acute and chronic pain in male mice. Persistent inactivation of the mPFC Foxp2",
+    "authors": "Xie Guoguang; Liu Yiqiong; Qi Xuetao; Bhattacherjee Aritra; Zhang Chao; Zhang Yi",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:32.274476"
+  },
+  {
+    "pmid": "41611719",
+    "title": "Rochelle salt-based biodegradable piezoelectric devices for nerve regeneration and intestinal motility monitoring.",
+    "abstract": "Piezoelectric materials provide a unique platform for bioelectronic interfaces, enabling dynamic sensing and electroactive therapies through bidirectional transduction between biomechanical and bioelectrical signals. However, the development of bioresorbable piezoelectric materials that combine high functional performance with mechanical compliance remains a critical challenge for seamless integration with soft biological tissues, while eliminating the need for retrieval surgeries and long-term material retention. Here, we report a bioresorbable, flexible piezoelectric composite composed of Rochelle salt (RS) crystals embedded within poly(L-lactic acid) (PLLA) nanofibers. Fabricated via electrospinning and uniaxial compression, centimeter-scale biodegradable nanofiber films are achieved, exhibiting excellent effective piezoelectric coefficient of 43.1 pC\u00a0N",
+    "authors": "Dai Fanqi; Cheng Haofeng; Qi Hui; Cai Honglai; Aziz Abdul; Su Tianqi; Guan Yanjun; Cui Yuhui; Meng Jingwei; Deng Handi; Wu Qianxi; Jie Yongsheng; Chen Lei; Wang Sixu; Feng Tianyi; Li Wei; You Fei; Liu Shengnan; Yu Bingbing; Yang Can; Peng Jiang; Sheng Xing; Li Jing-Feng; Zhang Milin; Li Qian; Ma Cheng; Tian Lei; Zhang Jun; Wang Yu; Yin Lan",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:32.619895"
+  },
+  {
+    "pmid": "41611718",
+    "title": "Plant diversity within communities, not among them, stabilizes grassland productivity across spatial scales.",
+    "abstract": "Evidence shows that local functional trait composition and diversity along the fast-slow leaf economics spectrum can predict the temporal stability of community productivity in response to environmental changes. However, it remains unclear whether these relationships persist at larger spatial scales. Combining a field survey of plant diversity with remote sensing estimates of primary productivity across a large environmental gradient in 235 grasslands across the Qinghai-Tibet Plateau and the Inner Mongolia Plateau, we find that species richness contributes to stabilizing productivity, while functional diversity contributes to destabilizing productivity at the local scale. In contrast, we find no evidence that variation in species richness and functional diversity among local communities contributes to stabilizing productivity across larger spatial scales. While the relationships between environmental conditions and local diversity and stability differ between the two regions, the overall positive relationships between diversity and stability are consistent at both the local and larger spatial scales. Our study offers insights into how functional traits along the fast-slow leaf economics spectrum mediate the effects of environmental factors (e.g., precipitation) on ecosystem stability at contrasting spatial scales.",
+    "authors": "Huang Mengjiao; Granjel Rodrigo R; Montoya Daniel; Xiao Yao; Liu Xiang; Hautier Yann",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:32.963205"
+  },
+  {
+    "pmid": "41611717",
+    "title": "Human brain prefrontal cortex proteomics identifies compromised energy metabolism and neuronal function in Schizophrenia.",
+    "abstract": "Understanding the pathophysiological substrates of schizophrenia is a major challenge for current neuropsychiatric research. As part of a set of multi-omics experiments, we performed an extensive case-control proteomics study on 192 post-mortem tissue sections from prefrontal cortex from 96 individuals, including 47 cases with schizophrenia and 49 healthy controls. Using two independently measured cortical datasets, we identified 387 proteins differentially expressed between schizophrenia cases and controls at a 5% FDR threshold. This significantly regulated set of proteins contains genes located in GWAS-identified schizophrenia loci and proteins identified by pQTL analysis. Gene ontology analysis using GOAT provided evidence for regulation of several major protein categories, emphasizing downregulation of mitochondrial oxidative respiration, ribosomes and the proteasome, upregulation of kinases and (small) GTPases. SynGO analysis supports the notion of synaptic dysfunction in schizophrenia, with major regulators of pre- and postsynaptic function compromised. Our findings highlight the complex molecular dysregulation in schizophrenia, with mitochondrial function downregulated versus signaling and trafficking upregulated, and synapse function disrupted; in combination with prior avenues of research, these finding support a role for energy deficits compromising highly ATP dependent neuronal function as a target for therapeutic interventions.",
+    "authors": "Koopmans Frank; Dijkstra Anke A; Li Wei-Ping; Klaassen Remco V; Gouwenberg Yvonne; Yao Shuyang; Bast Lisa; Verhage Matthijs; Karlsson Robert; Dwork Andrew J; Stockmeier Craig A; Hjerling-Leffler Jens; Sullivan Patrick F; Smit August B",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:33.308288"
+  },
+  {
+    "pmid": "41611716",
+    "title": "Pantropical moist forests are converging towards a middle leaf longevity.",
+    "abstract": "Leaf longevity is a fundamental plant trait that largely explains ecosystem functional dynamics in global pantropical moist forests. However, the signs, magnitudes, and mechanisms of the spatiotemporal variations in leaf longevity with ongoing climate change are still lacking. Using both ground measurements and gridded leaf age-dependent leaf area index data, we map the continental-scale variability of annual mean leaf longevity across pantropical moist forests over 2001-2023. We find a biome-dependent and converging trend in leaf longevity under climate change. In Amazon and tropical Asia with long leaf longevity (> ~1.8 years), leaf longevity decreases due to rising temperature and intensified atmospheric dryness. In contrast, an increasing trend is observed in Congo and subtropical Asia where forests have short leaf longevity (<~1.8 years). These responses cause a convergence of pantropical short and long leaf longevity into a middle longevity range, with maximization of plant functional traits, photosynthesis, and species evenness, which are expected to better resist climate variability. Our study provides emerging evidence for large-scale structural and functional adaptions across pantropical moist forests and is helpful for predicting climate-driven risks to ecosystem stability.",
+    "authors": "Xue Meimei; Yang Xueqin; Chen Xiuzhi; Ciais Philippe; Zhou Liming; Reich Peter B; Xiao Jingfeng; Li Xing; Xiao Xiangming; Green Julia K; Chen Jing Ming; Liu Jane; Shang Jiali; Luo Xiangzhong; Tian Jie; Liu Hui; Zhu Peng; Yan Kai; Fu Xinyue; Han Liusheng; Yuan Wenping; Wu Chaoyang",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:33.652879"
+  },
+  {
+    "pmid": "41611715",
+    "title": "VSIG10L is a major determinant of esophageal homeostasis and inherited predisposition to Barrett's esophagus.",
+    "abstract": "The molecular underpinnings contributing to the onset of Barrett's esophagus (BE) remain elusive. By studying familial clusters of the disease, here we identify a significant association between genetic variants in the V-set and Immunoglobulin Domain Containing 10 Like (VSIG10L) gene and BE predisposition. Using mammalian tissues and patient-derived organoids, we show VSIG10L is selectively expressed in the suprabasal squamous cells of the esophageal mucosa and is essential for epithelial maturation and homeostasis. Mice carrying human-orthologous germline mutations in Vsig10l exhibit loss of desmosomes, concomitant with disrupted epithelial differentiation programs, in the squamous mucosa. Upon long-term exposure to a bile acid (deoxycholate) supplemented diet, Vsig10l-mutant mice develop overt BE-like lesions in the forestomach. Furthermore, loss of esophageal VSIG10L expression is observed frequently in patients with chronic gastroesophageal reflux disease, a known risk factor for BE. Collectively, our study uncovers a fundamental link between VSIG10L, esophageal homeostasis, and BE predisposition.",
+    "authors": "Ravillah Durgadevi; Singh Salendra; Katabathula Ramachandra M; Kresak Adam M; Udhayakumar Bhavatharini; Gupta Rajesh; Brock Wendy; Mitani Yosuke; Jain Vaibhav; Hocke Emily; Gregory Simon G; Garman Katherine S; Gabre Joel T; Fujioka Hisashi; Willis Joseph E; Chak Amitabh; Guda Kishore",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:33.994257"
+  },
+  {
+    "pmid": "41611714",
+    "title": "Divergent photochemical ring-replacement of isoxazoles.",
+    "abstract": "Isoxazoles, oxazoles, and other five-membered heteroaromatics are prevalent motifs in core structure of pharmaceuticals and agrochemicals. In early-stage drug discovery, it is common practice to prepare libraries of analogues featuring different heterocyclic cores and this generally requires a de novo synthesis for each scaffold. A valuable but currently unavailable strategy would involve the possibility for direct heterocycle \"ring-replacement\". Here we report a photochemical platform for the selective conversion of isoxazoles into oxazoles, pyrazoles, pyrroles, and isothiazoles by exploiting excited-state reactivity. Starting from a successful isoxazole-to-oxazole transformation, we uncover position-sensitive reactivity that prompted computational investigation. These insights guide a systematic reactivity survey and reveal a solvent-controlled deconstruction-reconstruction pathway via \u03b1-ketonitrile intermediates. This approach enables scaffold diversification without de novo synthesis, affording access to five distinct azole classes under mild conditions. The method's selectivity, functional group tolerance, and late-stage applicability suggest broad utility in heterocyclic library design for pharmaceutical research.",
+    "authors": "Xu Yan; Poletti Lorenzo; Arpa Enrique M; Roure Baptiste; Ruffoni Alessandro; Leonori Daniele",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:34.336877"
+  },
+  {
+    "pmid": "41611704",
+    "title": "GHz dynamic holographic VCSEL chip via current-addressed modes multiplexing.",
+    "abstract": "The intuitive wisdom in semiconductor laser engineering dictates that high-order spatial modes of vertical-cavity surface-emitting lasers (VCSELs) must be suppressed to preserve beam quality, despite their inherent potential as independent information carriers. Here, we develop current-addressed modes multiplexing holography in multimode VCSELs, where injection current-dependent dominant orbital angular momentum (OAM) components enhance information channel capacity and enable dynamic reconfigurability of holographic systems. Crucially, monolithic integration of laser-nanoprinted multiplexed holograms with VCSEL chips resolves the persistent contradiction between dynamic light-field manipulation and miniaturization of holographic optoelectronic systems. Experimental validation shows that a 2\u00d72 chip array (unit area:\u2009~\u2009100\u00d7100 \u03bcm",
+    "authors": "Hu Xiaonan; Dong Yibo; Shi Jianyang; Li Baoli; Luan Haitao; Chi Nan; Gu Min; Fang Xinyuan",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:34.678195"
+  },
+  {
+    "pmid": "41611703",
+    "title": "Structural basis for selective inhibition of human GABA transporter GAT3.",
+    "abstract": "The astrocytic \u03b3-aminobutyric acid (GABA) transporter, GAT3, is essential for terminating GABAergic signaling in the central nervous system. Selective inhibition of GAT3 offers a potential strategy for elevating extracellular GABA levels for the treatment of neurological disorders including epilepsy. However, few potent and selective GAT3 inhibitors have been developed, and their mechanisms of inhibition remain poorly understood. Here, we present the cryo-electron microscopy structures of full-length, wild-type human GAT3, hGAT3, bound to a selective inhibitor, to substrate GABA, or in substrate-free state. hGAT3 bound to the inhibitor or in the substrate-free state exhibits an inward-open conformation. The inhibitor binds within the intracellular permeation pathway, positioned between transmembrane helices 1, 2, 3, 6, 7, and 8. The GABA-bound hGAT3 is captured in an inward-occluded state, revealing the ion coordination and substrate recognition network, including a cation-\u03c0 interaction between GABA's \u03b3-amino group and a phenylalanine residue in transmembrane helix 6. Our data reveal the molecular determinants for the inhibitor selectivity, and the mode of substrate binding and transport inhibition, providing blueprints for the rational design of next-generation selective GAT3 inhibitors.",
+    "authors": "Mortensen Jonas Sigurd; Bavo Francesco; Jensen Malene Hall; Pedersen Alexander Peder Smiszek; Storm Julian Philipp; Pape Tillmann; Fr\u00f8lund Bente; Wellendorph Petrine; Shahsavar Azadeh",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:35.022096"
+  },
+  {
+    "pmid": "41611702",
+    "title": "Olutasidenib in recurrent/relapsed locally advanced or metastatic IDH1-mutated chondrosarcoma: phase 1b/2 trial.",
+    "abstract": "Chondrosarcomas are rare cartilaginous neoplasms with limited treatment options. Isocitrate dehydrogenase 1/2 (mIDH1/2) mutations occur in 65% of chondrosarcomas. Here we report safety and efficacy of olutasidenib, an mIDH1 inhibitor, evaluated in patients with locally advanced or metastatic mIDH1 chondrosarcoma (Clinicaltrials.gov identifier: NCT03684811). The primary endpoint was objective response rate by tumor evaluation; secondary endpoints included adverse events, progression-free and overall survival. Patients received olutasidenib 150\u2009mg twice daily. Twenty-three patients were enrolled; 16 were diagnosed with conventional chondrosarcoma (cCS). Median age was 57 (range, 30-71) years. In 21 response-evaluable patients, 11 (52%) had stable disease, 8 (38%) had progressive disease, and 2 (10%) were not evaluable. Median progression-free survival (mPFS) was 2.0 months (95% confidence interval [95%CI]: 1.7, 4.7); median overall survival was 16.0 months (95%CI: 7.7, not reached). Among patients with cCS, 10 (63%) had stable disease; 6 (38%) had progressive disease; mPFS was 3.5 months (95%CI: 1.7, 5.1). Median overall survival in cCS patients was 19.0 months (95% CI: 7.7, not reached). No dose-limiting toxicities were reported during the study. Olutasidenib was well tolerated and conferred disease control in cCS. Study limitations include open-label design and low patient sample due to rarity of cCS.",
+    "authors": "Jones Robin L; Groisberg Roman; Blay Jean-Yves; Colman Howard; De La Fuente Macarena; Roxburgh Patricia; Chao Mwe Mwe; Tian Hua; Duffaud Florence; Bahleda Rastislav; Van Tine Brian A",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:35.364799"
+  },
+  {
+    "pmid": "41611701",
+    "title": "ClpC1-targeting peptide natural products differentially dysregulate the proteome of Mycobacterium tuberculosis.",
+    "abstract": "Targeting the protein quality control system in Mycobacterium tuberculosis represents a promising and underexplored opportunity for antibiotic development. The ClpC1:ClpP1P2 protease is an essential component of the system that mediates both regulatory and stress-related protein degradation. Several non-ribosomal peptide natural products, including ecumicin, ilamycins (rufomycins) and cyclomarins, have been discovered that bind to the ClpC1 chaperone of the complex and exhibit potent antimycobacterial activity, leading to significant interest in the ClpC1:ClpP1P2 system as a bona fide target for the new tuberculosis drugs. In this study, we combine quantitative proteomics, bioinformatics, transcriptomics, CRISPRi knockdown, and targeted biochemical and biophysical assays to dissect the mechanisms of ecumicin, ilamycin and cyclomarin in clinically relevant Mycobacterium tuberculosis. Strikingly, despite exhibiting similar binding modes to ClpC1, each compound induces distinct effects on protein degradation. Notably, ilamycin and ecumicin do not trigger the ClpC2 rescue mechanism that mitigates cyclomarin-induced mycobacterial toxicity. In addition, we identify a novel interaction between ecumicin and stress-response chaperone Hsp20. The differential disruption of ClpC1 substrates, stress-response chaperones, and distinct reshaping of the Mycobacterium tuberculosis proteome by the three natural products, unveils new opportunities for the development of protein quality control-targeted antimycobacterials.",
+    "authors": "Barter Isabel K; Bedding Max J; Leodolter Julia; Maxwell Joshua W C; Hawkins Paige M E; Stevens Maxwell T; McNeil Matthew B; Jowsey William J; Wang Trixie; Quan Diana; Junker Sabryna; Fl\u00f3rido Manuela; Hesselson Daniel; Cook Gregory M; Clausen Tim; Britton Warwick J; Larance Mark; Payne Richard J",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:35.707973"
+  },
+  {
+    "pmid": "41611700",
+    "title": "Author Correction: Divalent anion-driven framework regulation in Zr-based halide solid electrolytes for all-solid-state batteries.",
+    "abstract": "",
+    "authors": "Kim Jae-Seung; Han Daseul; Choe Jinyeong; Kim Youngkyung; Kim Hae-Yong; Lee Soeul; Seo Jiwon; Ham Seung-Hui; Song You-Yeob; Lee Chang-Dae; Lee Juho; Kwak Hiram; Kim Jinsoo; Jung Yoon Seok; Jung Sung-Kyun; Name Kyung-Wan; Seo Dong-Hwa",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:36.054889"
+  },
+  {
+    "pmid": "41611699",
+    "title": "A lattice oxygen-free design for efficient and stable photothermal methane dry reforming.",
+    "abstract": "Photothermal dry reforming of methane, a promising approach to producing syngas, typically uses oxide materials and is mediated by lattice oxygen. However, it is limited by the balance of the oxygen-releasing/replenishing loop. Here, we present a methane activation pathway free of lattice oxygen on a N-Ni/NiCo@C catalyst. Direct involvement of reactive oxygen species (O*/OH*) released from CO",
+    "authors": "Pan Tingting; Xu Weiwei; Deng Hua; Zhao Heng; Xiong Yujie; Chen Zhangxing",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:36.399191"
+  },
+  {
+    "pmid": "41611698",
+    "title": "NR6A1 is essential for neural crest cell specification, formation and survival.",
+    "abstract": "Neural crest cells (NCC) are a migratory progenitor cell population unique to vertebrates that contribute to nearly every organ system throughout the body. Disruptions in NCC development can result in congenital disorders (neurocristopathies). Yet, our understanding of the cellular mechanisms and signals that govern mammalian NCC formation remains poor. Here, we discovered nuclear receptor superfamily 6 group member 1 (NR6A1/GCNF/RTR) is a novel, critical regulator of mammalian NCC specification, formation and survival. Nr6a1 expression in mouse embryos spatiotemporally overlaps with early NCC development. NR6A1 loss-of-function perturbs anterior cranial NCC formation and survival, with complete agenesis of migratory NCC caudal to the first pharyngeal arch. Using targeted molecular and genomic approaches, we demonstrate that these phenotypes are associated with perturbation of NCC specification and epithelial-mesenchymal transition, and with persistent expression of pluripotency-associated factors. Supporting these observations, in vivo overexpression of Oct4 in gastrulating mouse embryos disrupts NCC specification and formation. Conditional temporal deletion revealed that Nr6a1 is required during mid-late gastrulation, demonstrating that the initiation of murine NCC specification likely occurs during gastrulation - earlier than previously thought, but in close alignment with the established timeline of NCC development in other vertebrate model organisms. These findings also reveal that the gold standard transgenic mouse line, Wnt1-Cre, is unsuitable for studying genetic function during NCC specification and formation. In summary, NR6A1 is essential for mammalian NCC development and may function during gastrulation as a bimodal switch modulating pluripotency-associated factors in the neuroepithelium, while concomitantly activating NCC specifiers and regulators of EMT.",
+    "authors": "Moore Zajic Emma L; Mu\u00f1oz William A; Dennis Jennifer F; Bhatt Shachi; Sakai Daisuke; Achilles Annita; Zhao Ruonan; Lamb Maureen; Price Andrew J; Seidel Chris; Tiana Mar\u00eda; Barral Antonio; Clawson Delaney; Manzanares Miguel; Trainor Paul A",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:36.744464"
+  },
+  {
+    "pmid": "41611697",
+    "title": "Imaging multilevel exciton transport enabled by correlated electronic states.",
+    "abstract": "Exciton transport is a fundamental energy transfer process essential to semiconductor optoelectronic devices, whose full application potential relies critically on achieving precise multilevel control. While correlated electronic states in transition metal dichalcogenides (TMDCs) offer unprecedented tunability, probing exciton dynamics within these states has been challenging due to limitations in the spatial and temporal resolution of conventional techniques. Here, we introduce an ultrafast optical imaging approach, integrating femtosecond transient absorption microscopy with a WSe",
+    "authors": "Liu Huan; Chen Shihong; Xu Haowen; Han Rui; Sun Zejun; Huang Shuchun; Zhang Xiushuo; Huang Li; Luo Jianbin; Liu Dameng",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:37.090099"
+  },
+  {
+    "pmid": "41611696",
+    "title": "Quantum magnetic J-oscillators.",
+    "abstract": "Zero-field nuclear magnetic resonance (NMR) offers magnet-free access to nuclear spin-spin (scalar J) couplings, which define an intrinsic, molecule-specific frequency scale. However, the transient nature of zero-field NMR signals constrain spectral resolution and frequency stability. Here we introduce quantum J-oscillators that exploit J-couplings in molecules to produce phase-coherent continuous oscillations. Operated in zero magnetic field and driven by digital feedback, they generate sub-hertz to a few tens of hertz frequencies. In a proof-of-principle experiment on [",
+    "authors": "Xu Jingyan; Kircher Raphael; Tretiak Oleg; Budker Dmitry; Barskiy Danila A",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:37.431665"
+  },
+  {
+    "pmid": "41611694",
+    "title": "Multidimensional helical dichroism from a chiral molecular nanoassembly.",
+    "abstract": "Detecting the chirality of molecules is of great importance in optics, biomedicine, and materials science. In chiroptical spectroscopy, it's crucial to achieve strong chiroptical signals with a minimal number of chiral molecules. The molecular chiroptical signals, however, are typically weak for chiral molecular sensing in conventional circular dichroism using photonic spin angular momentum, even in the presence of a large number of chiral molecules (micromoles to millimoles). Here, by involving chiral light-matter interaction with photonic orbital angular momentum, we demonstrate strong chiroptical responses that reflect the molecular chirality in a single chiral nanoassembly. We experimentally present the helical dichroism spectra of chiral nanoassemblies synthesized from L/D-cystines, consistent with electromagnetic simulations. The asymmetry factors in the fundamental wavelength and photoluminescence emission reach values of 0.53 and 1.18, respectively, exceeding those observed in the circular dichroism mechanism. To improve the dimensions of helical dichroism spectroscopy, we analyze helical dichroism in wavelength domain, polarization domain, and momentum space. Our findings not only expand the methods for trace chiral molecular sensing but also provide insights into chiral light-matter interactions.",
+    "authors": "Jin Yusheng; Wang Xinghao; Xia Zhijie; Rao Xiaoxu; Chen Xiaomei; Li Kaixuan; Jiang Yucheng; Chu Jiaru; Wu Dong; Qiu Cheng-Wei; Ni Jincheng",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:37.775740"
+  },
+  {
+    "pmid": "41611693",
+    "title": "Photothermal effects control ultrafast charge transport in titanium carbide MXenes.",
+    "abstract": "Titanium carbide MXene (Ti\u2083C\u2082T\u2093) is an emerging metallic material with promise for (opto)electronics and thermal management. Yet how photoexcitation-particularly via photogenerated thermal energy-modifies its charge carrier dynamics remains poorly understood. By combining time-resolved terahertz spectroscopy and transient reflectance measurements, we reveal a long-lived, photo-induced suppression of conductivity, which we attribute to efficient lattice heating and slow heat dissipation in Ti\u2083C\u2082T",
+    "authors": "Zheng Wenhao; Ramsden Hugh; Ippolito Stefano; van Hemert Max; Zhang Danzhen; Zhang Teng; Li Dongqi; Wen Guanzhao; Geuchies Jaco J; Yu Minghao; Feng Xinliang; Gogotsi Yury; Tielrooij Klaas-Jan; Wang Hai I",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:38.120885"
+  },
+  {
+    "pmid": "41611692",
+    "title": "Defect-interface coupling for stable lattice-oxygen-driven oxygen evolution at industrial current densities.",
+    "abstract": "For industrial water electrolysis, the development of active and stable catalysts for the oxygen evolution reaction remains a challenge. Here, we report a heterostructure catalyst composed of knife layered double hydroxide nanosheets anchored on pyramidal Fe",
+    "authors": "Liu Shujie; Sun Mao; Dai Letian; Wang Shuhao; Yu Zhaoshi; Li Nan; Chen Feilong; Wei Yan; Shen Yan; Zhao Chuan; Wang Mingkui",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:38.466394"
+  },
+  {
+    "pmid": "41611691",
+    "title": "Geographic spillover of antimicrobial resistance from mass distribution of azithromycin.",
+    "abstract": "Large-scale, placebo-controlled, cluster-randomized trials in high-mortality settings in sub-Saharan Africa demonstrated a 14-18% reduction in childhood mortality following twice-annual mass drug administration (MDA) of azithromycin among children aged 1-59 months. Azithromycin MDA also selected for antimicrobial resistance (AMR), particularly macrolide resistance. It is unknown whether the AMR from azithromycin MDA could spill over to neighboring untreated populations. If present, such geographic spillover effects could lead trials to underestimate AMR risks. We assess between-village geographic spillover effects of genotypic macrolide resistance using metagenomic deep sequencing in rectal swabs collected from 300 children in 30 monitoring villages in Niger after two years of MDA in 594 surrounding villages. Conditional permutation tests assess associations between proximal azithromycin treatment intensity and resistance gene abundance. We find no evidence of geographic spillover of macrolide resistance in untreated villages, as the genetic load of AMR remains at baseline levels in placebo-treated villages regardless of surrounding azithromycin treatment intensity (Spearman \u03c1\u2009=\u2009-0.05, P\u2009=\u20090.83). Sensitivity analyses confirm robustness across metrics, and no spillover effects are detected for other antibiotic classes. Azithromycin MDA-induced macrolide resistance appears localized to treated villages, mitigating some concerns about geographic spillover of AMR to nearby untreated villages at 24 months.",
+    "authors": "Srivathsan Ariktha; Arzika Ahmed M; Maliki Ramatou; Abdou Amza; Lipsitch Marc; Blumberg Seth; O'Brien Kieran S; Porco Travis C; Hinterwirth Armin; Doan Thuy; Keenan Jeremy D; Lietman Thomas M; Arnold Benjamin F",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:38.817813"
+  },
+  {
+    "pmid": "41611688",
+    "title": "The mosaic memory of large language models.",
+    "abstract": "As Large Language Models (LLMs) become widely adopted, understanding how they learn from, and memorize, training data becomes crucial. Memorization in LLMs is widely assumed to only occur as a result of sequences being repeated in the training data. Instead, we show that LLMs memorize by assembling information from similar sequences, a phenomenon we call mosaic memory. We show major LLMs to exhibit mosaic memory, with fuzzy duplicates contributing to memorization as much as 0.8 of an exact duplicate and even heavily modified sequences contributing substantially to memorization. Despite models displaying significant reasoning capabilities, we somewhat surprisingly show memorization to be predominantly syntactic rather than semantic. We finally show fuzzy duplicates to be ubiquitous in real-world data, untouched by deduplication techniques. In this work, we show memorization to be a complex, mosaic process, with real-world implications for privacy, confidentiality, model utility and evaluation.",
+    "authors": "Shilov Igor; Meeus Matthieu; de Montjoye Yves-Alexandre",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:39.166187"
+  },
+  {
+    "pmid": "41611687",
+    "title": "Electrographic cue-reactivity co-localizes with accumbens deep brain stimulation in a case of opioid use disorder.",
+    "abstract": "Opioid use disorder (OUD) is a significant public health concern, with over 30% of the affected population not responding to available treatments. Severe OUD is characterized by drug-cue reactivity that has been reported to predict treatment failure. We leveraged this pathophysiological feature to optimize deep brain stimulation (DBS) of the nucleus accumbens region (NAc) in a male patient with OUD. A personalized drug-cue-reactivity task was administered while recording NAc electrophysiology from a lead externalized for clinical purposes. We identified a drug-cue-evoked electrophysiological signal in the ventral NAc that was associated with an elevated craving state and attenuated with stimulation delivered to the same area. This electrophysiological biomarker, along with behavioral assessments, informed the re-programming of DBS to a more focal and effective stimulation site. This resulted in sustained suppression of drug-related cravings. This study represents a proof-of-principle for a personalized, biomarker-informed neuromodulation strategy in OUD.",
+    "authors": "Qiu Liming; Nho Young-Hoon; Seilheimer Robert L; Kim Min Jae; Tufanoglu Altona; Williams Nolan R; Wexler Anna; Oslin David W; Millet Bruno; Scangos Katherine W; Pesaran Bijan; Evins A Eden; Richardson R Mark; Childress Anna Rose; Halpern Casey H",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:39.509114"
+  },
+  {
+    "pmid": "41611686",
+    "title": "Structural basis for transcriptional regulation by the cell division regulator MraZ in Mycoplasma genitalium.",
+    "abstract": "Cell division is a central process in all living organisms and requires the coordinated action of many proteins and regulatory elements. In most bacteria, the division and cell wall (dcw) gene cluster is regulated by the first gene of the dcw operon, mraZ, a highly conserved DNA-binding transcriptional regulator. Here we report the structural basis of MraZ transcriptional regulation by the resolution of three different cryo-EM structures of MraZ in complex with the upstream promoter region of the dcw cluster from Mycoplasma genitalium at 3.36, 3.57 and 3.87\u2009\u00c5 resolution. The structures reveal the specific interactions between MraZ DNA-binding motif and nucleobases of the binding boxes, which induces distortion in the MraZ octamer to enable the interaction with the four repetitive binding boxes of the promoter DNA. The \"cradle-like\" DNA-binding motif of MraZ exposes three highly conserved basic residues, Lys13, Arg15 and Arg86, which are essential for binding to the consensus sequence of its cognate promoter. Ultimately, the mechanism behind MraZ's DNA binding and regulation of the dcw operon could be translated to other species, working as a general mechanism for the regulation of dcw gene cluster in bacteria.",
+    "authors": "S\u00e1nchez-Alba Luc\u00eda; Varej\u00e3o Nathalia; Durand Alexandre; Garc\u00eda-Pardo Javier; Carreras-Caball\u00e9 Maria; Amador Virginia; Pinyol Jaume; Reverter David",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:39.854090"
+  },
+  {
+    "pmid": "41611685",
+    "title": "Coordinated gene family evolution shapes the genome of dimorphic Mucorales.",
+    "abstract": "Dimorphic organisms possess the remarkable genome capacity to alternate genetic information between two distinct life forms. In dimorphic Mucorales, lineages can reversibly transition between yeast and mycelium as a function of environmental stimuli. However, how genetic information produces two divergent life evolves in a single genome remains unresolved. Here, we report hundreds of gene families exhibiting convergent evolution for dimorphism. This adaptation involves paralog functionalization and the coordination of expression, with yeast and mycelium-specific paralogs. Though these gene families have distinct functions, all their paralogs are convergently adapted to produce yeast and mycelium morphologies. In addition, dimorphic gene families with related functions form head-to-head structures, coordinating differential expression. This coordinated regulation is controlled by two new genes, dkl and dfl. Loss of function of these genes results in global dysregulation of gene expression and loss of dimorphism. Dimorphic gene families, head-to-head marker loci, and the dfl gene are conserved across various dimorphic species but are absent in closely related monomorphic species. Our findings identify an evolutionary mechanism that integrates and optimizes the genetic information required for two distinct life forms within a single organism.",
+    "authors": "Tahiri Ghizlane; Navarro-Mendoza Mar\u00eda I; Lax Carlos; P\u00e9rez-Arques Carlos; Saz Gabriel Navarro-Del; Navarro Eusebio; Garre Victoriano; Nicol\u00e1s Francisco E",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:40.198622"
+  },
+  {
+    "pmid": "41611684",
+    "title": "Fatigue resistant elastocaloric effect in TiNi via texture-precipitate synergy.",
+    "abstract": "Shape memory alloys with both a large elastocaloric effect and exceptional fatigue resistance are key candidates for next-generation solid-state cooling technologies. Here, we report a textured TiNi alloy containing engineered Ti\u2084Ni\u2082O precipitates, fabricated via controlled directional solidification, that achieves a large adiabatic temperature change of -15.9\u2009K after 10 million compressive cycles. Microstructural analyses reveal columnar B2 grains aligned with the solidification direction and a uniform dispersion of high-density Ti\u2084Ni\u2082O precipitates. A strong crystallographic texture is observed, enabling a large transformation strain of over 6% under compressive loading, as mapped by digital image correlation. In-situ loading X-ray diffraction confirms a continuous increase in intensity of B19' martensite under stress, while in-situ cooling transmission electron microscopy captures numerous nucleation and progressive growth of the B19' martensite from B2/Ti\u2084Ni\u2082O interfaces. High-resolution TEM further reveals localized lattice distortions at these interfaces, promoting directional and confined growth of B19' martensite. This progressive transformation, which preserves functional reversibility, combined with the mutual texture-precipitate architecture that enhances mechanical stability, gives rise to ultrahigh fatigue life. These findings highlight the promise of textured TiNi with tailored precipitate architecture for long-term elastocaloric applications and provide a design strategy for developing fatigue-resistant SMAs through microstructural and textural engineering.",
+    "authors": "Li Xu; Liang Qianglong; Liang Chuanxin; Wang Dong; Li Suzhi; Ding Xiangdong",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:40.545057"
+  },
+  {
+    "pmid": "41611683",
+    "title": "Net widening of Southern California beaches.",
+    "abstract": "Human impacts from dams reduce river sediment fluxes and are primary causes of coastal erosion worldwide. Here we provide new satellite-derived shoreline observation techniques to examine beach area trends across the diverse coastal settings of California. Contrary to global trends, these data reveal that the most heavily urbanized and dammed region of southern California experienced net beach growth of over 2 million m",
+    "authors": "Warrick Jonathan A; Vos Kilian; Buscombe Daniel D; Ritchie Andrew C; Vitousek Sean; Hachey Teresa; Sanders Brett F",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:40.891766"
+  },
+  {
+    "pmid": "41611682",
+    "title": "A synergistic strategy of crosslinking and filler toughening enabling stretchable organic photovoltaics for wearable applications.",
+    "abstract": "Improving the elongation of intrinsically stretchable organic electronics typically prioritizes flexibility, which may increase the crack-onset strain at the expense of ductility. Here, we present a synergistic design that combines covalent crosslinking and silica filler reinforcement to construct a photoactive layer of organic photovoltaics (OPVs) with both elevated fracture strain and modulus. This interpenetrating network boosts the crack-onset\u00a0strain to over 40% and raises the modulus by 5-fold to 1090\u2009MPa. The silica filler promotes enhanced aggregation and molecular ordering in both donor and acceptor materials, enabling a power conversion efficiency exceeding 16% for intrinsically stretchable devices, with 80% of the initial efficiency retained under nearly 40% strain, which is one of the highest values reported to date for stretchable OPVs. These findings provide insights for developing stretchable and mechanically robust OPVs towards practical wearable applications.",
+    "authors": "Luo Xuanang; Liu Xinrui; Yang Wenyu; Li Yulong; Yang Zhiyuan; Huang Wanting; Wu Jiaming; Zhang Xiaowei; Li Zhenye; Ma Dongge; Zhong Wenkai; Li Ning; Ying Lei",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:41.234983"
+  },
+  {
+    "pmid": "41611681",
+    "title": "Hydrocyclone-enhanced scalable photocatalytic hydrogen generation, from macroscale turbulence to nanoscale reaction dynamics.",
+    "abstract": "Photocatalytic hydrogen production faces barriers to industrialization, including inadequate light absorption and limited mass/momentum transfer at scale. Integrating external hydrocyclones into photoreactors is a promising solution, yet the multiscale complexity of hydrocyclone-driven hydrogen generation impedes mechanistic understanding and rational system design. Herein, we build a scalable hydrocyclone-based photoreactor that achieves 270\u2009mL/h hydrogen yield and 5.26% solar-to-hydrogen efficiency under simulated sunlight, as 4.5 times higher than static conditions. We develop a hierarchical multiscale model combining computational fluid dynamics, solid mechanics and density functional theory, which connects macro-scale hydrocyclone flow strain to atomic-level photocatalytic processes. Here, we show that shear stress-induced nanoscale lattice restructuring of the catalyst modulates photoexcitation pathways, triggers a threshold-activated catalytic amplification effect, and identifies an optimal flow rate of 20-30\u2009L/min. These findings reveal a multiscale force-chemical coupling mechanism linking reactor-scale hydrocyclone flow fields to lattice-scale strain-driven catalytic enhancement, guiding large-scale photocatalytic hydrogen production.",
+    "authors": "Yang Danhui; Yang Yizhou; Zhou Fanghe; Deng Zhuofan; Cui Chuanjie; Li Jianping; Fu Pengbo; Ma Mingze; Lv Wenjie; Zhang Zhengdai; Yang Xuejing; Wang Hualin",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:41.580563"
+  },
+  {
+    "pmid": "41611680",
+    "title": "Domain-specific schema reuse supports flexible learning to learn in the primate brain.",
+    "abstract": "Prior knowledge accelerates subsequent learning of similarly structured problems - a phenomenon termed learning to learn - by forming generalizable neural representations called neural correlates of schema (NCS). However, how the brain exploits stable NCS while remaining flexible towards changes (the stability-plasticity dilemma) remains unclear. Here, we show that the primate brain addresses this dilemma by representing the stable NCS and task-unique changes in a near-orthogonal manner. We analyzed neural activities in the dorsolateral premotor cortex of three male macaques trained to perform a series of visuomotor mapping tasks. By delineating decision and stimulus-related subspaces, we identified NCS within the decision subspace, whose reuse facilitated subsequent learning. In addition, the decision subspace exhibited a near-orthogonal relationship with the stimulus-related subspace, minimizing cross-domain interference. Our results reveal that restricting NCS to specific functional domains can preserve useful knowledge while maintaining near-orthogonality with other subspaces, enabling flexible adaptation to new environments, thereby resolving the stability-plasticity dilemma.",
+    "authors": "Tian Kaixi; Zhao Zhiping; Chen Yang; Ge Ningling; Cao Shenghao; Han Xinyong; Gu Jianwen; Yu Shan",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:41.921575"
+  },
+  {
+    "pmid": "41611679",
+    "title": "ALKB-1-dependent tRNA methylation is required for efficient paternal mitochondrial elimination.",
+    "abstract": "Maternal mitochondrial inheritance is secured by mechanisms that exclude paternal mitochondrial DNA (mtDNA). While, epigenetic modifications are vital for spermatogenesis and embryo development, their roles in the paternal mitochondrial elimination (PME) remain poorly understood. Here, we identify ALKB-1, a DNA/RNA demethylase, as a pivotal factor for efficient PME in Caenorhabditis elegans\u00a0(C. elegans), acting through ALKB-1-dependent modulation of tRNA m",
+    "authors": "Luo Zhenhuan; Li Yimin; He Chenyang; Wu Dan; Dai Wenyu; Hu Liubing; Yang Jing; Harry Brian L; Ju Zhenyu; Tavernarakis Nektarios; Wang Hao; Wan Qin-Li; Zhou Qinghua",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:42.266734"
+  },
+  {
+    "pmid": "41611677",
+    "title": "Middle East dust as an important external driver of the Indian Ocean Dipole.",
+    "abstract": "The Indian Ocean Dipole (IOD) strongly influences Indo-Pacific climate extremes, yet its drivers remain incompletely understood. Using satellite observations, reanalysis, and climate model experiments, we identify Middle East dust emissions as a major external driver of IOD variability. Observational evidence shows that dust over the 1980-2020 period account for ~36% of interannual IOD variance, surpassing El Ni\u00f1o-Southern Oscillation as the main driver during boreal autumn. Climate simulations confirm that reduced dust enhances warming in the western Indian Ocean and inducing easterly winds that shoal the eastern thermocline. These anomalies trigger Bjerknes and wind-evaporation-sea surface temperature feedbacks, amplifying a positive IOD pattern, and vice versa. Our findings reveal a powerful dust-IOD teleconnection, highlighting the need to incorporate aerosol forcing into seasonal forecasts and climate projections.",
+    "authors": "Liu Guanyu; Xie Shang-Ping; Hansen James E; Wang Xiaofan; Dong Yueming; Li Jing",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:42.611948"
+  },
+  {
+    "pmid": "41611676",
+    "title": "The disappearing quasi-biennial oscillation under sustained global warming.",
+    "abstract": "The stratospheric quasi-biennial oscillation (QBO) is a key modulator of interannual variability in global weather and climate. Over recent decades, the amplitude of the lower-stratospheric QBO has weakened, and in recent years the QBO has experienced unprecedented disruptions. However, the longer-term evolution of the QBO and its impact on tropospheric circulation remain uncertain. Here, based on CMIP6 models with extended projections beyond 2100 and targeted sensitivity experiments, we show that under ongoing global warming, the QBO exhibits a progressively weaker amplitude and shorter period, eventually risking complete disappearance. This is projected to reduce the predictability of 2-3-year climate forecasts in the troposphere. The weakening of the QBO amplitude arises from enhanced tropical upwelling, whereas the shortening of its period results from the combined influence of strengthened upwelling and intensified wave activity. The potential disappearance of the QBO poses new challenges for climate change under high emission.",
+    "authors": "Luo Fuhai; Xie Fei; Zhou Tianjun; Niu Yingli; Xia Yan; Luo Jiali; Zhang Ruhua; Wang Ying; Liang Wenjun; Tian Wenshou",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:42.956594"
+  },
+  {
+    "pmid": "41611675",
+    "title": "IFITM3 deficiency drives SARS-CoV-2 adaptation while preserving variant-specific traits.",
+    "abstract": "SARS-CoV-2 can infect and adapt to multiple animal species, yet the host determinants that control interspecies viral adaptation remain poorly defined. Here we investigate whether interferon-induced transmembrane protein 3 (IFITM3), a key antiviral protein deficient in certain human populations, affects interspecies adaptation of SARS-CoV-2. We find that SARS-CoV-2 Beta and Omicron BA.4 variants passaged through IFITM3-deficient versus wild type mice exhibit enhanced replication and pathogenesis in this new host species. These enhancements are associated with amino acid substitutions in the viral genome, suggesting that IFITM3 limits accumulation of adaptive mutations. Mouse-adapted viruses enable comparative studies of variants in mice. Beta causes lung dysfunction and alters cilia-associated gene programs, consistent with broad viral antigen distribution in the lungs. Omicron, which shows mild pathogenicity and upper respiratory tract preference in humans, replicates to high nasal titers while exhibiting limited lung spread and reduced inflammatory responses compared to Beta. Our findings demonstrate that IFITM3 deficiency accelerates SARS-CoV-2 adaptation while preserving pre-existing variant-specific properties, highlighting that host adaptation enhances viral fitness without necessarily overriding intrinsic viral characteristics.",
+    "authors": "Denz Parker J; Speaks Samuel; McFadden Matthew I; Cable Jana M; Aladhami Ahmed K; Papa Jonathan L; Rayner Rachael E; Rao Prerana R; Leumi Steve; Roettger Jack E; Dhariwala Miqdad O; Cormet-Boyaka Estelle; Forero Adriana; Yount Jacob S",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:43.299232"
+  },
+  {
+    "pmid": "41611674",
+    "title": "Machine-learning-guided tungsten single atoms promote oxyhydroxides for noble-metal-free water electrolysis.",
+    "abstract": "Lowering the overpotential of oxygen evolution reaction with electrocatalysts is essential for efficient renewable-electricity-driven electrolysis. Active noble-metal catalysts suffer from leaching and scarcity, while non-noble alternatives face limited intrinsic activity. Here we combine computational guidance with experimental validation to identify atomically dispersed tungsten within knife oxyhydroxide, namely W",
+    "authors": "Kim Jaehyun; Kwon Ik Seon; Lim Jiheon; Lee Sol A; Cheon Woo Seok; Cho Jin Hyuk; Park Sung Hyuk; Kim Yeong Jae; Lee Mi Gyoung; Kwon Ki Chang; Park Sun Hwa; Kim Soo Young; Jang Ho Won",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:43.644710"
+  },
+  {
+    "pmid": "41611672",
+    "title": "Spinal cord stimulation therapy for gait impairment in Parkinson's disease: a double-blinded, randomised feasibility trial with an open extension.",
+    "abstract": "A trial of spinal cord stimulation (SCS) was performed in people with gait-impaired Parkinson's (ClinicalTrials.gov: NCT05110053). Fourteen patients underwent gait assessments and [",
+    "authors": "Terkelsen Miriam H\u00f8jholt; Hvingelby Victor S; Johnsen Erik L; M\u00f8ller Mette; Danielsen Erik Hvid; Henriksen Tove; Glud Andreas N\u00f8rgaard; Tai Yen; Baun Andreas M; Knudsen Anne Lens; Valdemarsen Rikke Nan; Horsager Jacob; Okkels Niels; Andersen Anne Sofie M\u00f8ller; Meier Kaare; Borghammer Per; Molloy Sophie; Nandi Dipankar; Moro Elena; S\u00f8rensen Jens Christian Hedemann; Pavese Nicola",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:43.989655"
+  },
+  {
+    "pmid": "41611671",
+    "title": "Exploiting a high-performance magnesium-fluoride battery prototype enabled by anion-receptor-mediated electrolyte.",
+    "abstract": "Rechargeable magnesium batteries have emerged as a competitive next-generation energy storage technology owing to their abundant resources and inherent safety. The development of Mg batteries, especially regarding specific energy, has been compromised by the lack of high-performance positive electrodes. Here, we design an anion-receptor-mediated all-phenyl-complex electrolyte that enables the electrochemical cooperation between fluoride and magnesium, and develop a Mg\u2009|\u2009|FeO",
+    "authors": "Chen Keyi; Lei Meng; Wang Tengfei; Li Guyue; Li Chilin",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:44.335750"
+  },
+  {
+    "pmid": "41611670",
+    "title": "Ultra-fast self-gelling self-expanding self-propelling high-adhesion procoagulant hemostatic powder for non-compressible hemorrhage hemostasis in pigs.",
+    "abstract": "Non-compressible hemorrhage remains the chief cause of battlefield mortality and civilian trauma death. Here, we propose a hemostatic strategy based on ultrafast self-gelling self-expanding powder of polyacrylic acid (PAA), polyethyleneimine (PEI) and foaming agent, which achieves non-compressible hemorrhage hemostasis through the multiple synergistic effects of expansion plugging, self-gelling adhesion and activating the coagulation factors. The hemostatic powder integrates rapid physical crosslinking with spontaneous gas foaming, exhibits a fast gelation rate, high expansion ratio, strong tissue adhesion, and activation of red blood cells, platelets, and fibrin. The optimized formulation (PP/PT5-TXA30) achieves superior hemostatic performance compared to commercial powders in rat liver volumetric defect, femoral artery and vein transection, as well as complete transection of the subclavian artery and vein in rabbits. Notably, in a lethal porcine model of complete subclavian artery and vein transection, PP/PT5-TXA30 achieves superior performance of non-compressible hemorrhage compared to gauze and XStat\u2122. Additionally, PP/PT5-TXA30 accelerates full-thickness skin wound healing. This work demonstrates a strategy based on ultra-fast self-gelling and self-expanding mechanisms for developing hemostatic materials for non-compressible hemorrhage.",
+    "authors": "Huang Shengfei; Li Meng; Xu Huiru; Shu Tianyu; Jia Honglin; Li Zhenlong; Yang Yutong; Zhao Xin; Guo Baolin",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:44.680503"
+  },
+  {
+    "pmid": "41611669",
+    "title": "Stereoselective cyano translocation reaction enabled by photoenzymatic catalysis.",
+    "abstract": "Functional-group translocation constitutes a powerful strategy in organic synthesis, allowing precise modification of molecular architectures and functional group positions. Nevertheless, methodologies capable of delivering precise stereocontrol during such migrations remain exceedingly scarce. Herein, we present a photoenzymatic strategy for cyano translocation that achieves precise stereocontrol. The use of stereo-complementary enzymes grants access to both enantiomers, while mechanistic studies and molecular dynamics simulations delineate the origin of stereoselectivity. This work expands the paradigm of transformations that can be rendered asymmetric by photoenzymatic catalysis and provides a new strategy to tackle persistent challenges in organic synthesis.",
+    "authors": "Duan Xinyu; Xu Jie; Bai Rulin; Jin Chenlu; Chu Yuchen; Wu Guojing; Pan Liangliang; Yang Chunlei; Wang Zhiguo; Xu Jian",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:45.030714"
+  },
+  {
+    "pmid": "41611663",
+    "title": "Biallelic PAX7 variants cause a novel Satellite Cell-opathy with progressive muscle involvement resembling facioscapulohumeral muscular dystrophy.",
+    "abstract": "Inherited myopathies are genetic disorders characterised by declining motor function due to progressive muscle weakening and wasting. Recently, pathogenic variants in PAX7, the master transcriptional regulator of muscle stem cells, have been associated with myopathies of variable severity, arguing for impaired satellite cell function as the main pathogenic driver. Here, we report the characterisation of two missense PAX7 variants in a patient with asymmetric, progressive muscle weakness affecting facial, upper and lower body muscles, and myopathic changes on muscle pathology. Despite this disorder closely phenocopying the clinical presentation of Facioscapulohumeral muscular dystrophy (FSHD), genetic, epigenetic and transcriptomic profiling indicated that FSHD was unlikely. However, exome sequencing revealed two heterozygous variants in PAX7: c.335\u2009C\u2009>\u2009T, (p.Pro112Leu) and c.1328\u2009G\u2009>\u2009A (p.Cys443Tyr). Modelling these PAX7 variants in human myoblasts resembled the transcriptomic findings found in the muscle biopsy from the patient. Specifically, these PAX7 variants caused upregulation of splicing factors, an increase in mitochondrial reactive oxygen species levels and reduced cell proliferation. The phenotypic cell changes caused by the PAX7 variants support a pathomechanism whereby diminished satellite cell function impairs muscle homoeostasis. Together, multimodal investigation suggests that these variants in PAX7 are likely causative of an FSHD-like autosomal recessive myopathy and expand the spectrum of neuromuscular disorders originating from impaired satellite cell function.",
+    "authors": "Ganassi Massimo; Strafella Claudia; Savarese Marco; Heher Philipp; Engquist Elise N; McGuire Liam; Johari Mridul; De Nicola Gian F; Bigot Anne; Mouly Vincent; Bortolani Sara; Torchia Eleonora; Monforte Mauro; Megalizzi Domenica; Sabino Andrea; Ricci Enzo; Giardina Emiliano; Zammit Peter S; Tasca Giorgio",
+    "journal": "Cell death & disease",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:45.377745"
+  },
+  {
+    "pmid": "41611662",
+    "title": "Electroacoustic alignment of robust and highly piezoelectric nylon-11 films.",
+    "abstract": "Nylon-11-a common and widely used material, is a promising non-fluorinated piezoelectric polymer given its mechanical strength, chemical stability and elasticity. Nevertheless, it typically possesses low piezoelectric performance, which severely limits its use for energy generation applications. Here, we demonstrate the synthesis of highly aligned, piezoelectric nylon-11 films through an energy-efficient (\u22481-5 Wh), single-step platform that facilitates the electroacoustic coupling associated with MHz-order nanoscale vibrations during the crystallisation process. Uniquely, such coupling allows the simultaneous induction of (i) nylon's piezoelectric ",
+    "authors": "Komljenovic Robert; Ehrnst Yemima; Sherrell Peter C; Rezk Amgad R; Yeo Leslie Y",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:45.721326"
+  },
+  {
+    "pmid": "41611661",
+    "title": "A quantitative, multimodal wearable bioelectronic device for comprehensive stress assessment and sub-classification.",
+    "abstract": "Stress is a universal experience impacting mental and physical health. However, no precise, objective wearable tool exists for continuous, long-term stress monitoring, which is essential for understanding stress-related health outcomes. To address this gap, we introduce SQC-SAS, a multimodal wearable device that simultaneously and continuously measures multiple physiological and molecular\u00a0stress biomarkers for quantitative stress assessment and sub-classification. This device features exceptional environmental stability, reusability, and fully wireless data and power operation. Machine learning enables data-driven stress assessment and classification across multiple stress states, allowing biomarker profiles to be correlated with each state. Its wristband-like design enables continuous stress monitoring and real-time visualization. We envision our wearable will greatly advance precise, objective stress assessment and monitoring, offering unprecedented capabilities and laying the foundation for personalized interventions and a deeper understanding of stress-related outcomes.",
+    "authors": "Pei Xiaochang; Ghandehari Anita; Chakoma Shingirirai; Rajendran Jerome; Tavares-Negrete Jorge Alfonso; Esfandyarpour Rahim",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:46.066822"
+  },
+  {
+    "pmid": "41611657",
+    "title": "Aberrant maintenance of developmental transcription factor PAX6 promotes neuronal cell death via JNK3 signaling.",
+    "abstract": "Retinal ganglion cell (RGC) degeneration is a hallmark of glaucoma and other optic neuropathies, yet the transcriptional mechanisms that drive stress-induced neuronal apoptosis remain incompletely understood. Here, we identify the developmental transcription factor PAX6 as an aberrantly sustained and stress-responsive regulator in mature retinal neurons. Upon NMDA-induced excitotoxic stress, PAX6 is phosphorylated by the neuronal stress kinase JNK3, without changes in total expression levels. In vitro kinase assays confirm direct phosphorylation of PAX6 by JNK3, while genetic ablation of JNK3 abolishes PAX6 activation. This phosphorylation enhances PAX6 chromatin binding and enables its co-recruitment with JNK3 to promoters of pro-apoptotic genes, including Bax and Gadd45a. Genome-wide ChIP-seq and transcriptomic analyses reveal that PAX6 and JNK3 form a transcriptional complex that drives apoptotic gene expression. In vivo, AAV-shRNA-mediated knockdown of either PAX6 or JNK3 significantly attenuates excitotoxic RGC death. These findings define a previously unrecognized transcriptional mechanism by which JNK3-mediated phosphorylation of persistently expressed PAX6 converts a developmental factor into a driver of neuronal apoptosis. More broadly, this study highlights how the dysregulation of developmental transcriptional programs in postmitotic neurons can contribute to neurodegeneration, offering new mechanistic insights into stress-induced neuronal loss in chronic neurodegenerative diseases.",
+    "authors": "Kim Ji-Young; An Mi-Jin; Kim Jinho; Kim Chul-Hong; Park Yuna; Shin Geun-Seup; Lee Hyun-Min; Jo Ah-Ra; Kim Mi Jin; Hwangbo Yujeong; Hong Tae Kyung; Kim Jee Taek; Choi Uimook; Kim Jung-Woong",
+    "journal": "Cell death & disease",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:46.414028"
+  },
+  {
+    "pmid": "41610386",
+    "title": "Dear Doctor: We Still Have No Idea of What Dose of Capecitabine You Should Prescribe.",
+    "abstract": "",
+    "authors": "Ratain Mark J; O'Donnell Peter H",
+    "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:46.754848"
+  },
+  {
+    "pmid": "41610385",
+    "title": "Erratum: Adjuvant Hyperthermic Intraperitoneal Chemotherapy in Patients With Locally Advanced Colon Cancer (COLOPEC): 5-Year Results of a Randomized Multicenter Trial.",
+    "abstract": "",
+    "authors": "Zwanenburg Emma Sophia; El Klaver Charlotte; Wisselink Daniel D; Punt Cornelis J A; Snaebjornsson P; Crezee Johannes; Aalbers Arend G J; Brandt-Kerkhof Alexandra R M; Bremers Andre J A; Burger Pim J W A; Fabry Hans F J; Ferenschild Floris T J; Festen Sebastiaan; van Grevenstein Wilhemina M U; Hemmer Patrick H J; de Hingh Ignace H J T; Kok Niels F M; Kusters M; Musters G D; Schoonderwoerd Lotte; Tuynman J B; van de Ven Anthony W H; van Westreenen Henderik L; Wiezer M J; Zimmerman David D E; van Zweeden Annette; Dijkgraaf Marcel G W; Tanis Pieter J; ",
+    "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:47.098661"
+  },
+  {
+    "pmid": "41610374",
+    "title": "Thromboembolic Events During Perioperative Therapy for Resectable and Borderline Resectable Pancreatic Cancer in the PREOPANC-2 Trial.",
+    "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is associated with a high risk of venous thromboembolism (VTE), which is burdensome and associated with decreased survival. Although neoadjuvant treatment is increasingly used in patients with PDAC, data on VTE in this setting remain scarce. This study evaluated VTE incidence during (neo)adjuvant therapy for resectable and borderline resectable PDAC and its relation to survival.\nThis study included patients from the investigator-initiated, multicenter, randomized controlled phase III PREOPANC-2 trial. Patients were randomly assigned to neoadjuvant 5-fluorouracil, leucovorin, irinotecan, and oxaliplatin followed by surgery (FFX arm) or neoadjuvant gemcitabine-based chemoradiotherapy (CRT), followed by surgery and adjuvant gemcitabine (CRT arm). VTE was defined as both incidental and symptomatic lower- or upper-extremity deep vein thrombosis, pulmonary embolism (PE), splanchnic vein thrombosis, and catheter-related thrombosis. VTE occurrence was retrospectively evaluated from random assignment to 12 months after random assignment. The association with overall survival (OS) was analyzed using Cox regression analysis.\nVTE was diagnosed in 28 of 325 patients (9%): nine (3%) preoperatively and 19 (8%) postoperatively. Most VTEs were symptomatic (54%). Although a higher proportion of patients developed postoperative VTE in the CRT arm (FFX 3% \nVTE occurred in 9% of patients with (borderline) resectable PDAC undergoing (neo)adjuvant treatment in the year after random assignment and was associated with decreased OS. These results underscore the need for standardized reporting of thromboembolic events in clinical trials and future studies assessing the potential benefits of thromboprophylaxis during neoadjuvant therapy.",
+    "authors": "Willems Ruth A L; van Diepen Aniek E; Dekker Esther N; Janssen Quisette P; van Dam Jacob L; Michiels Nynke; van Eijck Casper W F; Hermans Karlijn E P E; Bonsing Bert A; Bosscha Koop P; Bouwense Stefan A W; Busch Olivier R; Ten Cate Hugo; Coene Peter-Paul L O; van Eijck Casper H J; van Es Nick; van der Harst Erwin; de Hingh Ignace H J T; Karsten Tom M; Kazemier Geert; van der Kolk Marion B; de Laat Bas; Liem Mike S L; Mieog J Sven D; Nieuwenhuijs Vincent B; Patijn Gijsbert A; Roest Mark; van Santvoort Hjalmar C; Valkenburg-van Iersel Liselot; de Wilde Roeland F; With Fennie; Zonderhuis Barbara M; Besselink Marc G; Homs Marjolein Y V; van Tienhoven Geertjan; Wilmink Johanna W; Groot Koerkamp Bas; de Vos-Geelen Judith; ",
+    "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:47.443097"
+  },
+  {
+    "pmid": "41610257",
+    "title": "Cellular survivorship bias as a mechanistic driver of muscle stem cell aging.",
+    "abstract": "Aging is characterized by a decline in the ability of tissue repair and regeneration after injury. In skeletal muscle, this decline is largely driven by impaired function of muscle stem cells (MuSCs) to efficiently contribute to muscle regeneration. We uncovered a cause of this aging-associated dysfunction: a cellular survivorship bias that prioritizes stem cell persistence at the expense of functionality. With age, MuSCs increased expression of a tumor suppressor, N-myc down-regulated gene 1 (NDRG1), which, by suppressing the mammalian target of rapamycin (mTOR) pathway, increased their long-term survival potential but at the cost of their ability to promptly activate and contribute to muscle regeneration. This delayed muscle regeneration with age may result from a trade-off that favors long-term stem cell survival over immediate regenerative capacity.",
+    "authors": "Kang Jengmin; Benjamin Daniel I; Guo Qiqi; Evangelista Chauncey; Kim Soochi; Arjona Marina; Both Pieter; Chung Mingyu; Krishnan Ananya K; Dhaliwal Gurkamal; Lam Richard; Rando Thomas A",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:47.788130"
+  },
+  {
+    "pmid": "41610256",
+    "title": "The evolution of gene regulation in mammalian cerebellum development.",
+    "abstract": "Gene regulatory changes are considered major drivers of evolutionary innovations, including the cerebellum's expansion during human evolution, yet they remain largely unexplored. In this study, we combined single-nucleus measurements of gene expression and chromatin accessibility from six mammals (human, bonobo, macaque, marmoset, mouse, and opossum) to uncover conserved and diverged regulatory networks in cerebellum development. We identified core regulators of cell identity and developed sequence-based models that revealed conserved regulatory codes. By predicting chromatin accessibility across 240 mammalian species, we reconstructed the evolutionary histories of human cis-regulatory elements, identifying sets associated with positive selection and gene expression changes, including the recent gain of ",
+    "authors": "Sarropoulos Ioannis; Sepp Mari; Yamada Tetsuya; Sch\u00e4fer Philipp S L; Trost Nils; Schmidt Julia; Schneider C\u00e9line; Drummer Charis; Mi\u00dfbach Sophie; Taskiran Ibrahim I; Hecker Nikolai; Bravo Gonz\u00e1lez-Blas Carmen; Fr\u00f6mel Robert; Joshi Piyush; Leushkin Evgeny; Arnsk\u00f6tter Frederik; Leiss Kevin; Okonechnikov Konstantin; Lisgo Steven; Palkovits Mikl\u00f3s; P\u00e4\u00e4bo Svante; Cardoso-Moreira Margarida; Kutscher Lena M; Behr R\u00fcdiger; Pfister Stefan M; Aerts Stein; Kaessmann Henrik",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:48.132648"
+  },
+  {
+    "pmid": "41610255",
+    "title": "Aging drives a program of DNA methylation decay in plant organs.",
+    "abstract": "Plants display a wide range of life spans and aging rates. Although dynamic changes to DNA methylation are a hallmark of aging in mammals, it is unclear whether similar molecular signatures reflect rates of aging and organism life span in plants. In this work, we show that the short-lived model plant ",
+    "authors": "Dai Dawei; Chen Ken; Tao Jingwen; Williams Ben P",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:48.477441"
+  },
+  {
+    "pmid": "41610254",
+    "title": "The 'undone science' of opioid overdose deaths.",
+    "abstract": "",
+    "authors": "Strang John",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:48.822617"
+  },
+  {
+    "pmid": "41610253",
+    "title": "From sequence to function: Bridging single-molecule kinetics and molecular diversity.",
+    "abstract": "Biological function is fundamentally determined by nucleic acid and protein sequence. Beyond encoding genetic information, nucleic acids also display complex physicochemical parameters that shape structure, dynamics, and interactions. Understanding how sequence variation sculpts the energetic landscapes underlying these properties requires methods that capture both molecular diversity and dynamic behavior. Single-molecule techniques are ideally suited to this task, but conventional formats remain time and cost intensive. Recent breakthroughs have enabled highly multiplexed approaches for observing molecular dynamics across millions of individual molecules representing thousands of sequences or barcoded entities. Though still in development, these methods have begun to bridge sequence, structure, dynamics, and function at scale, opening new opportunities in drug discovery, molecular diagnostics, and functional genomics.",
+    "authors": "Kapanidis A N; Muras L; Sreenivasa K; Hazra J P; van Noort J; You C; Deindl S",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:49.162819"
+  },
+  {
+    "pmid": "41610252",
+    "title": "Soils drive convergence in the regulation of vascular tension in land plants.",
+    "abstract": "Terrestrial vascular plants operate under negative water potential, which results in hydraulic tension in the vascular system. Vascular tension varies with transpiration and soil drying and is regulated by stomata, pressure-activated valves on the leaf surface. We hypothesize that soil physical constraints drive convergence in the operational range of leaf vascular tension. Based on a meta analysis of 19 diverse species, we find that stomatal regulation of transpiration is activated when leaf vascular tension reaches a narrow target of 1.3 \u00b1 0.6 megapascals. This value matches the range (1.4 \u00b1 0.6 megapascals) predicted from an optimal soil water extraction model. Optimality in plant vascular tension appears to have evolved by selection for a narrow range of osmotic pressure in the leaves of diverse species growing across variable environments.",
+    "authors": "Carminati Andrea; Javaux Mathieu; Wankm\u00fcller Fabian J P; Brodribb Timothy J",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:49.508123"
+  },
+  {
+    "pmid": "41610251",
+    "title": "DNA-protein cross-links promote cGAS-STING-driven premature aging and embryonic lethality.",
+    "abstract": "DNA-protein cross-links (DPCs) are highly toxic DNA lesions that block replication and transcription, but their impact on organismal physiology is unclear. We identified a role for the metalloprotease SPRTN in preventing DPC-driven immunity and its pathological consequences. Loss of SPRTN activity during replication and mitosis lead to unresolved DNA damage, chromosome segregation errors, micronuclei formation, and cytosolic DNA release that activates the cyclic GMP-AMP synthase (cGAS)-stimulator of interferon genes (STRING) pathway. In a ",
+    "authors": "Tomaskovic Lines; Prieto-Garcia Cristian; Boskovic Maria; Glumac Mateo; Tsai Tsung-Lin; Mosler Thorsten; Kazi Rubina; Rathore Rajeshwari; Andrade Jorge; Hoffmann Marina; Giuliani Giulio; Jacomin Anne-Claire; Pereira Raquel S; Knop Elias; Wachsmuth Laurens; Beli Petra; Husnjak Koraljka; Pasparakis Manolis; Ablasser Andrea; Krause Daniela S; Potente Michael; Papathanasiou Stamatis; Terzic Janos; Dikic Ivan",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:49.853455"
+  },
+  {
+    "pmid": "41610250",
+    "title": "Making sense of disease",
+    "abstract": "Religion, ancient medicine, and other frameworks continue to inform how we think about illness.",
+    "authors": "Klestinec Cynthia",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:50.197972"
+  },
+  {
+    "pmid": "41610249",
+    "title": "Heritability of intrinsic human life span is about 50% when confounding factors are addressed.",
+    "abstract": "How heritable is human life span? If genetic heritability is high, longevity genes can reveal aging mechanisms and inform medicine and public health. However, current estimates of heritability are low-twin studies show heritability of only 20 to 25%, and recent large pedigree studies suggest it is as low as 6%. Here we show that these estimates are confounded by extrinsic mortality-deaths caused by extrinsic factors such as accidents or infections. We use mathematical modeling and analyses of twin cohorts raised together and apart to correct for this factor, revealing that heritability of human life span due to intrinsic mortality is above 50%. Such high heritability is similar to that of most other complex human traits and to life-span heritability in other species.",
+    "authors": "Shenhar Ben; Pridham Glen; De Oliveira Tha\u00eds Lopes; Raz Naveh; Yang Yifan; Deelen Joris; H\u00e4gg Sara; Alon Uri",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:50.543237"
+  },
+  {
+    "pmid": "41610248",
+    "title": "China turns the tables in biotech.",
+    "abstract": "For at least a century, major scientific research initiatives have reliably occurred in the United States, usually in response to geopolitical competition. This helped establish the country's status as a global scientific power, enabling the US to set the standards for new technologies and pave the way forward. That edge began to erode around 20 years ago with the success of Chinese universities in engineering and materials science. Most recently, the rise of China's success in medicine and biopharmaceuticals has happened so quickly that the US risks losing its position of leadership in the life sciences. One would normally expect the US to react vigorously. But these are far from normal times. Saddled with an administration's apparent indifference, the US has responded not with a bang, but a whimper.",
+    "authors": "Thorp H Holden",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:50.887106"
+  },
+  {
+    "pmid": "41610247",
+    "title": "Rethinking the heritability of aging.",
+    "abstract": "The genetic contribution to human longevity is greater than previously thought.",
+    "authors": "Bakula Daniela; Scheibye-Knudsen Morten",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:51.231870"
+  },
+  {
+    "pmid": "41610246",
+    "title": "Into the deep.",
+    "abstract": "As humans return to the Moon, researchers are trying to understand-and thwart-the biological toll of deep-space radiation.",
+    "authors": "Dolgin Elie",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:51.578062"
+  },
+  {
+    "pmid": "41610245",
+    "title": "Lithographic crystallinity regulation in additive fabrication of thermoplastics (CRAFT).",
+    "abstract": "For semicrystalline polyolefin thermoplastics, the balance between interconnected ordered crystalline and disordered amorphous regions is paramount to their performance and processability. However, contemporary manufacturing strategies, from injection molding to three-dimensional (3D) printing, result in monolithic objects, unable to spatially encode crystallinity. We develop a light-based approach for fabricating mechanically robust polyolefin thermoplastics with microscopic control over crystallinity in 3D space. Light dosage governs polymer stereochemistry giving access to a continuum of materials, from strong rigid plastics, such as high-density polyethylene, to more extensible materials akin to low-density polyethylene, all at the flick of a switch. Leveraging this finding in lithographic grayscale 3D printing enables rapid multimaterial fabrication with voxel-level control over optical and mechanical properties, opening avenues in information storage, soft robotics, and energy damping.",
+    "authors": "Commisso Alex J; Nagel Eric M; Kiker Meghan T; Recker Elizabeth A; Bischoff Adam; Holzmann Michael J; Fowler Hayden E; Pham Minh Nhat; Nguyen Chi Phuong H; Baca Esteban; Villanueva Hern\u00e1n; Almada Nirvana T; Mason Keldy S; Jolowsky Claire; Suman Guddi; Fritzsching Keith J; Kaehr Bryan; Schwartz Johanna J; Appelhans Leah N; Jones Brad H; Sample Caitlin S; Roach Devin J; Page Zachariah A; Leguizamon Samuel C",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:51.925957"
+  },
+  {
+    "pmid": "41610244",
+    "title": "A wake-up call.",
+    "abstract": "",
+    "authors": "Tong Kangkang",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:52.269601"
+  },
+  {
+    "pmid": "41610243",
+    "title": "Public access's next frontier.",
+    "abstract": "",
+    "authors": "Phelan Meagan",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:52.609889"
+  },
+  {
+    "pmid": "41610242",
+    "title": "Solving the ferroelectric scaling trilemma.",
+    "abstract": "A robust oxide ferroelectric-semiconductor interface realizes an energy-efficient memory for computing.",
+    "authors": "Behera Piush; Cheema Suraj S",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:52.957363"
+  },
+  {
+    "pmid": "41610241",
+    "title": "Planning policy undermines UK's nature goals.",
+    "abstract": "",
+    "authors": "Elves-Powell Joshua; Axmacher Jan C; Edwards Joan",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:53.302564"
+  },
+  {
+    "pmid": "41610240",
+    "title": "Controlling plastic behavior with light.",
+    "abstract": "Thermoplastic properties are spatially tuned with light intensity during three-dimensional (3D) printing.",
+    "authors": "Nicholson Jake L; Michaudel Quentin",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:53.644005"
+  },
+  {
+    "pmid": "41610239",
+    "title": "Should I stay or should I go with them?",
+    "abstract": "Social forces underpin human foraging.",
+    "authors": "Todd Peter M; Hills Thomas T",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:53.989396"
+  },
+  {
+    "pmid": "41610238",
+    "title": "Probing supersolidity through excitations in a spin-orbit-coupled Bose-Einstein condensate.",
+    "abstract": "Spin-orbit-coupled Bose-Einstein condensates are a flexible experimental platform to engineer synthetic quantum many-body systems. In particular, they host the so-called stripe phase, an instance of a supersolid state of matter. The peculiar excitation spectrum of the stripe phase, a definite footprint of its supersolidity, has been difficult to measure experimentally. In this work, we performed in situ imaging of the stripes and directly observed both superfluid and crystal excitations. We investigated superfluid hydrodynamics and revealed a stripe compression mode, thus demonstrating that the system possesses a compressible crystalline structure. Through the frequency softening of this mode, we located the supersolid transition point. Our results establish spin-orbit-coupled supersolids as ideal systems to investigate supersolidity and its rich dynamics.",
+    "authors": "Chisholm C S; Hirthe S; Makhalov V B; Ramos R; Vatr\u00e9 R; Cabedo J; Celi A; Tarruell L",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:54.334504"
+  },
+  {
+    "pmid": "41610237",
+    "title": "Fossil energy minimum viable scale.",
+    "abstract": "Unseen infrastructural threats to safety and decarbonization may arise as fossil energy systems are phased out.",
+    "authors": "Lappen Joshua; Grubert Emily",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:54.675119"
+  },
+  {
+    "pmid": "41610236",
+    "title": "High-resolution geodetic velocities reveal role of weak faults in deformation of Tibetan Plateau.",
+    "abstract": "Understanding the key mechanisms that control the tectonic deformation of the continents remains a fundamental challenge in geodynamics. We present a high-resolution geodetic velocity field of the Tibetan Plateau, which shows that a few major strike-slip fault systems separate regions of more uniformly distributed deformation. We suggest that focused strain on major fault systems is enabled by relatively low-viscosity ductile shear zones extending through the lithosphere beneath the seismically active fault planes. Simple model calculations show that high slip rates on the Kunlun Fault enable east-west extension to be distributed broadly across the relatively weak southern and central Tibetan Plateau. Activation of the Kunlun fault in the Miocene at the same time as the onset of rifting in the north-south grabens suggests a causal relationship.",
+    "authors": "Wright T J; Houseman G A; Fang J; Maghsoudi Y; Hooper A J; Elliott J R; Evans L; Lazecky M; Ou Q; Parsons B E; Rollins J C; Shen L; Wang H; Wang D",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:55.016197"
+  },
+  {
+    "pmid": "41610235",
+    "title": "A global imperative to remediate Ukraine's soils.",
+    "abstract": "",
+    "authors": "He Erkai; Qiu Hao; Peijnenburg Willie J G M",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:55.360287"
+  },
+  {
+    "pmid": "41610234",
+    "title": "Kinetic acceleration of MoS",
+    "abstract": "Kinetics determine the growth behavior of thin films, particularly for atomically thin transition-metal dichalcogenides. Metal-organic (MO) chemical vapor deposition (CVD) offers promise for scalable growth, but the reactions are kinetically limited, leading to nanometer-scale domain size and carbon contaminations. Here, we unveil the fundamental kinetic limitations and overcome them by introducing oxygen-assisted MOCVD (oxy-MOCVD) technology. By tuning reactions with oxygen, MO precursors are converted into high-purity transition-metal oxides and chalcogens, producing aligned molybdenum disulfide (MoS",
+    "authors": "Liu Lei; Wang Yushu; Dong Ruikang; Fan Dongxu; Meng Si; Wu Lang; Wu Shengqiang; Xu Wei; Feng Mingwei; Zou Ningmu; Yan Qingyu; Hu Zehua; Lu Fei; Zhu Shitong; Gao Yuan; Ma Liang; Shi Yi; Li Taotao; Wang Jinlan; Wang Xinran",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:55.705423"
+  },
+  {
+    "pmid": "41610233",
+    "title": "Multiple protein structure alignment at scale with FoldMason.",
+    "abstract": "Protein structure is conserved beyond sequence, making multiple structural alignment (MSTA) essential for analyzing distantly related proteins. Computational prediction methods have vastly extended our repository of available protein structures, requiring fast and accurate MSTA methods. We introduce FoldMason, a progressive MSTA method that leverages the pairwise structural aligners Foldseek and TM-align for the multiple alignment of hundreds of thousands of protein structures, matching or exceeding the alignment quality of state-of-the-art MSTA methods while being two orders of magnitude faster. Using ",
+    "authors": "Gilchrist Cameron L M; Mirdita Milot; Steinegger Martin",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:56.050637"
+  },
+  {
+    "pmid": "41610232",
+    "title": "Wafer-scale ultrathin and uniform van der Waals ferroelectric oxide.",
+    "abstract": "Ferroelectrics have great potential for nonvolatile memory and next-generation electronics, but conventional ferroelectric oxide films generally suffer structural nonuniformity, interfacial depolarization, and performance degradation, particularly when downscaled to advanced technology nodes. We demonstrate uniform, wafer-scale synthesis and back-end-of-line-compatible integration of ultrathin van der Waals (vdW) high-dielectric constant ferroelectric oxide Bi",
+    "authors": "Wu Qinci; Li Zhongrui; Han Bingchen; Sun Weiyu; Liu Qinyun; Xue Chengyuan; Bae Hyeonhu; Wang Mengdi; Fu Boyang; Qian Jun; Zhu Yongchao; Sun Yu; Feng Tingkai; Gao Xin; Cong Xuzhong; Liu Wanqing; Gao Yunan; Yan Binghai; Tan Congwei; Liu Hongtao; Peng Hailin",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:56.395154"
+  },
+  {
+    "pmid": "41610231",
+    "title": "Oil helped build Venezuela's science. Can oil now revive it?",
+    "abstract": "After Maduro, Venezuelan researchers hope to rebuild the industry that supported the country's scientific workforce.",
+    "authors": "Basilio Humberto",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:56.740982"
+  },
+  {
+    "pmid": "41610230",
+    "title": "In Science Journals.",
+    "abstract": "Highlights from the ",
+    "authors": "Hessler Angela; Hurtley Stella M; Seale Madeleine; Funk Michael A; Nusinovich Yevgeniya; Stajic Jelena; Szuromi Phil; Scanlon Seth Thomas; Jiang Di; Lopez Bianca; Lavine Marc S; Ray L Bryan; Maroso Mattia; Neuhofer Daniela; Ferrarelli Leslie",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:57.085180"
+  },
+  {
+    "pmid": "41610229",
+    "title": "Leading preprint server clamps down on 'AI slop'.",
+    "abstract": "First-time posters to arXiv now need an endorsement from an established author.",
+    "authors": "Jones Nicola",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:57.430430"
+  },
+  {
+    "pmid": "41610228",
+    "title": "In Other Journals.",
+    "abstract": "Editors' selections from the current scientific literature.",
+    "authors": "Ray L Bryan; Uzogara Ekeoma; Seale Madeleine; Maroso Mattia; Funk Michael A; Jin Sumin; Smith Jesse",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:57.778477"
+  },
+  {
+    "pmid": "41610227",
+    "title": "Magnetic fields cause fluorescent proteins to dim.",
+    "abstract": "Effect could lead to MRI-like diagnostics and switchable, remote-controlled drugs.",
+    "authors": "Service Robert F",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:58.122399"
+  },
+  {
+    "pmid": "41610226",
+    "title": "High-precision tracking of human foragers reveals adaptive social information use in the wild.",
+    "abstract": "Foraging complexity and competitive social challenges are considered key drivers of human cognition. Yet, the decision-making mechanisms that underlie social foraging in the real world remain unknown. Integrating high-precision Global Positioning System (GPS) tracking and video footage from large-scale foraging competitions with cognitive-computational modeling and agent-based simulations, we show how foragers integrate personal, social, and ecological information to guide spatial search and patch-leaving decisions. We show how the social context emerges as a key driver of foraging dynamics. Foragers adaptively rely on social information to locate resources when unsuccessful and extend giving-up times in the presence of others, which results in increased area-restricted search at high social densities. These findings demonstrate the importance of sociality for human foraging decisions and provide a template for harnessing high-resolution tracking data to study real-world cognition.",
+    "authors": "Schakowski Alexander; Deffner Dominik; Kortet Raine; Niemel\u00e4 Petri T; Kavelaars Marwa M; Monk Christopher T; Pyk\u00e4l\u00e4 Maria; Kurvers Ralf H J M",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:58.466549"
+  },
+  {
+    "pmid": "41610225",
+    "title": "Paying resilience forward.",
+    "abstract": "",
+    "authors": "Zahir Zohra",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:58.811696"
+  },
+  {
+    "pmid": "41610224",
+    "title": "Engineered aldehyde dehydrogenases for amide bond formation.",
+    "abstract": "Amide bond formation is widely used in pharmaceutical synthesis, typically involving stoichiometric coupling reagents to activate carboxylic acid substrates for a condensation reaction. As an alternative approach, we repurposed aldehyde dehydrogenases into oxidative amidases by creating a more hydrophobic and spacious catalytic pocket for amines to capture the thioester intermediate. This biocatalyst efficiently facilitates the formation of amide bonds between diverse aldehydes and amines. We also developed a two-step enzymatic cascade to synthesize amides from broadly available aliphatic alcohols. This biocatalytic strategy enabled the redesign of synthetic routes for five drug molecules. Our findings highlight the potential of oxidative amidases in advancing the synthesis of structurally diverse drug molecules through efficient amide bond formation.",
+    "authors": "Gao Lei; Qiu Xiang; Yang Jun; Hu Kangdelong; Li Peilin; Li Wei; Gao Feng; Gallou Fabrice; Kleinbeck Florian; Lei Xiaoguang",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:59.158411"
+  },
+  {
+    "pmid": "41610223",
+    "title": "The essential nature of creative endeavors",
+    "abstract": "Engagement with the arts offers clear benefits to human health and well-being.",
+    "authors": "Wai Jonathan",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:59.517255"
+  },
+  {
+    "pmid": "41610222",
+    "title": "The great government brain drain.",
+    "abstract": "A ",
+    "authors": "Mervis Jeffrey",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:19:59.859010"
+  },
+  {
+    "pmid": "41610221",
+    "title": "Muscle stem cells trade functionality for survival.",
+    "abstract": "During aging, stem cell persistence is favored over functionality, resulting in delayed responses to injury.",
+    "authors": "von Maltzahn Julia",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:20:00.203808"
+  },
+  {
+    "pmid": "41610220",
+    "title": "Earthquake sensors buried in the quietest spot on Earth.",
+    "abstract": "Beneath the South Pole, two seismometers will probe the planet's interior and monitor movement of Antarctic ice.",
+    "authors": "Richter Hannah",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:20:00.545338"
+  },
+  {
+    "pmid": "41610196",
+    "title": "Gigantic piezoelectricity in a polycrystalline ceramic actively maintained at a quadruple point.",
+    "abstract": "Transformative technologies demand polycrystalline piezoelectric ceramics with piezoelectric coefficients (",
+    "authors": "Hao Yanshuang; Khatua Dipak Kumar; Wang Dong; Gao Jinghui; Ren Shuai; Yang Yang; Fang Minxia; Xue Dezhen; Xu Jingze; Wang Guanqi; Ke Xiaoqin; Xu Zhizhi; Liu Chang; Fan Qichao; Ji Yuanchao; Zhang Le; Yang Sen; Wang Genshui; Ren Xiaobing",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:20:00.890850"
+  },
+  {
+    "pmid": "41610195",
+    "title": "Nutritional specialization and social evolution in woodroaches and termites.",
+    "abstract": "Woodroach biparental-care and termite sibling-altruism evolved from solitary cockroach ancestors following nutritional specialization on nutrient-deficient dead-wood, but the accompanying genomic changes remained unclear. We sequenced eight new Blattodea species showing stepwise contracted genomes. Woodroach brood-rearing remained constrained by deactivated oxidative phosphorylation and peroxisome genes, consistent with slow immature growth. Termites lost key genes mediating sperm motility, corroborating that reproductive division of labor required monogamous colony-founding. They also co-opted many genes from fundamental nutrition-sensitive juvenile hormone, insulin, EGFR and Dpp signaling pathways. Thus, most larvae develop as workers via high energy metabolism early on, while reproductive nymphs highly express energy metabolism genes late in development. These pathways are consistent with obligate dependence on provisioning by specialized workers and feedback loops allowing large homeostatic colonies to evolve.",
+    "authors": "Cui Yingying; Liu Fangfang; Yuan Dongwei; Liao Mingtao; Li Zhaoxin; Luan Yun-Xia; Yu Shuxin; Zhu Kesen; Gao Qian; Cheng Yunlong; Fang Gangqi; Wang Zongqing; Zhu Shiming; Xu Jinlan; Wang Shuai; Herrera Melissa S\u00e1nchez; Huang Qiuying; Su Xiaohong; Wang Zhang; Xiang Hui; Lo Nathan; Boomsma Jacobus J; Zhan Shuai; Li Sheng",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:20:01.235389"
+  },
+  {
+    "pmid": "41610194",
+    "title": "Targeting modulated vascular smooth muscle cells in atherosclerosis via FAP-directed immunotherapy.",
+    "abstract": "Vascular smooth muscle cell (VSMC) diversification drives atherosclerotic coronary artery disease (CAD). Mechanisms governing these cell state transitions remain unclear. We applied multiomic single-cell profiling, epitope mapping, and spatial transcriptomics across 27 human coronary arteries, identifying fibroblast activation protein (FAP) as a marker of modulated VSMCs. Lineage tracing in mice indicated that FAP",
+    "authors": "Amrute Junedh M; Jung In-Hyuk; Yamawaki Tracy; Lin Wen-Ling; Bredemeyer Andrea; Diekmann Johanna; Hayat Sikander; Zhang Xianglong; Wakefield Devin L; Luo Xin; Maryam Sidrah; Heo Gyu Seong; Yang Steven; Lee Chang Jie Mick; Wang Chen; Chou Caroline; Kuppe Christoph; Cook Kevin D; Kovacs Atilla; Chintalgattu Vishnu; Pruitt Danielle; Barreda Jose; Stitziel Nathan O; Cheng Paul; Liu Yongjian; Kramann Rafael; Kreisel Daniel; Foo Roger S-Y; Rulifson Ingrid C; Martin Scott; Grunert David; Thomas Melissa; Cui Jixin; Quertermous Thomas; Bengel Frank M; Jackson Simon; Li Chi-Ming; Ason Brandon; Lavine Kory J",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:20:01.580770"
+  },
+  {
+    "pmid": "41610140",
+    "title": "MSH2 Prevents Liver Tumorigenesis by Regulating Cell Cycle Checkpoints under Chronic Inflammation.",
+    "abstract": "The DNA mismatch repair (MMR) system plays a critical role in maintaining genomic integrity and preventing tumorigenesis. Although MutS homolog 2 (MSH2) is a key component of the MMR system and is dysregulated in human hepatocellular carcinoma (HCC), the molecular mechanism of MSH2 in the process of HCC development under chronic inflammatory conditions remains unclear. To investigate the function of MSH2 in inflammation-associated hepatocarcinogenesis, we treated hepatocyte-specific Msh2-knockout (Msh2 KO) mice with 0.02% thioacetamide for 30 weeks to induce chronic liver inflammation and examined their phenotype. Msh2 KO mice exhibited higher liver tumor incidence than wild-type mice, with no major differences in inflammation or fibrosis. Whole-exome sequencing analysis revealed that genetic alterations with defective MMR-associated signatures were increased in Msh2 KO tumors, though no common cancer driver genes were identified. Transcriptome analysis revealed enrichment of cell cycle-related gene sets, including the G2M checkpoint and E2F targets. Functional assays further demonstrated that MSH2 downregulation impaired ATM-CHK2-mediated DNA damage response and promoted cell cycle acceleration. MSH2 exerts its tumor-suppressive effects in hepatocytes not only through canonical MMR but also by regulating the cell cycle via the ATM-CHK2 axis.",
+    "authors": "Nakano Shigeharu; Takai Atsushi; Iguchi Eriko; Fujii Yosuke; Amino Haruka; Ueno Masayuki; Ito Takahiko; Teramura Mari; Mishima Masako; Kumagai Ken; Inuzuka Tadashi; Takeda Haruhiko; Eso Yuji; Shimizu Takahiro; Maruno Takahisa; Seno Hiroshi",
+    "journal": "Carcinogenesis",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:20:01.925211"
+  },
+  {
+    "pmid": "41609711",
+    "title": "Accelerated evolution in networked metapopulations of ",
+    "abstract": "Natural populations are often spatially structured, meaning they exist as metapopulations composed of subpopulations connected by migration. Little is known about the impact of spatial structure, in particular the topology of connections among subpopulations, on adaptive evolution. Typically, spatial structure slows adaptation, although some models suggest topologies that concentrate dispersing individuals through a central hub can accelerate adaptation above that of a well-mixed system. We provide evidence to support this claim and show acceleration is accompanied by high rates of parallel evolution. Our results suggest metapopulation topology can be a potent force driving evolutionary dynamics and patterns of genomic repeatability in structured landscapes such as those involving the spread of pathogens or invasive species.",
+    "authors": "Chakraborty Partha Pratim; Kassen Rees",
+    "journal": "eLife",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:20:02.271580"
+  },
+  {
+    "pmid": "41609638",
+    "title": "Human brain dynamics and spatiotemporal trajectories during threat processing.",
+    "abstract": "Functional MRI (fMRI) research has traditionally investigated task processing using static blocked or event-related designs. Consequently, our understanding of threat processing remains limited to findings from paradigms with restricted dynamics. In this paper, we applied switching linear dynamical systems (SLDSs) to uncover the dynamics of threat processing during a continuous threat-of-shock paradigm. Unlike typical systems neuroscience studies that assume systems are decoupled from external inputs, we characterized both endogenous and exogenous contributions to the dynamics. We first demonstrated that the SLDS model learned the regularities of the experimental paradigm; states and state transitions estimated from fMRI data across 85 regions of interest reflected both threat proximity and direction (approach vs. retreat). After establishing that the model captured key properties of threat-related processing, we characterized the dynamics of states and their transitions. The results reveal how threat processing can be viewed as dynamic multivariate patterns whose trajectories are determined by intrinsic and extrinsic factors that jointly drive how the brain temporally evolves. Furthermore, we developed a measure of region importance to quantify individual brain region contributions to system dynamics, complementing the system-level SLDS formalism. Finally, we demonstrated that an SLDS model trained on one paradigm successfully generalizes to a separate experiment, capturing fMRI dynamics across distinct threat-processing tasks. We propose that viewing threat processing through the lens of dynamical systems offers vital avenues to uncover properties of threat dynamics not unveiled by standard experimental designs.",
+    "authors": "Misra Joyneel; Pessoa Luiz",
+    "journal": "eLife",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:20:02.616867"
+  },
+  {
+    "pmid": "41609631",
+    "title": "Single-cell transcriptomics identifies altered neutrophil dynamics and accentuated T-cell cytotoxicity in tobacco-flavored e-cigarette-exposed mouse lungs.",
+    "abstract": "Despite the growing public health threat of electronic cigarettes (e-cigs), the cell-specific immune responses to differently flavored e-cig exposure remain poorly understood. To bridge this gap, we characterized the lung immune landscape following acute nose-only exposure to flavored e-cig aerosols in vivo using single-cell RNA sequencing (scRNA seq) in mice. Metal analysis of daily generated aerosols revealed flavor-dependent, day-to-day variation in metal (Ni, Cu, K, and Zn) leaching. scRNA seq profiling of 71,725 lung cells from control and exposed mice revealed pronounced dysregulation of myeloid cell function in menthol (324 differentially expressed genes, DEGs) and tobacco (553 DEGs) flavors, and lymphoid cell dysregulation in fruit-flavor (112 DEGs) e-cig aerosol exposed mouse lung, compared to air controls. Flow cytometry corroborated these findings, showing increased neutrophil frequencies and reduced eosinophil counts in menthol- and tobacco-exposed lungs. Flavored e-cig exposure also increased CD8",
+    "authors": "Kaur Gagandeep; Lamb Thomas; Tjitropranoto Ariel; Rahman Irfan",
+    "journal": "eLife",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:20:02.962245"
+  },
+  {
+    "pmid": "41609523",
+    "title": "Systemic immune correlates of long-term survival after Delta-24-RGD based on the Therapeutic Adenovirus for Recurrent Glioblastoma Effect Trial (TARGET).",
+    "abstract": "To evaluate the combination of intra-tumoral Delta-24-RGD and subcutaneous interferon gamma (IFN-g) in patients with high grade glioma (HGG), based on the rationale that augmenting the immune response with IFN-g will increase the efficacy of Delta-24-RGD treatment.\nIn this Phase 1b, multicenter, randomized trial (NCT02197169), we evaluated the combination of intratumorally injected Delta-24-RGD with subcutaneously administered Interferon-gamma (IFN-\u1d6fE), a potent activator of T-helper 1 CD8+ cell immune response, in 37 patients with recurrent HGG, and investigated systemic immune correlates of long-term survival. Twenty-seven patients were randomized 2:1 into two cohorts: Delta-24-RGD (via standard biopsy needle) with IFN-\u1d6fE or Delta-24-RGD alone (via standard biopsy needle). In an expansion cohort, 10 patients received intra-tumorally injected Delta-24-RGD via the MEMS Cannula.\nAlthough the addition of IFN-\u1d6fE to Delta-24-RGD did not significantly increase the percentage of long term survivors compared with Delta-24-RGD alone, the IFN-\u1d6fE cohort had the longest-surviving patients (OS 44.2, 23.7, 20.6 and 20.1 months). Post-hoc analysis of plasma and peripheral blood mononuclear cells using Viral Phage Immunoprecipitation Sequencing Antibody Reactome profiling of viral epitopes (VirScan) and single cell RNA sequencing (scRNA seq) revealed that levels of circulating anti-adenovirus specific IgG and CD8+ NKT-like cells 2 months after treatment with Delta-24-RGD distinguished long-term survivors from short-term survivors.\nImmunological fitness, assessed by an anti-adenoviral specific antibody response and higher levels of activated CD8+ NKT-like cells after Delta-24-RGD treatment, may have utility as an early surrogate of a robust systemic immune response that correlates with long-term survival.",
+    "authors": "Ene Chibawanye I; Singh Sanjay; Venkataraman Thiagarajan; Phillips Lynette M; Long James P; Singh Deep; Tran Name D; Tufaro Frank; Anand P J; Navin Nicholas; Prabhu Sujit; Weinberg Jeffrey S; Larman H Benjamin; Gomez-Manzano Candelaria; Fueyo Juan; Lang Frederick F",
+    "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:20:03.307522"
+  },
+  {
+    "pmid": "41609513",
+    "title": "Maintenance of PARP Inhibitor Rechallenge Plus Bevacizumab in Patients with Platinum-Sensitive, Recurrent Ovarian Cancer Previously Treated with a PARP Inhibitor.",
+    "abstract": "This study aimed to evaluate the efficacy and safety of poly(ADP-ribose) polymerase inhibitor (PARPi) rechallenge combined with bevacizumab as maintenance therapy in patients with platinum-sensitive recurrent ovarian cancer previously treated with a PARPi.\nKGOG 3056/NIRVANA-R is a multicenter, single-arm, phase II trial that enrolled 44 patients with platinum-sensitive recurrent ovarian cancer who had received \u22652 prior lines of platinum-based chemotherapy and prior PARPi maintenance. Eligible patients achieving a response to the most recent platinum therapy received daily niraparib and triweekly bevacizumab until disease progression or unacceptable toxicity. The primary endpoint was the 6-month progression-free survival (PFS) rate, analyzed using Simon's two-stage design with adaptive statistical inference.\nThe primary endpoint was met, with 26 of 44 patients (59.1%) remaining progression-free at 6 months. The estimated 6-month PFS rate was 68% [95% confidence interval (CI), 55%-85%], and the median PFS was 11.5 months [95% CI, 7.9-not reached]. Subgroup analyses suggested greater benefit in patients with a longer treatment-free interval after the penultimate chemotherapy and in those who achieved a complete response to the most recent chemotherapy. Grade \u22653 treatment-related adverse events occurred in 27.3% of patients, with no treatment-related deaths or new safety signals observed.\nThis is the first report of PARPi rechallenge with bevacizumab as maintenance therapy in this setting. The combination demonstrated promising efficacy, particularly in patients with favorable platinum responsiveness, and warrants further investigation in biomarker-driven studies.",
+    "authors": "Cho Hyun-Woong; Park Jeong-Yeol; Lim Myong Cheol; Kim Byoung-Gie; Han Seungbong; Choi Min Chul; Kim Jae-Weon; Jeong Dae Hoon; Seo Hae; Choi Jungmin; Pujade-Lauraine E; Lee Jung-Yun",
+    "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:20:03.652991"
+  },
+  {
+    "pmid": "41609344",
+    "title": "Retraction: PAK3 downregulation induces cognitive impairment following cranial irradiation.",
+    "abstract": "",
+    "authors": "Lee Haksoo; Kang Hyunkoo; Moon Changjong; Youn BuHyun",
+    "journal": "eLife",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:20:03.998394"
+  },
+  {
+    "pmid": "41609021",
+    "title": "Correction: Down-regulated GAS6 impairs synovial macrophage efferocytosis and promotes obesity-associated osteoarthritis.",
+    "abstract": "",
+    "authors": "Yao Zihao; Qi Weizhong; Zhang Hongbo; Zhang Zhicheng; Liu Liangliang; Shao Yan; Zeng Hua; Yin Jianbin; Pan Haoyan; Guo Xiongtian; Liu Anling; Cai Daozhang; Bai Xiaochun; Zhang Haiyan",
+    "journal": "eLife",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:20:04.344338"
+  },
+  {
+    "pmid": "41609019",
+    "title": "Mitochondrial protein carboxyl-terminal alanine-threonine tailing promotes human glioblastoma growth by regulating mitochondrial function.",
+    "abstract": "The rapid and sustained proliferation of cancer cells necessitates increased protein production, which, along with their disrupted metabolism, elevates the likelihood of translation errors. Ribosome-associated quality control (RQC), a recently identified mechanism, mitigates ribosome collisions resulting from frequent translation stalls. However, the precise pathophysiological role of the RQC pathway in oncogenesis remains ambiguous. Our research centered on the pathogenic implications of mitochondrial stress-induced protein carboxyl-terminal alanine and threonine tailing (msiCAT-tailing), a specific RQC response to translational arrest on the outer mitochondrial membrane, in human glioblastoma multiforme (GBM). The presence of msiCAT-tailed mitochondrial proteins was observed commonly in glioblastoma stem cells (GSCs). The exogenous introduction of the mitochondrial ATP synthase F1 subunit alpha (ATP5\u03b1) protein, accompanied by artificial CAT-tail mimicking sequences, enhanced mitochondrial membrane potential (\u0394\u03a8m) and inhibited the formation of the mitochondrial permeability transition pore (MPTP). These alterations in mitochondrial characteristics provided resistance to staurosporine (STS)-induced apoptosis in GBM cells. Consequently, msiCAT-tailing can foster cell survival and migration, whereas blocking msiCAT-tailing via genetic or pharmacological intervention can impede GBM cell overgrowth.",
+    "authors": "Zhang Bei; Cai Ting; Reddy Esha; Wu Yuanna; Mondal Isha; Tang Yinglu; Gbufor Adaeze Scholastical; Wang Jerry; Shen Yawei; Liu Qing; Sun Raymond; Ho Winson S; Lu Rongze Olivia; Wu Zhihao",
+    "journal": "eLife",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:20:04.689027"
+  },
+  {
+    "pmid": "41609016",
+    "title": "Feeding rates in sessile versus motile ciliates are hydrodynamically equivalent.",
+    "abstract": "Motility endows microorganisms with the ability to swim to nutrient-rich environments, but many species are sessile. Existing hydrodynamic arguments in support of either strategy, to swim or to attach and generate feeding currents, are often built on a limited set of experimental or modeling assumptions. Here, to assess the hydrodynamics of these 'swim' or 'stay' strategies, we propose a comprehensive methodology that combines mechanistic modeling with a survey of published shape and flow data in ciliates. Model predictions and empirical observations show small variations in feeding rates in favor of either motile or sessile cells. Case-specific variations notwithstanding, our overarching analysis shows that flow physics imposes no constraint on the feeding rates that are achievable by the swimming versus sessile strategies - they can both be equally competitive in transporting nutrients and wastes to and from the cell surface within flow regimes typically experienced by ciliates. Our findings help resolve a long-standing dilemma of which strategy is hydrodynamically optimal and explain patterns occurring in natural communities that alternate between free swimming and temporary attachments. Importantly, our findings indicate that the evolutionary pressures that shaped these strategies acted in concert with, not against, flow physics.",
+    "authors": "Liu Jingyi; Man Yi; Costello John H; Kanso Eva",
+    "journal": "eLife",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:20:05.034706"
+  },
+  {
+    "pmid": "41608868",
+    "title": "Gut microbe-derived trimethylamine shapes circadian rhythms through the host receptor TAAR5.",
+    "abstract": "Elevated levels of the gut microbe-derived metabolite trimethylamine ",
+    "authors": "Mahen Kala K; Massey William J; Orabi Danny; Brown Amanda L; Jaramillo Thomas C; Burrows Amy; Horak Anthony J; Dutta Sumita; Mrdjen Marko; Mouannes Nour; Varadharajan Venkateshwari; Osborne Lucas J; Ye Xiayan; Yarbrough Dante M; Grubb Treg; Zajczenko Natalie; Hohe Rachel; Banerjee Rakhee; Linga Pranavi; Laungani Dev; Hajjar Adeline M; Sangwan Naseer; Dwidar Mohammed; Buffa Jennifer A; Swanson Garth R; Wang Zeneng; Brown Jonathan Mark",
+    "journal": "eLife",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:20:05.380085"
+  },
+  {
+    "pmid": "41608858",
+    "title": "Branched actin polymerization drives invasive protrusion formation to promote myoblast fusion during mouse skeletal muscle regeneration.",
+    "abstract": "Skeletal muscle regeneration is a multistep process involving the activation, proliferation, differentiation, and fusion of muscle stem cells, known as satellite cells. Fusion of satellite cell-derived myoblasts (SCMs) is indispensable for generating the multinucleated, contractile myofibers during muscle repair. However, the molecular and cellular mechanisms underlying SCM fusion during muscle regeneration remain incompletely understood. Here, we reveal a critical role for branched actin polymerization in SCM fusion during mouse skeletal muscle regeneration. Using conditional knockouts of the Arp2/3 complex and its actin nucleation-promoting factors N-WASP and WAVE, we demonstrate that branched actin polymerization is specifically required for SCM fusion but dispensable for satellite cell proliferation, differentiation, and migration. We show that the N-WASP and WAVE complexes have partially redundant functions in regulating SCM fusion and that branched actin polymerization is essential for generating invasive protrusions at fusogenic synapses in SCMs. Together, our study identifies branched-actin regulators as key components of the myoblast fusion machinery and establishes invasive protrusion formation as a critical mechanism enabling myoblast fusion during skeletal muscle regeneration.",
+    "authors": "Lu Yue; Walji Tezin; Pandey Pratima; Zhou Chuanli; Habela Christa W; Snapper Scott B; Li Rong; Chen Elizabeth H",
+    "journal": "eLife",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:20:05.723384"
+  },
+  {
+    "pmid": "41606602",
+    "title": "Dragon Kill Points: applying a transparent working template to relieve authorship stress.",
+    "abstract": "Classifying and ranking academic authorship lists is complex in practice, despite existing frameworks, and can lead to conflict. We propose Dragon Kill Points, adapted from multiplayer gaming, to track contributions throughout a project's lifecycle. Dragon Kill Points is based on five principles: granularity, responsibility, equity, autonomy, and transparency (GREAT). These ensure detailed task records, clear criteria, equitable rules, contributor flexibility, and shared documentation. By applying Dragon Kill Points, teams can reduce disputes, promote inclusivity, and recognise all contributions, including middle authorship. This scalable system offers a practical solution for managing authorship in collaborative research.",
+    "authors": "Martinig April Robin; Burk Spenser L P; Drobniak Szymon M; Perry Isabella; Morrison Kyle; Petersohn Megan; Pottier Patrice; Nakagawa Shinichi; Pollo Pietro; Ricolfi Lorenzo; Williams Coralie; Mizuno Ayumi; Chhen Aimee; Tam Jesse; Yang Yefeng; de Jong Julia; Ceccacci Alberto; Cuadros Sandra; Lagisz Malgorzata",
+    "journal": "BMC biology",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:20:06.066009"
+  },
+  {
+    "pmid": "41606370",
+    "title": "Critical social-media posts linked to retractions of scientific papers.",
+    "abstract": "",
+    "authors": "Fieldhouse Rachel",
+    "journal": "Nature",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:20:06.415803"
+  },
+  {
+    "pmid": "41605925",
+    "title": "AACRNL evolved from virulence factor to epigenetic parasite driving genome expansion in free-living eukaryotes.",
+    "abstract": "Crinkler effectors are iconic toxins deployed by pathogens to suppress host immunity, a function long thought exclusive to pathogenic species. Here, we uncover a striking evolutionary twist: an ADP-ribosyltransferase-associated Crinkler-like protein that has repurposed its toxin-derived activity to function as an epigenetic parasite in free-living eukaryotes, challenging the paradigm that Crinkler effectors are exclusively pathogen-restricted virulence factors. The ADP-ribosyltransferase-associated Crinkler-like protein retains a functional mono-ADP-ribosyltransferase domain homologous to diphtheria toxin, yet exhibits degeneration of N-terminal host-targeting domain, severing ties to canonical pathogenic functions. This activity enables dual subversion of host mechanisms: the ADP-ribosyltransferase-associated Crinkler-like protein mono-ADP-ribosylates the EZH2, reducing H3K27me3-mediated silencing and reactivating its own locus and adjacent transposons to drive replicative amplification; simultaneously, it modifies the immune adaptor TRAF6, suppressing NF-\u03baB and IRF3 pathways to weaken innate immune surveillance and facilitate sustained propagation within the host genome. Notably, this parasitic strategy is countered by host detoxification: TRAF6 ubiquitinates ADP-ribosyltransferase-associated Crinkler-like protein, targeting it for proteasomal degradation. Together, our findings reveal how a toxin-derived effector escaped pathogenic contexts to evolve as a selfish genomic element, leveraging toxin-like activity to subvert epigenetic and immune barriers and redefining the evolutionary potential of Crinkler toxins as drivers of genomic conflict beyond pathogenicity.",
+    "authors": "Xu Tianjun; Geng Shang; Lv Xing; Xing Qianru; Sun Yuena",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:20:06.769505"
+  },
+  {
+    "pmid": "41605918",
+    "title": "Prenatal Zika virus exposure disrupts social-emotional development and cortical visual function in infant macaques.",
+    "abstract": "Prenatal Zika virus (ZIKV) exposure can result in outcomes ranging from severe birth defects to subtle developmental delays, yet the underlying mechanisms remain unclear. Using a translational rhesus macaque model, we assess visual, auditory, and neurodevelopmental outcomes through 12 months of age following first-trimester ZIKV inoculation. Pregnant macaques, either flavivirus-naive or with prior dengue virus (DENV) exposure, are inoculated with Asian or African ZIKV lineages. Maternal viremia duration, placental viral burden, and neutralizing antibody titers vary but are not associated with developmental outcomes. At 12 months, ZIKV-exposed infants exhibit altered maternal attachment behaviors and reduced inhibition toward novel sensory stimuli. Visual evoked potentials are impaired at 3 months but normalize by 12 months; hearing loss is more frequent but not statistically significant. These outcomes are driven by ZIKV exposure itself, independent of maternal infection characteristics. Our findings highlight the limitations of maternal biomarkers in risk prediction and support incorporating infant-focused developmental outcomes in studies of maternal interventions.",
+    "authors": "Ausderau Karla K; Boerigter Ben; Razo Elaina R; Gutkes Jake; Krabbe Nicholas P; Mitzey Ann M; Walsh Shannon; Menna Viktorie; Drew John R; Kabakov Sabrina; Eckes Finn; Spanton Rachel V; Shah Anika; Sun Angelica; Katz Alex; Kim Charlene; Hartman Amy; Weiler Andrea M; Rasmussen Carol; Nork T Michael; Basu Puja; Simmons Heather A; Ver Hoeve James; Capuano Saverio; Aliota Matthew T; Friedrich Thomas C; Mohr Emma L",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:20:07.114845"
+  },
+  {
+    "pmid": "41411410",
+    "title": "Extreme plate boundary localization promotes shallow earthquake slip at the Japan Trench.",
+    "abstract": "The 2011 moment magnitude 9.1 Tohoku-oki earthquake is exceptional among great earthquakes for having peak slip of ~50 to 70 meters on the shallowest portion of the plate boundary megathrust. Drill cores and geophysical logs from International Ocean Discovery Program Expedition 405 demonstrate that the megathrust preferentially develops at the top or base of the pelagic clay in the sedimentary layers present on the incoming Pacific Plate, where pronounced contrasts in physical properties occur. This preference results in a narrow, weak fault located at a major mechanical contact between frontal prism mud and subducted sediments, which enhances the tendency for shallow seismic slip, suggesting that the Japan Trench may be more susceptible to ruptures with large shallow slip than are margins without weak clays.",
+    "authors": "Kirkpatrick J D; Savage H M; Regalla C; Shreedharan S; Ross C; Okuda H; Nicholson U; Ujiie K; Hackney R; Conin M; Pei P; Satolli S; Zhang J; Fulton P; Ikari M; Kodaira S; Maeda L; Okutsu N; Toczko S; Eguchi N; ; Bellanova P; Brown C; Brunet M; Castillo M R; Chang Y-C; Doan M-L; Everard J; Fintel A; Ford J; Fukuchi R; Gough A; Guo H; G\u00fcrer D; Hagino M; Hamada Y; Hosono H; Jurado M J; Ijiri A; Ishikawa T; Iwai M; Jeppson T; Kamiya N; Kanamatsu T; LaPlante A; Lin W; Miyakawa A; Morono Y; Nakamura Y; Pizer C; Rasbury T; Robertson R; Schaible K; Sone H; Sun C; Uchida T; Vannucchi P; Yamaguchi A; Yamamoto Y; Yoshimoto T",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:20:07.459964"
+  },
+  {
+    "pmid": "41196951",
+    "title": "The origin of hepatocellular carcinoma depends on metabolic zonation.",
+    "abstract": "The origin of cancer is poorly understood because premalignant cells are rarely followed in their native environments. Although the spatial compartmentalization of metabolic functions is critical for proper liver function, it is unknown whether cancers arise from some zones but not others and whether there are metabolic determinants of cancer risk. Zone-specific, mosaic introduction of ",
+    "authors": "Guo Jason; Liang Roger; Chung Andrew; Li Zhijie; Li Boyuan; Chen Eric; Li Lin; Wang Jingjing; Hsieh Meng-Hsiung; Fang Ivy Xiangyi; Kroger Benjamin; Wang Yunguan; Zhu Min; Ren Xiongzhao; Mannino Greg; Jia Yuemeng; Wei Yonglong; Moore Stephen; Siegwart Daniel J; Chung Stephen S; Wang Zixi; Sharma Tripti; Komjeti Suman; Han Yi; Gopal Purva; Xiao Guanghua; Wang Tao; Zhu Hao",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:20:07.805347"
+  }
+]

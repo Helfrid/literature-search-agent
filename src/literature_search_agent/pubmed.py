@@ -49,6 +49,7 @@ class ScoringSheet(BaseModel):  # type: ignore[misc]
     model_config = ConfigDict(
         json_schema_extra={
             "example": {
+                "scorer": "human",
                 "pmid": "12345678",
                 "title": "CRISPR-mediated disruption of CDK4/6",
                 "score": 0,

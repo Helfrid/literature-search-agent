@@ -1,0 +1,632 @@
+[
+  {
+    "pmid": "41645925",
+    "title": "Endless forms - how genome organization underlies evolution and development.",
+    "abstract": "Within the nucleus of each human cell, \u223c2\u00a0m of linear DNA is compacted and organized. The structures and principles of genome organization are developmentally regulated and broadly evolutionarily conserved. However, conclusive links between genome structure and function have been difficult to find. In this Review, we provide an overview of mammalian genome organization, highlight recent studies demonstrating how it interacts with evolutionary diversity, and explore its contributions to development. We propose an innovative perspective - that variability in genome organization supports plastic cell fates in multicellular organisms - and draw analogies to show how evolutionary variation can inform study of the function of genome organization.",
+    "authors": "Edwards Alexandra N; Finn Elizabeth H",
+    "journal": "Journal of cell science",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:07.245902",
+    "analysed": true
+  },
+  {
+    "pmid": "41645717",
+    "title": "Expression of Concern: Inhibiting EGF Receptor or SRC Family Kinase Signaling Overcomes BRAF Inhibitor Resistance in Melanoma.",
+    "abstract": "",
+    "authors": "Girotti Maria R; Pedersen Malin; Sanchez-Laorden Berta; Viros Amaya; Turajlic Samra; Niculescu-Duvaz Dan; Zambon Alfonso; Sinclair John; Hayes Andrew; Gore Martin; Lorigan Paul; Springer Caroline; Larkin James; Jorgensen Clause; Marais Richard",
+    "journal": "Cancer discovery",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:07.591441",
+    "analysed": true
+  },
+  {
+    "pmid": "41645716",
+    "title": "Expression of Concern: Application of Sequencing, Liquid Biopsies, and Patient-Derived Xenografts for Personalized Medicine in Melanoma.",
+    "abstract": "",
+    "authors": "Girotti Maria R; Gremel Gabriela; Lee Rebecca; Galvani Elena; Rothwell Dominic; Viros Amaya; Mandal Amit Kumar; Jonathan Lim Kok Haw; Saturno Grazia; Furney Simon J; Baenke Franziska; Pedersen Malin; Rogan Jane; Swan Jacqueline; Smith Matthew; Fusi Alberto; Oudit Deemesh; Dhomen Nathalie; Brady Ged; Lorigan Paul; Dive Caroline; Marais Richard",
+    "journal": "Cancer discovery",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:07.935986",
+    "analysed": true
+  },
+  {
+    "pmid": "41645715",
+    "title": "Mind the GARP: How Glucocorticoids Unleash T Cells against Melanoma.",
+    "abstract": "Earnshaw and colleagues discover a tumor-intrinsic mechanism driven by glucocorticoid receptor (GR) activation, in which GR downregulates glycoprotein A repetitions predominant (GARP), thereby inhibiting TGF\u03b2 signaling and releasing CD8+ T cells to exert their antitumor activity. This mechanistic insight significantly advances our understanding of how GR shapes tumor immunity and highlights new avenues for overcoming immune checkpoint blockade resistance in melanoma and other cancers. See related article by Earnshaw et al., p. 345.",
+    "authors": "Roest Merel; Padr\u00e3o Nuno; Zwart Wilbert",
+    "journal": "Cancer discovery",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:08.278748",
+    "analysed": true
+  },
+  {
+    "pmid": "41645714",
+    "title": "Different Diseases, Different Escapes: Trastuzumab Deruxtecan Resistance in HER2-Amplified versus HER2-Low Breast Cancer.",
+    "abstract": "In this issue of Cancer Discovery, Chen and colleagues demonstrate that, in preclinical models, HER2 expression level directly affects trastuzumab deruxtecan internalization and cytotoxicity, with clinical data revealing divergent target dynamics depending on whether HER2 functions as an oncogenic driver or a dispensable antigen. Together with prior preclinical and clinical evidence, these findings support a context-dependent model in which target downregulation predominates in HER2-low disease, whereas payload resistance or rare binding-site mutations may dominate resistance in HER2-addicted tumors, with important implications for antibody-drug conjugate selection and sequencing. See related article by Chen et al., p. 235.",
+    "authors": "O'Meara Tess A; Tarantino Paolo",
+    "journal": "Cancer discovery",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:08.622229",
+    "analysed": true
+  },
+  {
+    "pmid": "41645713",
+    "title": "Raising Awareness of Tremendous Progress and Ongoing Challenges in the Fight against Childhood and Adolescent Cancers.",
+    "abstract": "Pediatric cancers are unique diseases in many aspects, including their genomic driver alterations and resulting unique biology, as well as the attendant challenges posed thereby. We focus on challenges including the need for increased funding to pursue novel therapy development for pediatric cancer-specific driver alterations and their testing in clinical trials, as well as the underappreciated economic impact of pediatric cancer on families and patients and on society at large.",
+    "authors": "Potter Samara L; Mardis Elaine R",
+    "journal": "Cancer discovery",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:08.966918",
+    "analysed": true
+  },
+  {
+    "pmid": "41645712",
+    "title": "Plasticity as Resistance: KRAS Inhibition Reveals WNT Adaptation in Metastatic Colorectal Cancer.",
+    "abstract": "Centonze and colleagues demonstrate that KRASG12D inhibition in metastatic colorectal cancer triggers rapid transcriptional reprogramming from a metastasis-associated EMP1+ state to a WNT-driven LGR5+ stem cell-like state, a plastic adaptation captured through real-time live cell imaging, revealing cell state conversion as a mechanism of therapeutic resistance that can be exploited through combinatorial targeting. See related article by Centonze et al., p. 320.",
+    "authors": "Eng George; Yilmaz Omer H",
+    "journal": "Cancer discovery",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:09.312019",
+    "analysed": true
+  },
+  {
+    "pmid": "41645711",
+    "title": "Shaping the Tumor Microenvironment: Insights from Host-Microbiota Interactions.",
+    "abstract": "Gut microbiota has emerged as a determinant of cancer therapy efficacy, shaping immune responses both systemically and locally within the tumor microenvironment. In this piece, we discuss current insights into the mechanistic basis of these interactions, with a focus on type I interferon as a central mediator of microbiota-driven immune modulation.",
+    "authors": "Lam Khiem C; Goldszmid Romina S",
+    "journal": "Cancer discovery",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:09.657242",
+    "analysed": true
+  },
+  {
+    "pmid": "41645710",
+    "title": "Holding the Line: Negative Selection Maintains the Karyotype in Metastatic Colorectal Cancer.",
+    "abstract": "Aneuploidy is prevalent across human cancers, yet its specific contributions to tumor evolution remain poorly understood. In this issue, Cross, Nowinski, Cresswell, Mossner, and colleagues present a longitudinal analysis of 755 samples from 167 patients with colorectal cancer, uncovering the temporal dynamics of karyotype evolution in this tumor type. See related article by Cross et al., p. 218.",
+    "authors": "Okada Hajime; Slutsky Rachel; Ben-David Uri",
+    "journal": "Cancer discovery",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:10.003648",
+    "analysed": true
+  },
+  {
+    "pmid": "41645709",
+    "title": "Clinical Validation of a Cell-Free DNA Fragmentome Assay for Augmentation of Lung Cancer Early Detection-Reply.",
+    "abstract": "",
+    "authors": "Mazzone Peter J; Bach Peter B; Scharpf Robert B; Velculescu Victor E; Pike Luke R G",
+    "journal": "Cancer discovery",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:10.347336",
+    "analysed": true
+  },
+  {
+    "pmid": "41645708",
+    "title": "Senescence as the Next Frontier in Cancer Research: Navigating the Rising Tide of Geriatric Oncology.",
+    "abstract": "The global demographic shift toward an aging population has positioned cancer as a preeminent challenge in public health, with the incidence of most malignancies increasing precipitously with advancing age. By targeting the bidirectional nexus of cancer and aging, we can pioneer precision interventions to improve outcomes for the growing geriatric oncology population.",
+    "authors": "Zhou Tianxing; Yan Jingrui; Zhang Yu; Shao Fanyue; Xu Jingbo; Hu Tinghai; Mao Guohua; Shi Shangheng; Zhang Yaqi; Hao Jihui",
+    "journal": "Cancer discovery",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:10.692242",
+    "analysed": true
+  },
+  {
+    "pmid": "41645707",
+    "title": "Clinical Validation of a Cell-Free DNA Fragmentome Assay for Augmentation of Lung Cancer Early Detection-Letter.",
+    "abstract": "",
+    "authors": "Tammem\u00e4gi Martin C",
+    "journal": "Cancer discovery",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:11.037722",
+    "analysed": true
+  },
+  {
+    "pmid": "41645234",
+    "title": "Overexpression of Rtl1 via synonymous mutation silencing miRNA target site drives skeletal muscle hypertrophy and inflammation in mice.",
+    "abstract": "The retrovirus-derived Rtl1 gene is integral to skeletal muscle development. However, the underlying mechanisms and functional roles of Rtl1 in skeletal muscle growth remain unclear.\nWe generated conditional overexpression of Rtl1 in mice via synonymous mutations that silence seven miRNA target sites, thereby efficiently abolishing miRNA-mediated inhibition in vivo. This conditional, specific overexpression of synonymous mutated Rtl1 (mRtl1) in the diaphragm muscles of mice foetuses resulted in aberrant embryonic diaphragm muscle development, adversely affecting both diaphragmatic and pulmonary development. This modification ultimately culminated in severe respiratory distress, leading to postnatal mortality. Subsequently, the conditional overexpression of mRtl1 in the tibialis anterior muscle of adult mice resulted in inflammation and hypertrophy. Furthermore, the overexpression of mRtl1 in cultured myotubes activated the TLR7/8-NF\u03baB and Jak-STAT3 signalling pathways, resulting in hypertrophy and inflammation.\nThese findings suggest that the overexpression of Rtl1 may contribute to skeletal muscle hypertrophy and induce inflammation in murine models. Consequently, the precise regulation of Rtl1 expression is essential for maintaining skeletal muscle function.",
+    "authors": "Song Xianwei; Niu Lizhu; Fan Xiaoxuan; Xu Xianghua; Zhao Zihao; Zhang Zhixuan; Tong Yingwei; Huang Hao; Zhu Zhengmao; Cheng Huijun; Xie Shengsong; Xu Xuewen",
+    "journal": "BMC biology",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:11.379466",
+    "analysed": true
+  },
+  {
+    "pmid": "41645155",
+    "title": "FUS and TDP-43 aggregation are uncoupled from toxicity in ageing yeast models.",
+    "abstract": "Protein aggregation is indicative of the loss of proteostasis associated with neurodegenerative diseases, including Amyotrophic Lateral Sclerosis (ALSO) and Frontotemporal Dementia (FTD). Proteins like Fused in sarcoma (FUS) and Tar DNA-binding protein 43 (TDP-43) accumulate and aggregate in the cytosol of neurons in ALSO/FTD. Yet, it remains unclear how ageing affects FUS and TDP-43 aggregation, and how these aggregates in turn influence neurodegeneration in ALSO/FTD. In addition, mistranslation can reduce longevity, challenge proteostasis, and modulate protein aggregation. To investigate how ageing and mistranslation modulate FUS and TDP-43 aggregation and toxicity, we enlist tractable and reliable yeast models.\nUsing optimized low-expression FUS and TDP-43 yeast models, we demonstrate that chronological ageing antagonizes proteostasis, the steady state levels and solubility of molecular chaperones, and aggregation of FUS and TDP-43. In addition, mistranslation caused by tRNA variants further antagonize FUS and TDP-43 aggregation and synergize to exacerbate FUS and TDP-43 cytotoxicity.\nOur work provides new insights into factors that uncouple FUS and TDP-43 aggregation from toxicity and support a rather protective role for FUS and TDP-43 aggregates in promoting longevity.",
+    "authors": "McDonald Donovan W; Chugh Nikita; Sava Rares; Duennwald Martin L",
+    "journal": "BMC biology",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:11.723620",
+    "analysed": true
+  },
+  {
+    "pmid": "41637521",
+    "title": "Nanocollision promotes locomotion of dendritic cells for tumor therapy.",
+    "abstract": "Mechanical stimuli originating from extracellular matrix have been proved to affect antitumor immunity by regulating dendritic cell (DC) locomotion. However, the immunological consequences of ultrasmall bioparticle-induced nanocollision remain largely an unexplored realm despite its ubiquitous and incessant occurrence within the in vivo milieu. Herein, we disclose that nanocollisions caused by endogenous bioparticles, such as extracellular vesicles, can induce localized membrane deformations. This spatially confined mechanical input activates Piezo1 at collision sites and promotes myosin IIA phosphorylation-mediated F-actin stabilization, enhancing DC intrinsic motility. Subsequent diffusion of Ca",
+    "authors": "Zhu Qiangyuan; Liu Shenglan; Chen Lei; Wang Xin; Liu Jiayi; Gao Cen; Tang Rongbing",
+    "journal": "Science advances",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:12.072032",
+    "analysed": true
+  },
+  {
+    "pmid": "41637520",
+    "title": "Introgressed mitochondrial fragments from archaic hominins alter nuclear genome function in modern humans.",
+    "abstract": "Archaic introgression introduced functionally relevant variants into modern humans, yet small-scale insertions remain understudied. Here, we leverage 2519 modern human genomes and four high-coverage archaic hominin genomes to systematically characterize nuclear mitochondrial DNA segments (NUMTs). We uncover 483 polymorphic NUMTs across globally diverse human populations and 10 in archaic genomes. By combining overlap with Neanderthal-derived and Denisovan-derived haplotypes, phylogenetic analyses, insertion time estimates, and haplotype colocalization, we identify five NUMTs introduced into modern humans via archaic hominin introgression. Functional analyses reveal that introgressed NUMTs can modulate gene expression, including allele-specific up-regulation of the immune-related gene ",
+    "authors": "Zhu Qiong; Zhang Jinning; Zhou Weichen; Liang Shen-Ao; Wang Shengmiao; Cai Xinyu; Li Fuyuan; Li Jin; Zhang Guojie; Feng Huijuan; Fu Qiaomei; Akey Joshua M; Zhang Feng; Jin Li; Xu Shuhua; Zheng Hong-Xiang; Chen Lu",
+    "journal": "Science advances",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:12.416520",
+    "analysed": true
+  },
+  {
+    "pmid": "41637519",
+    "title": "Complex perishable technologies from the North American Great Basin reveal specialized Late Pleistocene adaptations.",
+    "abstract": "Structurally and functionally complex technologies were a defining element of Late Pleistocene societies, but physical examples of them remain extremely rare in the archaeological record because most were made from perishable raw materials. The sparse material record of those myriad technologies limits our ability to formulate nuanced models about this critical period in human history. We present radiocarbon, Zooarchaeology by Mass Spectrometry, and other taxonomic identification data from two of the largest Late Pleistocene perishable assemblages in the world, Cougar Mountain Cave and Paisley Caves, Oregon, US. These data include 66 radiocarbon dates on 55 items made from 15 different plant and animal taxa, including the oldest known physical remains of sewn hide. We provide data on eyed bone needles from four regional sites, showing that they are among the finest bone needles made in the Pleistocene. Our study illuminates the complex interplay of culture, climate, and technology in the Pleistocene.",
+    "authors": "Rosencrance Richard L; Smith Geoffrey M; McDonough Katelyn N; Jazwa Christopher S; Antonosyan Mariya; Kallenbach Elizabeth A; Connolly Thomas J; Culleton Brendan J; Puseman Kathryn; McGuinness Megan; Jenkins Dennis L; Stueber Daniel O; Endzweig Pam E; Roberts Patrick",
+    "journal": "Science advances",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:12.761288",
+    "analysed": true
+  },
+  {
+    "pmid": "41637518",
+    "title": "Optoacoustically augmented magnetic guidewire for radiation-free minimally invasive therapies.",
+    "abstract": "Endovascular interventions are essential for treating cerebrovascular diseases, yet their monitoring methods commonly rely on ionizing radiation and contrast agents, posing unnecessary risks to patients and clinicians. We present a multifunctional optoacoustically augmented magnetic guidewire (OptoMaG) that integrates optoacoustic imaging with magnetic navigation to enable radiation-free, image-guided interventions. The ~250-micrometer flexible guidewire incorporates a 460-nanometer luminescent core with an enhanced optoacoustic signature and a FePt magnetic tip for precise, steerable control. Proof-of-concept studies show that OptoMaG can be actively navigated with external magnetic fields to traverse a 3D human-scale cerebrovascular phantom and accurately reach target brain sites. Beyond navigation, the FePt tip enables localized thermal ablation under remote radiofrequency stimulation, highlighting its theranostic potential for tumor treatment. In addition, OptoMaG functions as a light source for photodynamic therapy, selectively activating photosensitizers to destroy tumor cells while preserving healthy tissue. Collectively, OptoMaG provides a safe, radiation-free platform merging real-time navigation with targeted therapeutic capabilities.",
+    "authors": "Wang Fan; Bao Xianqiang; Yildiz Erdost; Yu Yan; De\u00e1n-Ben Xos\u00e9 Lu\u00eds; Kang Wenbin; Zhang Shuaizhong; Sheehan Devin; Soon Ren Hao; Zinnanti Jelena; Razansky Daniel; Sitti Metin",
+    "journal": "Science advances",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:13.106165",
+    "analysed": true
+  },
+  {
+    "pmid": "41637517",
+    "title": "Fungal infection drives metabolic reprogramming in epithelial cells via aerobic glycolysis and an alternative TCA cycle shunt.",
+    "abstract": "",
+    "authors": "Pellon Aize; Sadeghi Nasab Shervin Dokht; Bidkhori Gholamreza; Griffiths James S; Vaga Stefania; Begum Neelu; Blagojevic Mariana; Sigh Nitesh Kumar; Kotowicz Natalia K; Uzochukwu Ifeanyi; Le Guennec Adrien; Henley-Smith Rhonda; Gregson-Williams Harry; Clasen Frederick; Pryce Miranda; Karimpour Nadia; Cook Richard; Anguita Juan; Richardson Jonathan P; Thavaraj Selvam; Naglik Julian R; Shoaie Saeed; Moyes David L",
+    "journal": "Science advances",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:13.446703",
+    "analysed": true
+  },
+  {
+    "pmid": "41637516",
+    "title": "School discipline disparities increase when neighborhood Black population changes.",
+    "abstract": "The racial landscape of US neighborhoods shifted tremendously over the past decade, raising questions about how these changes are reflected in local schools. This study combines school zone shapefiles with census and Civil Rights Database data to explore whether neighborhood racial change in Black populations predicts changes in Black-white school suspension disparities from 2010 to 2018. We find that racial disparities in suspensions increased, particularly in neighborhoods experiencing substantial shifts in Black populations. These increases were especially pronounced in suburban and rural areas with shifting Black populations and all predominantly White neighborhoods. Although school discipline reforms aimed to reduce racial disparities, they only declined in certain types of neighborhoods, most notably in urban areas. Our findings advance insights into processes of school and neighborhood change, school discipline, and racial stratification, with broad policy implications.",
+    "authors": "Candipan Jennifer; Hailey Chantal A",
+    "journal": "Science advances",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:13.790999",
+    "analysed": true
+  },
+  {
+    "pmid": "41637515",
+    "title": "High-efficiency methane consumption by atmospheric methanotrophs in subsurface karst caves: The irrefutable methane sink.",
+    "abstract": "Subsurface karst systems represent substantial but underexplored methane sinks, yet the identities and activities of cave-dwelling methanotrophs remain poorly characterized. We detected increased methane oxidation rates from 2.9\u00a0\u00b1\u00a00.1 to 90.7\u00a0\u00b1\u00a04.5 ng\u00b7g",
+    "authors": "Liu Xiaoyan; Cheng Xiaoyu; Zhang Yiming; Zhao Rui; Wang Weiqi; Li Yang; Chen Zhong-Qiang; Qiu Xincheng; Tuovinen Olli H; Bull Ian D; Evershed Richard P; Wang Hongmei",
+    "journal": "Science advances",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:14.136314",
+    "analysed": true
+  },
+  {
+    "pmid": "41637514",
+    "title": "Photoinduced femtosecond spin-flip assisted by a single-mode linear phonon.",
+    "abstract": "Optical manipulation of spin-flip on a picosecond to femtosecond timescale has long been pursued to innovate next-generation electronic devices. However, understanding the ultrafast spin-electron-lattice coupled dynamics remains challenging, especially when the system is driven far from equilibrium. Here, we demonstrate an ultrafast light-induced spin-flip within 300 fs in Fe",
+    "authors": "Wu Na; Wang En; Chen Daqiang; Lian Chao; Wang Yaxian; Meng Sheng",
+    "journal": "Science advances",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:14.478415",
+    "analysed": true
+  },
+  {
+    "pmid": "41637513",
+    "title": "OsRNS4-mediated cross-kingdom RNA interference is inhibited by ",
+    "abstract": "The ",
+    "authors": "Gao Han; Fang Anfei; Yang Wu; Qiu Shanshan; Zheng Xinhang; Wang Shanzhi; Fan Jing; Guo Hailong; Cui Fuhao; Lee Yong-Hwan; Wang Jiyang; Sun Wenxian",
+    "journal": "Science advances",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:14.821515",
+    "analysed": true
+  },
+  {
+    "pmid": "41637512",
+    "title": "Wildfire smoke PM",
+    "abstract": "The relationships between chronic exposure to wildfire smoke PM",
+    "authors": "Zhang Min; Castro Edgar; Shtein Alexandra; Peralta Adjani A; Danesh Yazdi Mahdieh; Wu Xiao; Schwartz Joel D; Wright Robert O; Wei Yaguang",
+    "journal": "Science advances",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:15.166681",
+    "analysed": true
+  },
+  {
+    "pmid": "41637511",
+    "title": "Discovery and preclinical evaluation of monoclonal antibodies and bispecific engagers targeting the NKG2A inhibitory receptor.",
+    "abstract": "NK and T cells are key effectors that eliminate cancer cells, but upregulation of the inhibitory receptor NKG2A on these cells attenuates antitumor immune responses. To counteract NKG2A inhibitory signaling, we identified two specific fully human monoclonal anti-NKG2A antibodies that block HLA-E ligand binding. These antibodies activated NK cells and enhanced antibody-dependent cellular cytotoxicity of tumor-targeting IgG1s both in vitro and in vivo. Bispecific engagers (BiNKs), generated by fusing NKG2A antibodies with tumor targeting binders, promoted immune synapse formation and directed cytotoxicity of NK and CD8",
+    "authors": "Shin Seungmin; Kim Yae-Jin; Macatangay Bernard J C; Cyktor Joshua C; Hines Margaret G; Sun Ze-Yu; Chen Kong; Mellors John W; Dimitrov Dimiter S; Li Wei; Baek Du-San",
+    "journal": "Science advances",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:15.511259",
+    "analysed": true
+  },
+  {
+    "pmid": "41637510",
+    "title": "Observation of super-ballistic Brownian motion in liquid.",
+    "abstract": "Brownian motion is a foundational physical process characterized by a mean squared displacement that scales linearly in time in thermal equilibrium, known as diffusion. At short times, the mean squared displacement becomes ballistic, scaling as [Formula: see text]. This effect was predicted by Einstein in 1907 and recently observed experimentally. We report that this picture is only true on average; by conditioning specific initial velocities, we predict theoretically and confirm by experiment that the mean squared displacement becomes super-ballistic, with a power scaling law of [Formula: see text]. This result is due to the colored noise of incompressible fluids, resulting in a nonzero first moment for the thermal force when conditioned on nonzero initial velocities. These results are a step toward the unraveling of nonequilibrium dynamics of fluids.",
+    "authors": "Boynewicz Jason; Thumann Michael C; Raizen Mark G",
+    "journal": "Science advances",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:15.855716",
+    "analysed": true
+  },
+  {
+    "pmid": "41637509",
+    "title": "Hybrid female sterility due to cohesin protection errors in mouse oocytes.",
+    "abstract": "Hybrid incompatibility can lead to lethality and sterility of F1 hybrids, promoting speciation. The cell biological basis underlying hybrid incompatibility remains largely unknown, especially in mammals. Here, we found that female hybrids between ",
+    "authors": "El Yakoubi Warif; Pan Bo; Akera Takashi",
+    "journal": "Science advances",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:16.201088",
+    "analysed": true
+  },
+  {
+    "pmid": "41637508",
+    "title": "Overcoming host restrictions to enable continuous passaging of GII.3 human norovirus in human intestinal enteroids.",
+    "abstract": "The establishment of human intestinal enteroids (HIEs) as a model for human norovirus (HuNoV) replication has been transformative for studying this leading cause of gastroenteritis. However, indefinite passaging of HuNoVs in HIEs remained a challenge, necessitating the use of patient stool samples as viral inocula. Using RNA-seq, we identified CXCL10, CXCL11, and CCL5 as up-regulated chemokines, suggesting their potential as host restriction factors. TAK-779, a CXCR3/CCR5/CCR2 antagonist, enhanced GII.3 HuNoV replication and viral spread in a dose- and time-dependent manner, enabling successful passaging of GII.3 HuNoV in two different HIE lines and generation of viral stocks. Sequencing passaged virus revealed one consensus change in the major capsid protein and several dynamic adaptations, suggesting emergence of variants. TAK-779 also enhanced replication of GI.1 and GII.17 strains, but not GII.4, suggesting strain-specific host interactions. This breakthrough in passaging provides insight into HuNoV-host interactions, establishes a scalable in vitro system for virus propagation, and opens avenues for structural, biochemical, and therapeutic studies.",
+    "authors": "Kaur Gurpreet; Crawford Sue E; Javornik Cregeen Sara; Surathu Anil; Ayyar B Vijayalakshmi; Apostol Carmen V; Phuc Hoa Nguyen; Ettayebi Khalil; Boussattach Aaya; Zeng Xi-Lei; Blutt Sarah E; Doddapaneni Harsha; Muzny Donna M; Coarfa Cristian; Anish Ramakrishnan; Prasad B V Venkataram; Atmar Robert L; Ramani Sasirekha; Estes Mary K",
+    "journal": "Science advances",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:16.545261",
+    "analysed": true
+  },
+  {
+    "pmid": "41637507",
+    "title": "Oriented cell divisions induce basal progenitors and regulate neural expansion across tissues and species.",
+    "abstract": "Nervous system expansion relies on progenitor proliferation, yet its regional and evolutionary regulation is incompletely understood. While basally dividing progenitors are implicated in neocortical growth, their developmental origins and relevance beyond the cortex remain unclear. We show here that double inactivation of spindle orientation regulators GPSM2 and SAPCD2 in mice completely reorients progenitor divisions in both the neocortex and retina. This shift increases basal progenitors over sixfold in the neocortex and induces their ectopic emergence in the retina, resulting in extra cell layers and\u00a0~30% tissue enlargement. Single-cell RNA sequencing reveals that the induced basal progenitors in the cortex resemble human outer radial glia, and both cortical and retinal progenitors show altered Hippo signaling. Last, macaque and human retinas display twice as many reoriented divisions as the mouse and naturally contain basal progenitors. These findings show that division orientation is critical for regulating neural progenitor output and scaling tissue growth.",
+    "authors": "Boulan Benoit; Lacomme Marine; Benadjal Amin; Krueger Miranda; Currie Ko; La Torre Anna; Ch\u00e9dotal Alain; Cayouette Michel",
+    "journal": "Science advances",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:16.891924",
+    "analysed": true
+  },
+  {
+    "pmid": "41637506",
+    "title": "Self-modifying percolation governs detachment in soft suction wet adhesion.",
+    "abstract": "Aquatic animals such as octopuses use soft suction cups to solve the persistent challenge of wet attachment on rough surfaces. Detachment has long been described as smooth drainage governed by a Reynolds-type pressure gradient. Combining spatiotemporal pressure mapping with confocal imaging of the fluid layer between a suction cup-substrate interface, we reveal a two-stage, nonequilibrium pathway for pressure equalization that challenges this conventional view. Suction-induced elastic deformation dynamically remodels the interfacial fluid, producing a self-coupled pressure channel system. Stage I is governed by an outward-moving invasion-percolation suction front with diffusion-like scaling. When internal suction falls below a critical value, the network opens globally, and stage II follows classical Poiseuille drainage. This mechanism defines a self-modifying percolation in which the flow remodels its own pathways, which advances our understanding of biological suction and viscous adhesion and suggests design principles for long-lived wet adhesives and hydrogel microfluidics.",
+    "authors": "Aly Abdallah; Saif M Taher A",
+    "journal": "Science advances",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:17.235502",
+    "analysed": true
+  },
+  {
+    "pmid": "41637505",
+    "title": "Lunar chronology model with the Chang'e-6 farside samples and implications for the early impact history.",
+    "abstract": "The radiometric ages of the returned samples are the cornerstone of lunar cratering chronology models. However, all the previous samples were from the lunar nearside and the radiometric ages of those samples that can be associated with particular surfaces are <4.0 billion years. On 25 June 2024, Chang'e-6 successfully returned 1.935-kilogram samples from the lunar farside. The samples included local basalts with an age of 2807\u00a0\u00b1\u00a03 million years and the norites with an age of 4247\u00a0\u00b1\u00a05 million years likely corresponding to the age of the South Pole-Aitken basin. With these radiometric ages, we refined the lunar chronology function (CF) and verified that it is still consistent with a combination of an exponential decrease and a linear rate. We further derived the impacting rate and found it supports a smooth decay instead of abrupt changes of the impactor flux at early times. The refined lunar CF can be used to obtain more reliable ages for unsampled lunar areas and provide critical constraint for the lunar early impact history.",
+    "authors": "Yue Zongyu; Gou Sheng; Wang Yexin; Li Huacheng; Michael Gregory; Liu Jianzhong; Sun Shujuan; Lin Yangting; Di Kaichang; Li Qiuli; Chen Yi; Yang Wei; Xie Bin; Hu Sen; Li Shouding; Zheng Bo; Mao Tianqiao; Li Xianhua; Wu Fuyuan",
+    "journal": "Science advances",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:17.581161",
+    "analysed": true
+  },
+  {
+    "pmid": "41637504",
+    "title": "Electrolyte design for aqueous batteries.",
+    "abstract": "Aqueous batteries, with their inherent safety, operational simplicity, and cost-effectiveness, have emerged as promising candidates for grid-scale energy storage applications. However, the relatively low output voltage of aqueous systems continues to limit their achievable energy density. The aqueous electrolyte occupies a central role in addressing this limitation because it mediates ion transport and interfacial reactions at both the cathode and anode; accordingly, advances in electrolyte design are indispensable to meet future performance demands. In this review, we elucidate the core bottlenecks in aqueous electrolyte design, distill molecular-level design principles, and outline feasible pathways for future practical implementation. We aim to guide the development of next-generation aqueous electrolytes that harmonize outstanding electrochemical performance, thereby accelerating the transition from laboratory concepts to transformative energy solutions.",
+    "authors": "Hong Hu; Nian Qingshun; Guo Xun; Li Qing; Zhi Chunyi",
+    "journal": "Science advances",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:17.925037",
+    "analysed": true
+  },
+  {
+    "pmid": "41637503",
+    "title": "The ocean's biological carbon pump under pressure.",
+    "abstract": "Increasing hydrostatic pressure induces the release of dissolved organic matter from rapidly settling marine particles and contributes to the depth attenuation of carbon fluxes.",
+    "authors": "Middelburg Jack J",
+    "journal": "Science advances",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:18.270341",
+    "analysed": true
+  },
+  {
+    "pmid": "41637502",
+    "title": "Interface-engineered plasmonic covalent organic framework nanofilms on TiO",
+    "abstract": "Covalent organic frameworks (COFs) hold promise for surface-assisted laser desorption/ionization mass spectrometry imaging (MSI), yet their integration with plasmonic nanostructured platforms remains unexplored. Here, we report a liquid-liquid interfacial self-assembly strategy to construct plasmonic gold nanoparticle-decorated COF nanofilms on titanium dioxide nanotubes. This hierarchical design synergizes plasmonic enhancement, efficient charge transfer, and enhanced ionization efficiency, achieving sensitivity improvement over conventional matrices. The plasmonic platform affords universal compatibility with currently available biosample preparation protocols including imprinting, stamping, and cryo-sectioning for multitissue MSI. The first whole-plant imprinting MSI of ",
+    "authors": "Xu Yizhu; Wu Xinzhou; Li Weifeng; Hu Jiadu; Chen Xiran; Chen Yingying; Yin Zhibin; Hang Wei",
+    "journal": "Science advances",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:18.612360",
+    "analysed": true
+  },
+  {
+    "pmid": "41637501",
+    "title": "Injury-induced electrochemical coupling triggers organ growth.",
+    "abstract": "Organ injury triggers nonneuronal electric currents essential for regeneration. However, the mechanisms by which electrical signals are generated, sensed, and transmitted upon damage to promote organ growth remain unclear. Here, we uncover that organ repair relies on dynamic electrochemical coupling between membrane potential depolarization and intracellular signaling, essential to activate cell proliferation. By subsecond live imaging of locally injured zebrafish larval fins, we identify events across time and space: a millisecond, long-range, membrane depolarization gradient, followed by second-persistent intracellular calcium responses. In the subsequent hour, voltage sensing phosphatase senses the injury-driven membrane potential change and autonomously translates the electric signal intracellularly, promoting tissue-wide cell proliferation. Connecting these dynamics with an electrodiffusive model showed that ionic fluxes and electric potential become coupled in the fin's interstitial space, enabling organ-wide signal spreading. Our work reveals the coupling between fast electrical signals and slower intracellular signaling, ensuring complete organ recovery.",
+    "authors": "Liu Jinghui; Nerli Elisa; Duclut Charlie; Vishen Amit S; Berbee Naomi; Kaufmann Sylvia; Ponce Cesar; Arrenberg Aristides B; J\u00fclicher Frank; Mateus Rita",
+    "journal": "Science advances",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:18.955822",
+    "analysed": true
+  },
+  {
+    "pmid": "41637500",
+    "title": "Volcanism-induced collapse and recovery of the Atlantic meridional overturning circulation under glacial conditions.",
+    "abstract": "Volcanic eruptions have considerable impacts on climate across various timescales; however, it remains uncertain if, and how, volcanic activity could drive climate change over multiple millennia. Here we incorporate realistic volcanic forcing into a large ensemble of glacial era-coupled atmosphere-ocean model simulations. These simulations are constrained by sulfate records from ice cores, which help estimate the timing of past major eruptions. We investigate how volcanic eruptions may have occasionally triggered abrupt climate change during the last glacial period. Our results show that very large equatorial eruptions can induce large changes in the Atlantic Meridional Overturning Circulation via atmospheric and ocean circulation changes and air-sea buoyancy fluxes, potentially pushing the climate system between persistent warm and cold states lasting millennia. A simplified perspective of the dynamics shows how unforced natural climate variability may exert a stabilizing influence decades after an eruption, especially as the system nears a tipping point.",
+    "authors": "Vettoretti Guido; Hu Ruei-Jia; Bethke Ingo; Kr\u00fcger Kirstin; Sigl Michael; Outten Stephen; Lin Jaimei; Nuterman Roman; Svensson Anders; Ditlevsen Peter; Jochum Markus",
+    "journal": "Science advances",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:19.300734",
+    "analysed": true
+  },
+  {
+    "pmid": "41637499",
+    "title": "Hydrostatic pressure induces strong leakage of dissolved organic matter from \"marine snow\" particles.",
+    "abstract": "Marine snow forms at the ocean surface, sinks to depth, and ultimately enables carbon sequestration in the seabed. Fast-sinking marine snow particles, such as diatom aggregates, encounter a rapid increase in hydrostatic pressure during their descent. Using incubations in rotating pressure tanks, we found that pressure levels corresponding to 2- to 6-kilometer water depth induce leakage of dissolved organic matter (DOM) from diatom aggregates equivalent to ~50% of their initial carbon contents. The leaked DOM proved to be diatom-derived and changed the amount and composition of DOM in the surrounding seawater substantially. Ultrahigh-resolution mass spectrometry, high protein-like fluorescence, and low carbon:nitrogen ratios classified the leaked DOM as labile. The bioavailability of leaked DOM was demonstrated by its rapid utilization by a pelagic microbial community, leaving mainly recalcitrant DOM behind. Pressure-induced DOM leakage likely weakens the gravitational \"biological carbon pump\" and supplies labile DOM to the pelagic microbiome of the deep ocean.",
+    "authors": "Stief Peter; Niggemann Jutta; Bligh Margot; Buck-Wiese Hagen; W\u00fcnsch Urban; Steinke Michael; Hehemann Jan-Hendrik; Glud Ronnie N",
+    "journal": "Science advances",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:19.646027",
+    "analysed": true
+  },
+  {
+    "pmid": "41637498",
+    "title": "Stress ensemble in the BNST mediates comorbid anxiety and sleep disruption.",
+    "abstract": "Anxiety and insomnia are highly comorbid; however, the underlying brain-circuit mechanisms remain inadequately explored. Here, we identify a dual-functional ensemble within the bed nucleus of the stria terminalis (BNST) that modulates both anxiety-like behaviors and insomnia through distinct neural circuits. Specifically, a subset of BNST neurons exhibits enhanced activity in response to anxiety-related cues and during wakefulness. Activation of these ensemble neurons exacerbates anxiety-like behaviors and reduces non-rapid eye movement (NREM) sleep in chronic restraint stress (CRS) mice. Conversely, inactivation of these neurons alleviates anxiety-like behaviors and promotes NREM sleep. In addition, anxiolytic-hypnotic medication attenuates BNST stress ensemble hyperactivity, mitigating both phenotypes. Furthermore, BNST stress ensembles project divergently to the dorsal raphe nucleus (DRN) and the preoptic area (POA): DRN-projecting neurons selectively modulated anxiety, whereas POA-projecting neurons specifically regulated sleep-wake states. These findings suggest that hyperactive BNST stress ensembles are responsible for inducing anxiety-like behaviors and disrupting sleep in CRS mice and achieve the modality specificity through their divergent downstream targets.",
+    "authors": "Sun Haiyan; Qiu Zhentong; Liu Xin; Li Yan; Zhao Xu; Zhou Yanqin; Guo Qingchen; Wu Kunwei; Ma Jun; Chen Junping; Cao Jun-Li; An Shuming",
+    "journal": "Science advances",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:19.991465",
+    "analysed": true
+  },
+  {
+    "pmid": "41637497",
+    "title": "Noninvasive photoacoustic computed mesoscopy for longitudinal brain imaging.",
+    "abstract": "Photoacoustic imaging has become a powerful tool for visualizing the brain morphology, function, and metabolism. However, severe optical scattering and high-frequency acoustic attenuation within the brain degrade the performance of photoacoustic brain imaging. To address such limitation, we propose a line scanning-based photoacoustic computed mesoscopic (PACMes) approach for noninvasive, high-resolution, and longitudinal visualization of cerebral vasculature inside the intact mouse brain. This technique uses converging near-infrared (NIR) lines scanned at multiple angles for tight optical excitation; a low-frequency, full-ring ultrasound transducer array for high-sensitivity detection; and a compound reconstruction algorithm integrating filtered back-projection and optical localization of photoacoustic signals to recover the image. We perform long-term (>5 months), noninvasive imaging of the entire cortex of mice through the intact scalp and skull with a field of view of 13 millimeters and a spatial resolution of 33 micrometers. The results demonstrate the potential of PACMes for investigating brain function and disease.",
+    "authors": "Ruan Shijie; Qin Wei; Li Linyang; Li Tingting; Li Baochen; Liang Xiao; Xi Lei",
+    "journal": "Science advances",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:20.334564",
+    "analysed": true
+  },
+  {
+    "pmid": "41637496",
+    "title": "Day-to-day fluctuations in cognitive precision predict the domain-general intention-behavior gap.",
+    "abstract": "The idea that better cognitive functioning helps to close the gap between goals and behavior seems self-evident, yet empirical work has found unusually weak interindividual associations between cognitive task performance and real-world, goal-relevant outcomes. Here, we resolve this paradox by shifting from trait-level to state-level analysis. Leveraging a microtask design to measure daily fluctuations in cognitive function, goal setting and goal progress, mood, sleep, and motivation over a 12-week intensive longitudinal study of university students (",
+    "authors": "Wilson Daniel J; Hutcherson Cendri A",
+    "journal": "Science advances",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:20.679394",
+    "analysed": true
+  },
+  {
+    "pmid": "41637495",
+    "title": "Single-molecule localization microscopy reveals the molecular organization of endogenous membrane receptors.",
+    "abstract": "Super-resolution microscopy in combination with genetic labeling methods allows imaging of single proteins in cells. However, visualizing endogenous proteins on primary cells remains challenging due to the use of sterically demanding antibodies for labeling. Here, we demonstrate how immunolabeling conditions and antibody cross-linking influence the quantification and identification of membrane receptor stoichiometry on cells using single-molecule localization microscopy. We developed an optimized immunolabeling and analysis protocol and demonstrate the performance of the approach by resolving the molecular organization of endogenous CD45, CD69, and CD38 on Jurkat T cells. To demonstrate the usefulness of the method for immunotherapy applications, we investigated the interaction of primary multiple myeloma cells with the therapeutic monoclonal antibodies daratumumab and isatuximab and a polyclonal anti-CD38 antibody. Our approach might lay the foundation for improved personalized diagnostics and treatment with therapeutic antibodies.",
+    "authors": "Eiring Patrick; Steinhardt Maximilian J; Bauer Nele; Vogt Cornelia; Munawar Umair; Han Seungbin; Nerreter Thomas; Einsele Hermann; Kort\u00fcm K Martin; Doose S\u00f6ren; Sauer Markus",
+    "journal": "Science advances",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:21.023867",
+    "analysed": true
+  },
+  {
+    "pmid": "41637494",
+    "title": "In vivo functional profiling and structural characterization of the human ",
+    "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) are effective therapies for type 2 diabetes (T2D) and obesity, yet patient responses are variable, with ",
+    "authors": "El Eid Liliane; Manchanda Yusman; Austin Gregory; Deane-Alder Kieran; Rujan Roxana-Maria; Mariam Zamara; Oqua Affiong I; Belousoff Matthew J; de la Serna Jorge Bernardino; Sloop Kyle W; Rutter Guy A; Montoya Alex; Withers Dominic J; Millership Steven J; Bouzakri Karim; Jones Ben; Reynolds Christopher A; Sexton Patrick M; Wootten Denise; Deganutti Giuseppe; Tomas Alejandra",
+    "journal": "Science advances",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:21.369237",
+    "analysed": true
+  },
+  {
+    "pmid": "41563072",
+    "title": "Negative Selection Maintains Grossly Altered but Broadly Stable Karyotypes in Metastatic Colorectal Cancer.",
+    "abstract": "Aneuploidy is near-ubiquitous in cancer and contributes to tumor biology. However, the temporal evolutionary dynamics that select for aneuploidy remain uncharacterized. We performed longitudinal genomic analysis of 755 samples from 167 patients with colorectal-derived neoplasias from different stages through metastasis and treatment. Adenomas had few copy number alterations (CAN) and most were subclonal, whereas cancers had many clonal CNAs, suggesting that progression goes through a CAN bottleneck. Individual colorectal cancer glands from the same tumor had similar karyotypes, despite evidence of ongoing instability at the cell level. CNAs in metastatic lesions, after therapy, and in late recurrences were similar to the primary. Mathematical modeling indicated that these data are consistent with the action of negative selection on CNAs that \"trap\" cancer genomes on a fitness peak characterized by specific CNAs. Hence, progression to colorectal cancer requires traversing a rugged fitness landscape, whereas subsequent CAN evolution is constrained by negative selection.\nWe profiled 167 long-term responders longitudinally (755 samples), documenting long-term cancer evolution. We found that a genetic bottleneck is required for progression and is associated with dramatic increase in CNAs but decrease in clonal diversity. After initiation, copy number evolution is constrained by negative selection through metastasis and treatment. See related commentary by Okada et al., p. 192.",
+    "authors": "Cross William C H; Nowinski Salpie; Cresswell George D; Mossner Maximilian; Banerjee Abhirup; Lu Bingxin; Williams Marc J; Vlachogiannis Georgios; Gay Laura J; Baker Ann-Marie; Kimberley Christopher; Whiting Frederick J H; Belnoue-Davis Hayley L; Martinez Pierre; Traki Maria; Walther Viola; Smith Kane; Fernandez-Mateos Javier; Yara-Romero Erika; Oliveira Erica A; Milite Salvatore; Caravagna Giulio; James Chela T; Elia George; Berner Alison; Ryan Choi Chang-Ho; Ramagiri Pradeep; Chauhan Ritika; Matthews Nik; Murphy Jamie; Antoniou Anthony; Clark Susan K; Mitchison Miriam; Chin Aleong Jo-Anne; Domingo Enric; Spiteri Inmaculada; McDonald Stuart A C; Shibata Darryl; Lacl\u00e9 Miangela M; Wang Lai Mun; Moorghen Morgan; Tomlinson Ian P M; Novelli Marco; Jansen Marnix; Watson Alan; Valeri Nicola; Wright Nicholas A; Bridgewater John A; Rodriguez-Justo Manuel; Barnes Chris P; Kocher Hemant M; Leedham Simon J; Sottoriva Andrea; Graham Trevor A",
+    "journal": "Cancer discovery",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:21.714221",
+    "analysed": true
+  },
+  {
+    "pmid": "41543498",
+    "title": "A Brainstem Organoid Model Enables the Study of Pediatric Glioma at Scale.",
+    "abstract": "",
+    "authors": "",
+    "journal": "Cancer discovery",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:22.059072",
+    "analysed": true
+  },
+  {
+    "pmid": "41524488",
+    "title": "Genetic Context Shapes Selection or Decay of Driver Mutations in Colon Cancer.",
+    "abstract": "",
+    "authors": "",
+    "journal": "Cancer discovery",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:22.402892",
+    "analysed": true
+  },
+  {
+    "pmid": "41524482",
+    "title": "pT\u0251 Enhances CAR T-cell Function to Eradicate Liquid and Solid Tumors.",
+    "abstract": "",
+    "authors": "",
+    "journal": "Cancer discovery",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:22.748452",
+    "analysed": true
+  },
+  {
+    "pmid": "41524464",
+    "title": "Bacterial Elements Detected in Brain Tumors May Shape Tumor Microenvironment.",
+    "abstract": "",
+    "authors": "",
+    "journal": "Cancer discovery",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:23.093984",
+    "analysed": true
+  },
+  {
+    "pmid": "41489244",
+    "title": "Cancer Throughlines: 25 Years after First Approval, ADCs Continue to Pick up Steam.",
+    "abstract": "Twenty-five years ago, the FDA gave the first approval to an antibody-drug conjugate (ADC), the CD33-targeting gemtuzumab ozogamicin for acute myeloid leukemia. As the drug faced setbacks and redemption-it was withdrawn in 2010 following poor phase III trial results but reapproved in 2017 at a lower dose-a surge of pharmaceutical interest in ADCs has yielded newly approved agents and new strategies for developing them.",
+    "authors": "",
+    "journal": "Cancer discovery",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:23.438865",
+    "analysed": true
+  },
+  {
+    "pmid": "41489226",
+    "title": "Epcoritimab Combo Could Be New Standard for Some FLs.",
+    "abstract": "Patients with relapsed or refractory follicular lymphoma have few treatment options-with a rituximab-lenalidomide (R2) pairing considered the only alternative to immunochemotherapy. But data from the pivotal phase III EPCORE LF-1 trial show that a three-drug combination of epcoritimab plus R2 can reduce the risk of disease progression and death by 79% compared with R2 alone.",
+    "authors": "",
+    "journal": "Cancer discovery",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:23.784374",
+    "analysed": true
+  },
+  {
+    "pmid": "41481787",
+    "title": "Multimodal AI Model Predicts Breast Cancer Recurrence.",
+    "abstract": "An artificial intelligence model that incorporates a range of tumor and patient data proved significantly more accurate in retrospectively predicting breast cancer recurrence than a commonly used genomic test, suggesting that multimodal models could be leveraged to more accurately assess recurrence risk and guide patient care.",
+    "authors": "",
+    "journal": "Cancer discovery",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:24.131368",
+    "analysed": true
+  },
+  {
+    "pmid": "41427943",
+    "title": "Two Drugs, One Stunning Myeloma Result.",
+    "abstract": "By pairing a BCMA-targeted T-cell engager with an anti-CD38 antibody, researchers achieved strikingly deep remissions and sharply reduced relapse risk in patients with relapsed myeloma. The results suggest this dual immune-directed strategy could challenge current treatment sequencing, including when to deploy engineered T-cell therapies.",
+    "authors": "",
+    "journal": "Cancer discovery",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:24.473854",
+    "analysed": true
+  },
+  {
+    "pmid": "41427940",
+    "title": "New BTK Inhibitors May Combat Resistance in CLL.",
+    "abstract": "Three trials report positive data for the noncovalent Bruton tyrosine kinase inhibitor pirtobrutinib and a potential successor, rocbrutinib, in chronic lymphocytic leukemia. One study of previously untreated patients found a 24-month progression-free survival of 93.4% for pirtobrutinib, versus 70.7% for bendamustine and rituximab. The second study suggests the drug is noninferior to the covalent inhibitor ibrutinib in previously untreated or relapsed or refractory patients. The third study found an overall response rate of 62.5% for rocbrutinib in previously treated patients.",
+    "authors": "",
+    "journal": "Cancer discovery",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:24.818207",
+    "analysed": true
+  },
+  {
+    "pmid": "41427915",
+    "title": "Early Proinflammatory Niches Drive Lung Adenocarcinoma Initiation.",
+    "abstract": "",
+    "authors": "",
+    "journal": "Cancer discovery",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:25.163291",
+    "analysed": true
+  },
+  {
+    "pmid": "41410646",
+    "title": "Giredestrant Delivers Long-Sought Adjuvant Benefit.",
+    "abstract": "The oral selective estrogen receptor degrader giredestrant prolonged invasive disease-free survival more than standard endocrine therapies, such as tamoxifen, letrozole, anastrozole, and exemestane, in the phase III lidERA study. Despite the lack of comparisons between the drug and CDK4/6 inhibitors and concerns over its potential cost, researchers were excited by the data, noting that it's the first improvement in adjuvant endocrine therapy in two decades.",
+    "authors": "",
+    "journal": "Cancer discovery",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:25.506755",
+    "analysed": true
+  },
+  {
+    "pmid": "41405215",
+    "title": "In Vivo CAR T Cells Deliver Deep Responses in Myeloma.",
+    "abstract": "Early clinical results show that inside-the-body T-cell engineering can trigger rapid chimeric antigen receptor expression and induce deep responses in patients with relapsed multiple myeloma-without the manufacturing required for conventional adoptive cell therapy. Larger studies are needed, however, to determine how off-the-shelf in vivo approaches compare with existing autologous therapies.",
+    "authors": "",
+    "journal": "Cancer discovery",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:25.851256",
+    "analysed": true
+  },
+  {
+    "pmid": "41212147",
+    "title": "Trastuzumab Deruxtecan Resistance via Loss of HER2 Expression and Binding.",
+    "abstract": "Trastuzumab Deruxtecan (T-DXd) is clinically beneficial in HER2-positive and HER2-low metastatic breast cancer. However, therapeutic resistance emerges over time in most patients, with poorly defined resistance mechanisms. Through a molecular characterization of paired patient specimens before and after T-DXd treatment, we found that 49% cases had major decreases in HER2 expression at progression, and among them, 52% exhibited complete HER2 loss. Using isogenic model systems, we demonstrated that decreases in HER2 expression corresponded to reductions in T-DXd internalization and major increases in drug IC50 value for tumor growth inhibition. We further identified and validated ERBB2 mutations in the trastuzumab binding interface (V597M and P593R) that promoted T-DXd resistance. As a strategy to overcome impaired T-DXd binding and internalization, we tested low-dose combinations of T-DXd with TROP2-directed antibody-drug conjugates (ADC) and found that these could more uniformly deliver DXd payloads and thereby overcome resistance mediated by HER2 loss.\nThe mechanisms underlying clinical T-DXd resistance have not been established. We now report on two mechanisms of resistance that converge on loss of target binding and propose combinations of distinct ADCs with shared payloads as a strategy to overcome resistance by enhancing intratumor delivery. See related commentary by O'Meara and Tarantino, p.195.",
+    "authors": "Chen Wanyi; Gupta Avantika; Mai Nicholas; Nag Sharanya; Lau Joshua S; Singh Sukrit; Chodera John D; Liu Bo; de Stanchina Elisa; Pareja Fresia; Hashmi Atif Ali; Lieberman Miriam M; Modi Shanu; Bromberg Jacqueline; Razavi Pedram; Drago Joshua Z; Chandarlapaty Sarat",
+    "journal": "Cancer discovery",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:26.195594",
+    "analysed": true
+  },
+  {
+    "pmid": "41128661",
+    "title": "A Plastic EMP1+ to LGR5+ Cell State Conversion as a Bypass to KRASG12D Pharmacologic Inhibition in Metastatic Colorectal Cancer.",
+    "abstract": "Inhibitors of the oncogene KRAS hold promise for treating metastatic colorectal cancer (mCRC). In this study, we show that a selective, covalent small-molecule inhibitor of the active (ON) conformation of RAS-G12D, RMC-9945, exerts durable disease control in preclinical colorectal cancer models of early liver metastasis, but its therapeutic activity was diminished in the advanced metastatic disease. RMC-9945-treated metastases underwent a transition from a poor prognosis-associated Emp1+ transcriptional state to a WNT-driven Lgr5+ stem cell-like state that withstands the absence of RAS-G12D activity. This cell state change occurred within hours of RAS(ON) inhibitor treatment through a shift in transcription factor usage that involved limited chromatin remodeling. Forced conversion of metastatic cells to the Lgr5+ state through RAS-G12D inhibition, followed by genetic ablation of this population, reduced metastatic burden and prolonged survival in a mouse mCRC model. Overall, these preclinical findings demonstrate a central role for oncogenic KRAS in governing cellular plasticity in mCRC.\nWe show that inhibition of oncogenic KRAS in preclinical models of advanced mCRC exerts a limited benefit, primarily due to the reversion of tumor cells to a stem cell-like state. Our findings highlight the context-dependent effects of oncogenic KRAS mutations and underscore cell plasticity as a therapeutic opportunity. See related commentary by Eng and Yilmaz et al., p. 201.",
+    "authors": "Centonze Alessia; Roura Adri\u00e0-Jaume; Novillo-Font Meritxell; Giordano Cristina; Hernando-Momblona Xavier; Llanses Montserrat; Prats Paula; Sevillano Marta; Cabot D\u00e9bora; Novell Mireia; Pabst Gabriel; Andersch Florian; Ca\u00f1ellas-Socias Adri\u00e0; Zhang Chong; Giakoumakis Nikolaos-Nikiforos; Sparks Hugh; Dunsby Chris; Colombelli Julien; Fern\u00e1ndez-Barral Asunci\u00f3n; Sancho Elena; Stephan-Otto Attolini Camille; Mu\u00f1oz Alberto; Barbachano Antonio; Palmer H\u00e9ctor G; Mart\u00ednez-Quintanilla Jordi; Zuber Johannes; Blaj Cristina; Quintana Elsa; Cortina Carme; Marti-Renom Marc A; Batlle Eduard",
+    "journal": "Cancer discovery",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:26.541052",
+    "analysed": true
+  },
+  {
+    "pmid": "41115251",
+    "title": "p53 Drives Lung Cancer Regression through a TSC2/TFEB-dependent Senescence Program.",
+    "abstract": "Pharmacologic restoration of p53 tumor suppressor function is a conceptually appealing therapeutic strategy for the many deadly cancers with compromised p53 activity, including lung adenocarcinoma. However, the p53 pathway has remained undruggable, partly because of insufficient understanding of how to drive effective therapeutic responses without toxicity. In this study, we use mouse and human models to deconstruct the transcriptional programs and sequelae underlying robust therapeutic responses in lung adenocarcinoma. We show that p53 drives potent tumor regression by direct Tsc2 transactivation, leading to mTORC1 inhibition and Transcription factor EB (TFEB) nuclear accumulation, which in turn triggers lysosomal gene expression programs, autophagy, and cellular senescence. Senescent lung adenocarcinoma cells secrete factors to recruit macrophages, precipitating cancer cell phagocytosis and tumor regression. Collectively, our analyses reveal a surprisingly complex cascade of events underlying a p53 therapeutic response in lung adenocarcinoma and illuminate targetable nodes for p53 combination therapies, thus establishing a critical framework for optimizing p53-based therapeutics.\nCancer therapies based on targeting the p53 pathway remain elusive. To address this gap, we unravel the detailed sequence of events governing p53-induced tumor regression in lung adenocarcinoma. These analyses reveal a TSC2-mTORC1-TFEB axis underlying p53-driven senescence and tumor regression, which suggests new strategies to perfect p53-based combination therapies for lung adenocarcinoma.",
+    "authors": "Wang Mengxiong; Bieging-Rolett Kathryn T; Kaiser Alyssa M; Brady Colleen A; Lockhart John H; Ferreira Sofia; Nguyen Kha T; Rajeevan Arati; Evans Simone A; Zhao Tianyu; Raj Nitin; Elkrief Arielle; Tischfield Sam E; Ladanyi Marc; Ozawa Michael G; Bui Name Q; Chen Christopher T; Flores Elsa R; Attardi Laura D",
+    "journal": "Cancer discovery",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:26.886141",
+    "analysed": true
+  },
+  {
+    "pmid": "41086837",
+    "title": "Glucocorticoids Unleash Immune-dependent Melanoma Control through Inhibition of the GARP/TGF\u03b2 Axis.",
+    "abstract": "Half of patients with advanced melanoma fail to benefit from immune checkpoint blockade, and novel treatments are urgently required. Testing topical medications for anticancer activity in an immunotherapy-resistant murine melanoma model, we found that, counterintuitively, glucocorticoids (GCs) elicit rapid cytotoxic T lymphocyte (CTL)-dependent tumor control. Genetic ablation of the GC receptor in different cellular compartments revealed that GCs acted not on immune cells but directly on tumor cells to downregulate the expression of glycoprotein A repetitions predominant (GARP). This inhibited TGF\u03b2 signaling and unleashed CTL killing. In agreement, GCs stimulated tumor control in multiple cancer models but only if the tumors also responded to pharmacologic inhibition of TGF\u03b2 signaling. Furthermore, patients with melanoma with high GC receptor expression or signaling showed improved prognosis and lower TGF\u03b2 signaling in tumor-infiltrating CTLs. Additionally, elevated GARP expression correlated with reduced survival, including in immunotherapy-treated patients. Thus, the GARP/TGF\u03b2 axis emerges as a GC-sensitive cancer cell-intrinsic immune-evasive mechanism.\nThis study uncovers a surprising role for GCs in triggering CD8+ T cell-dependent tumor control through downregulation of GARP and thus TGF\u03b2 signaling. Analysis of samples from patients with melanoma suggested that GARP expression may serve as both a biomarker of poor antitumor immunity and a therapeutic target to improve the response to immunotherapy. See related commentary by Roest et al., p. 198.",
+    "authors": "Earnshaw Charles H; Dunn Poppy; Chiang Shih-Chieh; Moeini Agrin; Koufaki Maria A; Bonavita Eduardo; Russo Massimo; Nebot-Bral Laetitia; Hockenhull Kimberley; Richardson Erin; Pidoux Anna; Bell Charlotte R; Baker Alexander R; Reeves Richard; Sellers Robert; Sahoo Sudhakar; Fife Victoria; Roberts Matthew G; Bigirumurame Theophile; Dive Caroline; Newton-Bishop Julia; Nsengimana J\u00e9r\u00e9mie; Griffiths Christopher E M; Zelenay Santiago",
+    "journal": "Cancer discovery",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:27.231825",
+    "analysed": true
+  },
+  {
+    "pmid": "41065276",
+    "title": "Screening for Tumor Microtube-Targeting Drugs Identifies PKC Modulators as Multipotent Inhibitors of Glioblastoma Progression.",
+    "abstract": "Glioblastomas are incurable primary brain tumors that depend on neural-like cellular processes, tumor microtubes (TM), to invade the brain. TMs also interconnect single tumor cells to a communicating multicellular network that resists current therapies. In this study, we developed a combined, comprehensive in vitro/in vivo anti-TM drug screening approach, including machine learning-based analysis tools. Two protein kinase C (PKC) modulators robustly inhibited TM formation and pacemaker tumor cell-driven, TM-mediated glioblastoma cell network communication. As TM-unconnected tumor cells exhibited increased sensitivity to cytotoxic therapy, the PKC activator TPPB was combined with radiotherapy, and long-term intravital two-photon microscopy paired with spatially resolved multiomics revealed anti-TM and antitumor effects. TPPB treatment also decreased the expression of tweety family member 1 (TTYH1), a key driver of invasive TMs. Our study establishes a novel screening pipeline for anti-TM drug development, identifies a TM master regulator pathway, and supports the approach of TM targeting for efficient brain tumor therapies.\nCancers can hijack neural properties to grow, disseminate, and to resist therapies, but effective drug development pipelines against these features are missing. Here, we establish a compound screening approach that allowed the identification of PKC modulators that target cancer cell-intrinsic neurodevelopmental mechanisms, suggesting a new class of neuroscience-instructed cancer therapeutics.",
+    "authors": "Azor\u00edn Daniel D; Hoffmann Dirk C; Hebach Nils R; Jung Erik; Hausmann David; Ratliff Miriam; Hai Ling; Horschitz Sandra; Jabali Ammar; Osswald Matthias; Karreman Matthia A; Kessler Tobias; Wendler Susann; Mayer Chant\u00e9 D; L\u00f6b Cathrin; Lehnert Pascal; Cebulla Gina; Reibold Denise; Khajuria Rajiv K; Bordignon Pino; Moor Andreas E; Holland-Letz Tim; Reckless Jill; Ramsden Nigel; Grainger David; Kreshuk Anna; Koch Philipp; Wick Wolfgang; Heuer Sophie; Winkler Frank",
+    "journal": "Cancer discovery",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:27.575288",
+    "analysed": true
+  },
+  {
+    "pmid": "41056506",
+    "title": "Recurrent Immunogenic Neoantigens and Their Cognate T-cell Receptors in Treatment-Resistant Metastatic Prostate Cancer.",
+    "abstract": "New approaches that generate long-lasting therapeutic responses in patients with therapy-resistant metastatic cancer are urgently needed. To address this challenge, we developed Spot Neoantigens in Metastases (SpotNeoMet), a novel data-driven pipeline that systematically identifies recurrently presented neopeptides in treatment-resistant patients. We identified seven therapy resistance mutations predicted to produce neopeptides presented by common HLAs. Using HLA immunopeptidomics, we discovered three novel neopeptides derived from androgen receptor (AR) H875Y, a common metastatic castration-resistant prostate cancer (mCRPC) mutation. We validated these neoantigens as highly immunogenic and then isolated and characterized cognate T-cell receptors (TCR) from healthy donor peripheral blood mononuclear cells. We demonstrated that AR H875Y-specific TCRs are highly specific and kill prostate cancer cells presenting AR neopeptides in vitro and in vivo. Our new pipeline identifies novel immunotherapy targets and potential treatment options for patients with mCRPC. Moreover, SpotNeoMet offers a systematic route to identify \"HLA-peptide\" pairs and their cognate TCRs across treatment-resistant cancers.\nAs the emergence of resistance to targeted treatments in patients with metastatic cancer, there is an urgent need for innovative therapeutic approaches for this population. Our study provides a new analytic framework to identify neoantigens from treatment-resistant mutations and a proof-of-concept T cell-based immunotherapy treatment for mCRPC.",
+    "authors": "Gumpert Nofar; Sagie Shira; Arnedo-Pac Claudia; Babu Tomer; Weller Chen; Gonzalez-Perez Abel; Wang Yuan; Michel Tod\u00f3 Lucas; Levy Ronen; Chen Xi; Greenberg Polina; Dayan-Rubinov Maria; Yakubovich Elizabeta; Wasserman-Bartov Talya; Zerbib Mirie; Gong Jianhui; Rebernick Ryan J; Oliveira Tercero Anna; Agundez Muriel Laura; Benedek Gil; Kedmi Merav; Oren Roni; Ben-Dor Shifra; Levin Yishai; Troyanskaya Olga G; Munzur Asl\u0131 D; Wyatt Alexander W; Cieslik Marcin P; Quigley David A; Van Allen Eliezer M; Anandasabapathy Niroshana; Mateo Joaquin; Yang Xinbo; Mart\u00ednez-Jim\u00e9nez Francisco; Lopez-Bigas Nuria; Samuels Yardena",
+    "journal": "Cancer discovery",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:27.918325",
+    "analysed": true
+  },
+  {
+    "pmid": "41037662",
+    "title": "Epigenetic and Transcriptional Programs Define Osteosarcoma Subtypes and Establish Targetable Vulnerabilities.",
+    "abstract": "Osteosarcoma is a genomically complex tumor characterized by widespread structural rearrangements. This complexity has limited the development of therapeutic strategies informed by molecular mechanisms of oncogenesis. We hypothesized that epigenetic mechanisms could drive distinct subtypes of osteosarcoma. Through analysis of chromatin accessibility, we identified an \"early osteoblast-derived\" cell state, characterized by upregulation of transcription factors associated with early bone development, and a \"late osteoblast-derived\" state, characterized by upregulation of genes involved in late bone development. We then defined core regulatory circuitries governing the underlying gene expression programs in these two cell states. Multiomic single-cell analysis indicates that these cell states coexist in a single tumor. Finally, using a panel of patient-derived xenograft models, we identified differential drug responses dependent on these cellular states. These findings create opportunities for developing new combination therapy strategies for osteosarcoma treatment and underscore the value of defining epigenetic subtypes in highly genomically complex cancers.\nThis study identifies two distinct cellular states in osteosarcoma, driven by specific transcription factor circuitries linked to normal bone development. These epigenetically defined states demonstrate differential drug responses, are identifiable in patient samples, and are correlated with survival.",
+    "authors": "L\u00f3pez-Fuentes Eunice; Clugston Andrew S; Lee Alex G; Sayles Leanne C; Sorensen Natalie; Pons Ventura Maria V; Leung Stanley G; Dinh Truc; Breese Marcus R; Sweet-Cordero E Alejandro",
+    "journal": "Cancer discovery",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:28.262680",
+    "analysed": true
+  },
+  {
+    "pmid": "40981426",
+    "title": "The Molecular and Functional Landscape of Resistance to FOLFIRI Chemotherapy in Metastatic Colorectal Cancer.",
+    "abstract": "The combination of 5-fluorouracil and irinotecan (FOLFIRI) remains a standard-of-care treatment for metastatic colorectal cancer (mCRC) yet benefits only about half of patients. Using patient-derived xenografts, we investigated the biological underpinnings of this heterogeneous response. FOLFIRI-resistant models showed transcriptional upregulation of innate immunity and mitochondrial metabolism genes, together with reduced expression of the DNA polymerase POLD1. Sensitive counterparts exhibited a BRCAness-like phenotype with genomic scars of homologous recombination (HR) deficiency, not caused by genetic or epigenetic loss of HR genes but by low abundance of the RAD51 recombinase. In tumoroids, forced RAD51 overexpression attenuated HR deficiency-related scars and chemotherapy-induced damage, whereas HR inhibition through ATM blockade enhanced drug sensitivity. The predictive relevance of key response determinants was validated in clinical samples. This work illuminates functional, nongenetic facets of BRCAness in mCRC and introduces actionable biomarkers and targets, offering prospects to improve clinical decision-making and broaden therapeutic options for chemorefractory patients.\nFOLFIRI response biomarkers in mCRC are lacking. Evidence in patient-derived xenografts, tumoroids, and patients shows that chemosensitivity arises from functional relaxation, rather than (epi)genetic inactivation, of the HR DNA repair pathway. Integrative analyses yield a chemopredictive algorithm centered on the expression of the RAD51 recombinase, with potential to refine patient stratification.",
+    "authors": "Avolio Marco; Leto Simonetta M; Sassi Francesco; Lupo Barbara; Grassi Elena; Catalano Irene; Zanella Eugenia R; Vurchio Valentina; Cottino Francesca; Tsantoulis Petros K; Lazzari Luca; Luraghi Paolo; Ferri Martina; Galimi Francesco; Berrino Enrico; Bellomo Sara E; Viviani Marco; Sogari Alberto; Mauri Gianluca; Tosi Federica; Cruciani Federica; Sartore-Bianchi Andrea; Siena Salvatore; Borghi Felice; Torri Valter; \u00c9lez Elena; Tabernero Josep; Nieva Maria; Montagut Clara; Tarazona Noelia; Cervantes Andr\u00e9s; Tejpar Sabine; Bardelli Alberto; Marchi\u00f2 Caterina; Marsoni Silvia; Bertotti Andrea; Trusolino Livio",
+    "journal": "Cancer discovery",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:12:28.604340",
+    "analysed": true
+  }
+]

@@ -25,3 +25,9 @@ Track recurring bugs, their solutions, and prevention strategies.
 - **Root Cause**: Pydantic wasn't being recognized by mypy due to missing type stubs configuration; BioPython lacks type stubs
 - **Solution**: Added `ignore_missing_imports = true` for both `pydantic.*` and `Bio.*` in pyproject.toml; added `# type: ignore` comments for Entrez API calls; added None checks for required Pydantic fields; cleared mypy cache
 - **Prevention**: For Pydantic v2, if mypy plugin doesn't work, use `ignore_missing_imports = true` for pydantic.*; always use type: ignore for untyped external APIs
+
+### 2026-01-25 - codespell False Positive on "Commun"
+- **Issue**: codespell pre-commit hook failed with "Commun ==> Commune, Common" on line with "Nat Commun" journal name
+- **Root Cause**: "Commun" is part of valid journal abbreviation "Nat Commun" (Nature Communications) but codespell treats it as misspelled
+- **Solution**: Added `--ignore-words-list=commun` to codespell args in .pre-commit-config.yaml
+- **Prevention**: Add valid scientific abbreviations to codespell ignore list as needed

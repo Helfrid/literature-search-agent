@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Article Scoring Tool</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Article Scoring Tool</h1>
+        </header>
+
+        <div class="date-selector">
+            <label for="dateSelect">Select Date:</label>
+            <select id="dateSelect">
+                <option value="">Loading dates...</option>
+            </select>
+            <button id="loadBtn">Load Papers</button>
+        </div>
+
+        <div class="stats" id="stats">
+            <span id="paperCount">Total: 0</span>
+            <span id="analysedCount">Analysed: 0</span>
+            <span id="currentIndex">Current: 0/0</span>
+        </div>
+
+        <div class="paper-display" id="paperDisplay" style="display: none;">
+            <div class="paper-info">
+                <div class="analysed-badge" id="analysedBadge">
+                    <span id="analysedStatus">Not Analysed</span>
+                </div>
+                <h2 id="paperTitle">Loading...</h2>
+                <div class="abstract">
+                    <h3>Abstract</h3>
+                    <p id="paperAbstract">Loading abstract...</p>
+                </div>
+            </div>
+
+            <div class="scoring-controls">
+                <h3>Score this paper:</h3>
+                <div class="score-buttons">
+                    <button class="score-btn" data-score="0">0 - Not Relevant</button>
+                    <button class="score-btn" data-score="1">1 - Relevant</button>
+                    <button class="score-btn" data-score="2">2 - Highly Relevant</button>
+                </div>
+                <div class="current-score" id="currentScore">Current score: 0</div>
+            </div>
+
+            <div class="classification-controls">
+                <h3>Classify this paper:</h3>
+                <select id="classificationSelect">
+                    <option value="unassigned">unassigned</option>
+                </select>
+            </div>
+
+            <div class="navigation">
+                <button id="prevBtn">← Previous</button>
+                <button id="nextBtn">Next →</button>
+            </div>
+        </div>
+
+        <div class="message" id="message"></div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

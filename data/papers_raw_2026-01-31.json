@@ -1,0 +1,452 @@
+[
+  {
+    "pmid": "41628772",
+    "title": "A conformation-dependent hydrophobic degron determines Rab9a-mediated vesicular trafficking.",
+    "abstract": "The small GTPase Rab9 plays a major role in the vesicular trafficking of mannose-6-phosphate receptor (CI-M6PR). CI-M6PR trafficking has also been reported to be perturbed by dysfunction of a ubiquitin ligase necessary for protein quality control (PQC). However, the mechanism underlying the participation of the PQC machinery in CI-M6PR trafficking is poorly understood. In this study, we found an extremely short half-life of GDP-bound Rab9, which is in clear contrast to its phylogenetically closest relative, Rab7. Comparison of the amino acid sequences of these relatives revealed that hydrophobic residues are specifically exposed in the Switch I region of Rab9a and that these residues are recognized by the PQC machinery. We defined this exposed hydrophobicity as a conformation-dependent hydrophobic (CDH) degron because its existence determines the instability of Rab proteins in a nucleotide-dependent manner. CDH degron-mediated instability is essential for Rab9a function, given that forced accumulation of CDH degron-mutated Rab9a in cells resulted in the defective localization of CI-M6PR, a similar phenotype observed in PQC dysfunction. Thus, the CDH degron-driven PQC system is necessary for the proper vesicular trafficking of CI-M6PR. We also identified VCP/p97 as a CDH degron-dependent PQC factor for GDP-bound Rab9a.",
+    "authors": "Shirai Jun; Takahashi Toshiki; Kawahara Hiroyuki",
+    "journal": "The Journal of biological chemistry",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:07.868837"
+  },
+  {
+    "pmid": "41621416",
+    "title": "Kupffer Cell-Derived Tnf Triggers Cholangiocellular Tumorigenesis through JNK due to Chronic Mitochondrial Dysfunction and ROS.",
+    "abstract": "",
+    "authors": "Yuan Detian; Huang Shan; Berger Emanuel; Liu Lei; Gross Nina; Heinzmann Florian; Ringelhan Marc; Connor Tracy O; Stadler Mira; Meister Michael; Weber Julia; \u00d6llinger Rupert; Simonavicius Nicole; Reisinger Florian; Hartmann Daniel; Meyer R\u00fcdiger; Reich Maria; Seehawer Marco; Leone Valentina; H\u00f6chst Bastian; Wohlleber Dirk; J\u00f6rs Simone; Prinz Marco; Spalding Duncan; Protzer Ulrike; Luedde Tom; Terracciano Luigi; Matter Matthias; Longerich Thomas; Knolle Percy; Ried Thomas; Keitel Verena; Geisler Fabian; Unger Kristian; Cinnamon Einat; Pikarsky Eli; H\u00fcser Norbert; Davis Roger J; Tschaharganeh Darjus F; Rad Roland; Weber Achim; Zender Lars; Haller Dirk; Heikenwalder Mathias",
+    "journal": "Cancer cell",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:08.212323"
+  },
+  {
+    "pmid": "41621415",
+    "title": "p53 Is a Master Regulator of Proteostasis in SMARCB1-Deficient Malignant Rhabdoid Tumors.",
+    "abstract": "",
+    "authors": "Carugo Alessandro; Minelli Rosalba; Sapio Luigi; Soeung Melinda; Carbone Federica; Robinson Frederick S; Tepper James; Chen Ziheng; Lovisa Sara; Svelto Maria; Amin Samirkumar; Srinivasan Sanjana; Del Poggetto Edoardo; Loponte Sara; Puca Francesca; Dey Prasenjit; Malouf Gabriel G; Su Xiaoping; Li Liren; Lopez-Terrada Dolores; Rakheja Dinesh; Lazar Alexander J; Netto George J; Rao Priya; Sgambato Alessandro; Maitra Anirban; Tripathi Durga N; Walker Cheryl L; Karam Jose A; Heffernan Timothy P; Viale Andrea; Roberts Charles W M; Msaouel Pavlos; Tannir Nizar M; Draetta Giulio F; Genovese Giannicola",
+    "journal": "Cancer cell",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:08.557428"
+  },
+  {
+    "pmid": "41621162",
+    "title": "The Role of CCR1 as a decisive factor for immune response activation versus suppression phenotypes in gastric cancer.",
+    "abstract": "Chemokine receptor 1 (CCR1), a regulator of immune cell migration, has been implicated in various cancers but remains poorly characterized in gastric cancer's immune microenvironment. This study aimed to investigate whether CCR1 promotes or suppresses tumor progression in gastric cancer.\nUtilize transcriptomic analysis to investigate the role of CCR1 in gastric cancer, and employed clinical data to examine the correlation between CCR1 expression and patient survival as well as pathological features. In vivo models with CCR1-knockout mice and macrophage depletion experiments validated functional roles, while Western blotting and qRT-PCR explored The pathways and signaling.\nFollowing patient stratification based on optimal cut-off values, Kaplan-Meier survival analysis demonstrated that patients with high CCR1 expression had longer survival times. Single-cell and spatial transcriptomics analyses revealed that CCR1 is predominantly expressed on macrophages. Immunofluorescence assays showed greater co-localization of CCR1 and CD68 in gastric cancer tissues compared to adjacent normal tissues, confirming CCR1 expression in macrophages. In vivo experiments demonstrated that CCR1 deficiency increased tumor growth by reducing T cell infiltration, an effect that was abrogated by macrophage depletion. Mechanistically, CCR1 activates the NF-\u03baB and MAPK pathways in macrophages to upregulate CXCL9 and CXCL10, thereby promoting T cell recruitment to the tumor microenvironment.\nCCR1 modulates T cell distribution via CXCL9/CXCL10, suggesting potential therapeutic directions.",
+    "authors": "Sun Keran; Ning Jingyuan; Jia Keqi; Fan Xiaoqing; Li Hongru; Ma Cuiqing; Wei Lin",
+    "journal": "Neoplasia (New York, N.Y.)",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:08.898595"
+  },
+  {
+    "pmid": "41621066",
+    "title": "FOXA1 mutations co-opt nascent transcription factor networks in partnership with androgen receptor to enhance prostate tumorigenicity.",
+    "abstract": "Mutations in the pioneer transcription factor FOXA1 occur in 10%-40% of prostate cancers and broadly alter chromatin accessibility. In a cohort of 874 primary and metastatic tumors, we confirm frequent Wing2 missense mutations and indels, as well as C-terminal truncating frameshifts. To define their functional impact, we performed single-nucleus multiome profiling in mouse prostate organoids expressing representative alleles, including overexpressed wild-type FOXA1. Each subgroup produces distinct chromatin and transcriptional changes, but all perturb epithelial lineage specification. Indel mutants promote basal-like states, whereas C-terminal truncations, Wing2 missense mutations, and elevated wild-type FOXA1 drive secretory L1-like luminal fates. Integrated RNA-seq, ATAC-seq, and ChIP-seq reveal that L1-like specification involves a hybrid androgen receptor/FOXA1 motif and cooperation with POU2F1. In vivo, these same alleles, combined with Trp53/Pten loss, shift tumor histology from basal-like to secretory luminal phenotypes.",
+    "authors": "Ladewig Erik M; Nazir Abbas; Park Tyler; Fan Vinson B; Cao Zhendong; Hawk Jacob; Kelly Lauren; Tjian Robert; Leslie Christina S; Sawyers Charles L",
+    "journal": "Cell reports",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:09.243690"
+  },
+  {
+    "pmid": "41620706",
+    "title": "Disentangling host genetic variation for avoidance and resistance to pathogens.",
+    "abstract": "Hosts can use avoidance (e.g., behavior) to reduce their contact rates with pathogens; after contact, they can use resistance (e.g., immunity) to reduce the establishment and proliferation of an infection. Because both defenses preserve host fitness and reduce pathogen fitness, we expect that their epidemiological and evolutionary effects will be interdependent. This study used a two-locus model to understand the evolution of allelic associations (i.e., linkage disequilibrium or LD) between genes determining levels of avoidance and resistance in the presence of an infectious disease or a parasite.\nWe found that polymorphism in both avoidance and resistance was possible, but only for a limited range of parameter values. At equilibrium within these polymorphic populations, avoidance and resistance alleles were negatively associated (i.e., in negative LD). However, most commonly, polymorphism was only stably maintained at one defense locus, and the other locus became fixed for one allele.\nThe model shows that avoidance and resistance are likely to influence each other's evolution because of their joint effects on infection and their costs; however, predictions about their relationship are not necessarily straightforward or intuitive. For example, avoidance and resistance may be more likely to covary across than within populations.",
+    "authors": "Amoroso Caroline R; Antonovics Janis",
+    "journal": "BMC biology",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:09.585904"
+  },
+  {
+    "pmid": "41620567",
+    "title": "eIF6 deficiency alleviates colorectal cancer by modulating the gut microbiota and related metabolites.",
+    "abstract": "eIF6 is overexpressed in multiple cancers. Previous work has showed that deficiency alters the gut microbiota. This study investigated the mechanism linking eIF6 deficiency, microbial dysbiosis, and colorectal cancer (CRC). eIF6 expression was assessed in human and mouse CRC samples. Functional assays were conducted in mice with AOM/DSS-induced CRC. Antibiotic treatment and faecal microbiota transplantation (FMT) were applied to evaluate microbiota-mediated effects. 16S rDNA sequencing and Dubosiella newyorkensis (D. newyorkensis) supplementation were used to identify key bacteria. Metabolites from the bacterial supernatant were analysed via targeted mass spectrometry. The effect of indole-3-carboxaldehyde (3-ICA) was tested in murine models. eIF6 expression was upregulated in CRC. Its deficiency reduced the tumour incidence and proliferation of tumours in mice and increased the abundance of beneficial bacteria such as Akkermansia and Dubosiella. FMT from eIF6 deficient mice and D. newyorkensis administration attenuated tumorigenesis and enhanced barrier function. 3-ICA, a metabolite of D. newyorkensis, also suppressed CRC progression. eIF6 deficiency exerts protective effects against CRC through the enrichment of D. newyorkensis and its metabolite 3-ICA, revealing a novel mechanism and potential therapeutic strategy for CRC.",
+    "authors": "Yang Shuai; Song Jiawei; Wang Zhenzhen; Peng Guang; Tong Linglin; Li Xin; Yang Kexin; Chen Yang; Zhang He; Zhang Qing; Chen Renjin",
+    "journal": "Cell death and differentiation",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:09.930505"
+  },
+  {
+    "pmid": "41620498",
+    "title": "Modelled impact of a multi-cancer early detection screening programme on the demand for diagnostics in England.",
+    "abstract": "People with a cancer signal detected via multi-cancer early detection (MCED) screening need timely access to confirmatory diagnostic testing. We estimated the likely change in demand for diagnostic testing in England if MCED screening were introduced.\nDiagnostic demand was modelled based on (1) estimates of the volume of people aged 50-79 years who would be referred for diagnostic investigation following a 'cancer signal detected' result after MCED screening and (2) MCED test performance metrics. Predicted usage was compared with current annual usage using routine NHS datasets.\nIn an established MCED screening programme, assuming 70% of the total eligible population is screened annually (~13 million), the relative change in diagnostic demand was greatest for colonoscopy (+2.09%; +13,730 each year); the greatest absolute change was for computed tomography (CT; +0.76%; +62,320). This equates to +1040 colonoscopies and +4720 CT scans for every million screened.\nThe predicted relative increase in diagnostic testing generated by MCED screening is small, though a large eligible population and maximum uptake could translate into a large number of procedures. Cancer diagnoses brought forward in time through screening should reduce diagnostic use for symptomatic presentations in the future.",
+    "authors": "Martin Joanne; Jones David A; Ellis Libby; Gray Ewan; Halliday Katharine; Hiom Sara; McPhail Sean; Millar Andrew; Hamilton Willie",
+    "journal": "British journal of cancer",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:10.270874"
+  },
+  {
+    "pmid": "41620475",
+    "title": "Room-temperature polariton condensate in a quasi-2D hybrid perovskite.",
+    "abstract": "Quasi-2D halide perovskites are chemically synthesized realizations of quantum well stacks with giant exciton oscillator strengths, tunable emission spectra, and very large exciton binding energies. While these features render quasi-2D halide perovskites a promising platform for room-temperature polaritonics, bosonic condensation and polariton lasing in quasi-2D perovskites have so far remained elusive at ambient conditions. Here, we demonstrate room-temperature cavity exciton-polariton condensation in mechanically exfoliated crystals of the quasi-2D Ruddlesden-Popper iodide perovskite (BA)",
+    "authors": "Struve Marti; Bennenhei Christoph; Pashaei Adl Hamid; Song Kok We; Shan Hangyong; Matukhno Nadiya; Drawer Jens-Christian; Stephan Sven; Eilenberger Falk; Jasti Naga Prathibha; Cahen David; Kyriienko Oleksandr; Schneider Christian; Esmann Martin",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:10.617734"
+  },
+  {
+    "pmid": "41620473",
+    "title": "Molecular signatures of resilience to Alzheimer's disease in neocortical layer 4 neurons.",
+    "abstract": "Selective neuronal vulnerability is a hallmark of Alzheimer's disease (AD), yet the molecular basis of resilience remains poorly understood. Using single-nucleus and spatial transcriptomics to compare neocortical regions affected early (prefrontal cortex, precuneus) or late (primary visual cortex) in AD, we identified a resilient excitatory population in layer 4 of the primary visual cortex expressing RORB, CUX2, and EYA4. Layer 4 neurons in association neocortex shared molecular signatures of resilience. Early-stage resilient neurons upregulated genes associated with synapse maintenance, synaptic plasticity, calcium homeostasis, and neuroprotection (GRIN2A, RORA, NRXN1, NLGN1, NCAM2, FGF14, NRG3, NEGR1, CSMD1). We identified KCNIP4, which encodes a voltage-gated potassium channel-interacting protein, as a key resilience factor consistently upregulated during early stages of AD pathology. AAV-mediated overexpression of Kcnip4 in male App",
+    "authors": "Dharshini S Akila Parvathy; Sanz-Ros Jorge; Pan Jie; Tang Weijing; Vallejo Kristen; Liu Yu Chen; Otero-Garcia Marcos; Cobos Inma",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:10.962648"
+  },
+  {
+    "pmid": "41620470",
+    "title": "Architectural and evolutionary features of TE-derived TSSs shape tissue-specific promoter activity in the human genome.",
+    "abstract": "Transposable elements are abundant in the human genome and have been increasingly recognized as sources of alternative promoters. Yet, the extent of their transcriptional activity in human tissues and the features that govern their regulatory potential remain unclear. Here, we integrated high-resolution RAMPAGE data from 115 human biosamples to construct a comprehensive atlas of 26,056 transcription start sites derived from transposable elements. These sites contribute to tissue-specific gene expression, with a notable fraction originating from primate- and hominid-specific elements. Transposable element-derived transcription start sites exhibit focused, narrow-peak architectures enriched for TATA boxes and depleted of CpG islands. Phylogenetic analyses reveal a continuous gradient in promoter strength and transcriptional precision across transposable element subfamilies, with evolutionarily younger elements retaining intrinsic promoter motifs that drive focused and robust transcription, whereas older, more divergent elements exhibit broader initiation patterns and lower intrinsic activity. Together, these findings advance our understanding of how the evolution and preservation of promoter features shape the capacity of transposable elements to be exapted as functional promoters, potentially contributing to lineage-specific regulatory innovation in primates.",
+    "authors": "Zhang Ya; Fan Yahan; Wu Huang; Zhang Xiao-Ou",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:11.306531"
+  },
+  {
+    "pmid": "41620468",
+    "title": "Fluorescence mapping of atropisomer populations enabled by through-space conjugation.",
+    "abstract": "Multi-axis atropisomers are ubiquitous in nature, and their intricate stereoconformations not only deepen stereochemical understanding but also elucidate fundamental principles of molecular atropisomeric dynamics. Nevertheless, insights into multi-axis atropisomerism remain limited. This work presents a systematic investigation of three classes of LaPlente-type biaxial atropisomers based on naphthalene rotors and phenyl linkers. Thermodynamically and kinetically controlled interconversion of molecular conformations is achieved in 22-NB, 11-NB, and 11-NB-8DMe. Concurrently, a direct correlation between molecular dynamics and electronic through-space conjugation (TSC) is elucidated. Furthermore, absolute separation of syn and anti conformers is accomplished in 11-NB-2DMe, whose distinct TSC-induced fluorescence enables direct visualization of dynamic conformer populations and kinetics during temporally sequential crystallization. This work provides fundamental mechanistic insights into multi-axis atropisomer stereochemistry and establishes a fluorescence-based approach as an in-situ platform for real-time analysis of molecular dynamics across life and materials sciences.",
+    "authors": "Xu Qingyang; Luo Kangwei; Wang Yipu; Wu Jiajie; Lu Hongwei; Chen Manyu; Xiong Zuping; Sun Jing Zhi; Zhang Jianyu; Huang Feihe; Tang Ben Zhong; Zhang Haoke",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:11.649543"
+  },
+  {
+    "pmid": "41620466",
+    "title": "Probing the molecular structure at graphite-water interfaces by correlating 3D-AFM and SHINERS.",
+    "abstract": "Water at solid surfaces is key for many processes ranging from biological signal transduction to membrane separation and renewable energy conversion. However, under realistic conditions, which often include environmental and surface charge variations, the interfacial water structure remains elusive. Here we overcome this limit by combining three-dimensional atomic force microscopy (3D-AFM) and interface-sensitive shell-isolated nanoparticle enhanced Raman spectroscopy (SHINERS) to characterize the graphite-water interfacial structure in situ. Through correlative analysis of the spatial liquid density maps and vibrational peaks within \u22482\u2009nm of the graphite surface, we find the existence of two interfacial configurations at open circuit potential, a transient state where pristine water exhibits strong hydrogen bond (H-bond) breaking effects, and a steady state with hydrocarbons dominating the interface and weak H-bond breaking in the surrounding water. At sufficiently negative potentials, both states transition into a stable structure featuring pristine water with a broader distribution of H-bond configurations. Our three-state model resolves many long-standing controversies on interfacial water structure.",
+    "authors": "Bonagiri Lalith Krishna Samanth; Arvelo Diana M; Zhao Fujia; Kim Jaehyeon; Ai Qian; Zhou Shan; Panse Kaustubh S; Garcia Ricardo; Zhang Yingjie",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:11.994882"
+  },
+  {
+    "pmid": "41620461",
+    "title": "SOX21 suppresses glioblastoma growth by repressing AP-1 activity.",
+    "abstract": "Treatment-resistant glioblastoma stem and precursor cells (GPCs) drive glioblastoma (GBM) growth and recurrence. Thus, targeting the molecular machinery that sustains GPCs in an undifferentiated and self-renewing state is a promising therapeutic strategy. The transcription factor SOX21 effectively suppresses the tumorigenic capacity of GPCs, but the mechanism by which SOX21 impedes GPC features is unknown. By engineering patient-derived GPCs with a transgenic TetOn system we show that SOX21 expression induces an anti-tumorigenic transcriptional program, aligning with clinical data demonstrating a positive correlation between SOX21 levels and improved GBM patient survival. Induced SOX21 expression in GPCs within pre-established GBM reduces their capacity to sustain tumor growth and significantly extends the survival of the orthotopically transplanted mice. Mechanistically, SOX21 functions as a tumor suppressor by binding a large set of AP-1-targeted chromatin regions, leading to epigenetic repression of AP-1-activated genes. Consistently, the anti-tumorigenic activities of SOX21 are largely replicated by AP-1 inhibitors, which decrease GPC proliferation and survival, while overexpression of the AP-1 family member, c-JUN, counteracts these effects. Our findings identify SOX21 as a key regulator that prevents GPC malignancy by targeting and repressing an AP-1-driven, tumor-promoting gene expression program. These results highlight SOX21-regulated pathways as promising therapeutic targets for GBM.",
+    "authors": "Rrapaj Eltjona; Yuan Juan; Kurtsdotter Idha; Misyurin Vsevolod; Baselli Guido Alessandro; Holmberg Johan; Persson Oscar; Bergsland Maria; Muhr Jonas",
+    "journal": "Cell death & disease",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:12.339103"
+  },
+  {
+    "pmid": "41620459",
+    "title": "Plasma proteome mediates the associations between air pollution exposure and disease risk.",
+    "abstract": "Air pollution has been increasingly linked to a wide range of diseases, yet the underlying biological mechanisms remain poorly understood. Here, we systematically investigate how circulating proteins mediate the health effects of multiple air pollutants and quantify individual susceptibility. Using large-scale data from the UK Biobank, we identify 30 diseases significantly associated with air pollution exposure. We uncover 1,089 pollutant-associated proteins enriched in immune pathways, among which 296 significantly mediate disease risk. Notably, the mediating pathways of air pollution vary by disease types, involving MAPK signaling in cardiovascular diseases, innate immunity in immune disorders, carbohydrate metabolism in metabolic diseases, and cell proliferation in respiratory conditions. Globally, the proteome mediates 23.69% of the association between air pollution and diseases. Based on these mediators, we develop an Air Pollution Protein Risk Score (APPRS), which shows robust associations with disease risk in the UKBB and two external validation cohorts. APPRS also improves disease prediction when integrated into baseline models. Collectively, our study highlights the central role of circulating proteins in mediating the health impacts of air pollution and introduces APPRS as a tool for personalized risk assessment and precision public health interventions.",
+    "authors": "Li Wenran; Li Kaixuan; Zhou Puchen; Cheng Yingyu; Zhao Yiran; Meng Xia; Niu Yue; Zong Geng; Zhang Guoqing; Kan Haidong; Wang Sijia",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:12.686143"
+  },
+  {
+    "pmid": "41620458",
+    "title": "Bioinspired charge reservoir enables efficient CO",
+    "abstract": "Solar-driven conversion of CO",
+    "authors": "Huang Yu; Shi Xianjin; Zhang Hongna; Cao Junji; Lee Shuncheng",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:13.029498"
+  },
+  {
+    "pmid": "41620456",
+    "title": "DNA diamond formulates a decomposable composite letter constellation model for DNA data storage.",
+    "abstract": "Oligonucleotide multiplicity is an inherent property of current DNA synthesis technology. Composite letter DNA storage exploits this property to improve logical density and reduce costs. However, letter indistinguishability and high molecular diversity pose challenges for reliable recovery. Here, we formulate a composite letter constellation model, named DNA diamond, consisting of 15 decomposable points. Inspired by set partitioning in telecommunications, we propose a two-stage letter detection framework that partitions these letters into four distinguishable subsets based on their discrete entropy. Furthermore, we incorporate encoded double-end indices to eliminate crosstalk between synthesis sites and simultaneously apply length filtering to suppress error propagation during readout. We validate the eight-letter and 15-letter composite letter DNA storage under DNA diamond model, each with 10,000 composite strands. The eight-letter system achieves a payload density of 2.5 bits per letter and enables error-free recovery at 14\u00d7 coverage, surpassing the storage density of prior six-letter systems while requiring lower coverage. The full 15-letter constellation enables 3.125 bits per letter for payload with error-free recovery at 33\u00d7 coverage, corresponding to a density of 2.23 bits per letter for payload plus indices. The proposed decomposable DNA diamond model advances a practical and scalable framework for high-density composite DNA data storage.",
+    "authors": "Ge Qi; Ren Menghui; Qi Tingting; Han Changcai; Yuan Yingjin; Chen Weigang",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:13.372719"
+  },
+  {
+    "pmid": "41620446",
+    "title": "Vertical chiral emission from an intrinsically achiral metasurface enabled with anisotropic continuum.",
+    "abstract": "Manipulating emission polarization is crucial for advanced applications such as polarized fluorescence and lasing, thermal radiation control, stereochemistry and spintronics. Existing approaches for generating circularly polarized emission primarily rely on nanostructures with true chirality, where the far-field polarization at the \u0393 point is believed to require out-of-plane symmetry breaking. This raises a question: can an intrinsically achiral metasurface that preserves out-of-plane symmetry generate chiral emission? Here, we introduce the concept of anisotropic continuum, defined as a continuum state exhibiting distinct responses for orthogonal polarizations of incidence, as a new degree of freedom for intrinsically achiral metasurfaces. In such metasurfaces, chiral emission arises from manipulating the anisotropic continuum together with the metasurface's in-plane perturbations. Degrees of circular polarization of 0.83 for upward emission and -0.9 for downward emission are achieved experimentally by integrating the fabricated silicon metasurface with fluorescent organic dyes. Our findings not only address a long-standing gap in the understanding of structural chirality, but also open new opportunities for high-performance applications in polarized fluorescence and thermal emission.",
+    "authors": "Sun Yuwei; Hu Zhipeng; Liu Mengqi; Chen Jianfeng; Gromyko Dmitrii; Shi Kezhang; Wu Lin; Jin Yi; He Sailing; Qiu Cheng-Wei",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:13.718687"
+  },
+  {
+    "pmid": "41620440",
+    "title": "Neoadjuvant modified FOLFIRINOX plus nivolumab in borderline-resectable pancreatic ductal adenocarcinoma: a pilot phase 1 trial.",
+    "abstract": "Chemotherapy and immune checkpoint inhibitor combinations have failed to improve survival in pancreatic ductal adenocarcinoma (PDAC), except in rare microsatellite instability-high cases; most studies focused on advanced disease. Here, we present clinical and translational results from a single-arm, prospective phase 1b/2 investigator-initiated study (NCT03970252) evaluating neoadjuvant modified FOLFIRINOX (mFFX) plus nivolumab in patients with borderline-resectable PDAC. The co-primary endpoints of safety and pathological response rate were met, with 22 (79%) of 28 patients proceeding to surgery and no grade \u22653 immune-related adverse events. All grade 3-4 treatment-related adverse events were chemotherapy-related. By CAP scoring, 9% of patients achieved a complete pathologic response, 9% a near-complete response, and 72% a partial response. Secondary endpoints included CA 19-9 response rate, R0 resection rate, objective response rate, and disease-free survival (median 19.7 months, 95% CI: 7.3-30.8). In post-hoc analyses, median progression-free survival was 26 months (95% CI: 14.7-34.3), and median overall survival was 38 months (95% CI: 27.9-not reached). Exploratory gene expression, immunohistochemistry and spatial transcriptomics showed increased intratumoral plasma cells and CD8 T cells in treated patients versus mFFX-only controls, and lymphoid aggregates with high plasma-cell-to-B cell ratios enriched for terminally exhausted CD8 T cells with fewer progenitor exhausted CD8 T cells and central memory CD4 T cells.",
+    "authors": "Wainberg Zev A; Link Jason M; Premji Alykhan; Zheng Serena; Srienc Michael; Hammons McKensie; Kim Shineui E; Li Luyi; Liu Zeyu; Tsvetkova Olga; Abt Evan R; Rosen Lee; Kim Stephen; King Jonathan; Hines O Joe; Girgis Mark; Sadeghi Saeed; Olevsky Olga; Wong Deborah; Yonemoto Lisa; Siney Ann Marie; Kelly Kim; Kivork Christine; Tseng Chi-Hong; Radu Caius G; Dawson David W; Donahue Timothy R",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:14.062715"
+  },
+  {
+    "pmid": "41620436",
+    "title": "Microbiota-induced EI24 improves homeostasis but impedes function of alveolar macrophages via metabolic regulation.",
+    "abstract": "Lung microenvironment controls the homeostasis and function of alveolar macrophages (AMs), the major regulators of lung immunity, but the underlying mechanisms, particularly the role of microbiota, remain unclear. Here, with Lyz2",
+    "authors": "Huang Yuanyuan; Su Miya; Zhang Yuwei; Pan Jun; Wang Yu; Chen Dongsheng; Chen Xuran; Tian Chenxi; Zhang Huimin; Sun Qiuying; Yuan Lin; Fu Binqing; Jiang Wei; Li Shuhang; Xie Di; Bai Li",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:14.403860"
+  },
+  {
+    "pmid": "41620434",
+    "title": "Developments and challenges in hit progression within fragment-based drug discovery.",
+    "abstract": "Fragment-based Drug Discovery (FBDD) is a proven methodology for the discovery of new therapeutics. After the identification of small molecular fragments, subsequent steps are guided by the \"Design, Make, Test\" (DMT) cycle. During the \"Design\" phase, chemical modifications are proposed that generate Structure-Activity Relationship information, improve interaction profiles and physicochemical properties. In the \"Make\" phase, designs are synthesised into viable compounds, with an emphasis on feasibility, scalability and the incorporation of novel chemistries enabling broad chemical space sampling. Finally, the \"Test\" phase evaluates these compounds through a series of assays, identifying binders and enabling Structure-Activity Relationship models that guide subsequent designs. Within DMT cycles, fragment progression - the process of converting initial hits into more potent follow-up lead compounds - is an essential component, but has many challenges associated with it. Here, we review such challenges along with recent developments designed to mitigate them.",
+    "authors": "Grosjean Harold; Biggin Philip C",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:14.749100"
+  },
+  {
+    "pmid": "41620431",
+    "title": "Modulating thermo-diffusion/galvanic coupling via ion speciation engineering enables high-performance ionic thermoelectric cells.",
+    "abstract": "Ionic thermoelectric (i-TE) materials have demonstrated a high thermopower in harvesting low-grade heat, emerging as superior candidates for self-powered electronics. However, coupling two i-TE effects in n-type materials is scarce, which restricts the development of high-performance systems. Herein, we uncover an overlooked thermogalvanic redox reaction between Cu",
+    "authors": "Li Yuchen; Qiu Ying-Ru; Liao Jinsha; Li Helios Y; Liu Zhouyuntong; Chen Yuxiang; Yu Mao; Xu Lizhi; Liu Chang; Liu Jefferson Zhe; Li Jian-Feng; Liu Weishu; Wang Yao-Hui; Fang Nicholas X",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:15.094374"
+  },
+  {
+    "pmid": "41620427",
+    "title": "Ultra-coherent meta-emitter tailors arbitrary thermal wavefront.",
+    "abstract": "Conventional coherent light-field manipulation techniques inherently conflict with the spatiotemporal incoherence of thermal radiation sources. While recent advances in thermophotonics have facilitated directional thermal emission, arbitrary thermal wavefront control-a cornerstone for advanced functionalities like focusing and holography-remains an unaddressed challenge. Here, we report a generalized recipe of designing meta-emitters with lossy and lossless outer boundaries, that enables thermal emission with arbitrarily tailored wavefront. Lossy and lossless surfaces on two sides of the meta-emitter are synergistically coupled by a single-mode waveguide, transforming incoherent thermal photons to coherent surface waves for wavefront shaping functionalities. Designer surface mode of meta-emitter permits the independent optimization of photon lifetime and propagation length, thus enabling scalable spatial coherence engineering. For the proof of concept, we experimentally demonstrate near-diffraction-limited self-focusing emission, quasi-two-dimensional (quasi-2D) high-quality thermal holography without speckle noise and spatial-multiplexed holography. Coupling optimization further suggests that spatial coherence exceeding 1000\u03bb",
+    "authors": "Chen Rui; Chen Tianle; Liu Mengqi; Liu Xingsi; Zhang Sen; Raza Faizan; Dong Hongguang; Dang Yongdi; Yu Zejie; Hu Huan; Xu Jianbing; Qiu Cheng-Wei; Ma Yungui",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:15.435045"
+  },
+  {
+    "pmid": "41620426",
+    "title": "Printed origami thermoelectric generator achieves > 20 Wm",
+    "abstract": "Printing facilitates low-cost thermoelectric generators to power battery-free internet-of-things devices, wearables, and Industry 4.0 systems. However, scaling up requires printable thermoelectric materials with good mechanical properties and high performance. Here, we report a high-performance Ag",
+    "authors": "Luo Nan; Wang Zirui; Verma Ajay Kumar; Khan Muhammad Irfan; Franke Leonard; Liu Jiayi; Nefedov Alexei; Schneider Marc; Ge\u00dfwein Holger; M\u00fcller Erich; Dr\u00fcppel Kirsten; Weingaertner Tobias; Eggeler Yolita M; Lemmer Uli; Mallick Md Mofasser",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:15.779013"
+  },
+  {
+    "pmid": "41620424",
+    "title": "Early detection of aberrant cell fate and repair using circulating progenitor cells in patients with heterotopic ossification.",
+    "abstract": "Heterotopic ossification (HO), the abnormal formation of bone in soft tissues, is a debilitating complication that occurs after severe burns, trauma, and joint replacement surgery. Current diagnostic methods detect HO only after substantial progression, limiting opportunities for early intervention. In this study, we show that circulating mesenchymal progenitor cells (cMPCs), isolated using a microfluidic iChip from patients undergoing hip replacement and a mouse model of traumatic HO, exhibit HO-associated gene expression as early as 6\u2009hours post-injury-41 days before radiographic detection. RNA sequencing of cMPCs enabled development of a liquid biopsy-based HO risk prediction model, achieving up to 90% sensitivity and 100% specificity in human subjects. Furthermore, the model detected significant reductions in HO risk following prophylactic treatment, correlating with decreased HO volume. These findings establish a noninvasive platform for early detection and monitoring of HO and suggest broader utility for diseases involving aberrant mesenchymal cell fate. This approach enables high-throughput screening of at-risk patients and real-time assessment of therapeutic efficacy.",
+    "authors": "Nunez Johanna; Holtz Matilda; Korlakunta Sneha; Kang Hanil; Lin Florence; Stowe Hannah; Pagani Chase A; Shah Achira; Jeffery Elise C; Elhamad Meriam; Nazemidashtarjandi Saeed; Tower Robert; Choi Ji Hae; Kang Heeseog; Callan Alexandra; Chen Antonia F; Ayata Cenk; Toner Mehmet; Levi Benjamin; Karabacak N Murat",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:16.123068"
+  },
+  {
+    "pmid": "41620421",
+    "title": "Repurposing nuclear receptors for ligand-responsive liquid condensate formation and gene regulation.",
+    "abstract": "Cells regulate processes through protein interaction networks. Most chemically induced dimerization (CID) systems respond to exogenous molecules, limiting integration with endogenous signaling. Here, we repurpose nuclear receptor (NR) ligand-binding domains (LBDs) and coactivators to develop hormone- or clinically approved drug-responsive CIDs. Using the LBDs of TR\u03b2, VDR, RAR\u03b3, ER\u03b2, and GR2 with a TIF2 coactivator peptide, we constructed CIDs responsive to triiodothyronine, vitamin D, retinoic acid, estrogen, cortisol, and their antagonists. These CIDs enable two-input transcriptional switches for gene regulation. Furthermore, we design hormone-responsive liquid-liquid phase-separated (LLPS) condensates that strongly amplify transcription when exceeding a critical interaction threshold. These functional LLPS condensates provide a tunable platform for transcriptional control with up to several hundred-fold activation. Our findings offer an approach for integrating synthetic biology with physiological signaling, advancing applications in gene circuits, biosensing, and therapeutics through ligand-controlled LLPS formation.",
+    "authors": "Rihtar Erik; Fink Tina; Ivanovski Filip; Koplan Eva; Jerala Roman",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:16.468252"
+  },
+  {
+    "pmid": "41620420",
+    "title": "Reliable repurposing of the antibody interactome inside the cell.",
+    "abstract": "Eighty-five percent of the human proteome has at least one interacting monoclonal antibody. These molecules penetrate the cytoplasm poorly and are very often non-functional within the cell. Analysis of antibody variable domains and characterisation of forty-five single-chain variable fragment (scFv) intrabodies expressed in human cells indicated charge to have the greatest impact on solubility. We created new interdomain linkers, optimised scFv domain orientation and found an optimisable charge discrepancy between variable heavy framework and CDR sites. When applied to reduce the search space and rank the products of AI-led inverse folding this creates a single highly soluble, abundant and stable intrabody with parent antibody epitope recognition. Over six hundred intrabody sequences are presented targeting sixty cytoplasmic proteins with linear, conformational, post-translational modification or oligomer specificity. Interactions were validated for p53, \u03b1-synuclein, SOD1, polyQ, FUS/TLS, UCHL1 and GFP. Here we show reliable repurposing of the sequenced antibody interactome inside the cell.",
+    "authors": "O'Shea Caitlin M; Shahzad Rushba; Aghasoleimani Kimia; Newman Stuart; Panmanee Jiraporn; Schalkwyk Leonard C; Brooke Greg N; Benson Fiona E; Trimmer James S; Bosco Daryl A; Fujisawa Takao; Ichijo Hidenori; Cashman Neil R; Engel Stanislav; Wright Gareth S A",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:16.815986"
+  },
+  {
+    "pmid": "41620418",
+    "title": "Covalent inhibitor design confers activity against both GDP- and GTP-bound forms of KRAS G12C.",
+    "abstract": "The discovery of KRAS G12C inactive state inhibitors represented a significant advancement in the field of precision oncology. While inactive state inhibition shows promise in patients, Switch II (SWII)-binding inhibitors targeting both inactive and active states remain an underdeveloped therapeutic modality. Here, we describe the discovery of such KRAS G12C dual inhibitors that bind the SWII allosteric site using a chemically differentiated warhead to covalently modify both\u00a0the KRAS G12C inactive and active states. Co-crystal structures reveal that these inhibitors perturb a key water-mediated hydrogen bonding network and trigger allosteric remodeling of the GTP-bound protein surface and SWI that prevents binding to downstream effectors. Consistent with simultaneous targeting of the active and inactive states, dual inhibitors provide rapid covalent target engagement and suppression of MAPK signaling. However, they demonstrate similar efficacy in cellular and in vivo models\u00a0when compared to inactive state-selective ones despite faster target inactivation. Furthermore, both inhibitor classes show similar cellular efficacy in the presence of growth factors that drive KRAS, wt NRAS, and wt HRAS to the active state. These data provide the first detailed account of targeting both the active and inactive states of KRAS G12C and highlight the absence of a mechanistic advantage in contexts dependent on prolonged target inhibition.",
+    "authors": "Condakes Matthew L; Zhang Zhuo; Danahy Derek B; Moore Richard R; Lakkaraju Sirish Kaushik; Zhuo Xiaoliang; Amako Yuka; Borzilleri Robert M; Balachander Srividya B; Chourb Lisa; Civiello Rita L; Dongre Ashok R; Downes Daniel P; Drexler Dieter M; Dudiak Brianne M; Dzhekieva Liudmila; El-Samin Miriam; Fink Brian E; Frederick Kosea; Huang Cherrie; Khan Javed; Lees Emma; Levins Christopher G; McCarthy Courtney; Mintier Gabriel A; Mosure Katherine; Parker Michael F; Powles Ryan; Qi Jie; Ruzanov Max; Sharma Sanya; Sheriff Steven; Singh Ashish K; Stedman Justin; Szapiel Nicolas; Thompson Rebecca L; Vaccaro Wayne; Wang Tai; Yang Tianfu; You Dan; Meyer Matthew J; Bronson Joanne J; Stewart Michelle L",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:17.160753"
+  },
+  {
+    "pmid": "41620417",
+    "title": "Targeting glycerophospholipid biosynthesis overcomes chemoresistance driven by SLFN11 loss in Ewing sarcoma.",
+    "abstract": "Ewing sarcoma (EWS) is a highly aggressive pediatric malignancy characterized by elevated expression of SLFN11, which impairs DNA repair by binding to and functionally inhibiting DNA repair complexes, thereby enhancing susceptibility to genotoxic therapies. However, relapse remains a major clinical challenge and is often accompanied by the emergence of therapeutic resistance linked to reduced SLFN11 expression. We hypothesized that SLFN11-deficient tumors undergo adaptive metabolic reprogramming to overcome chemosensitivity. Here, we leverage transcriptomic and metabolomic profiling in patient-derived EWS models to demonstrate that SLFN11 loss drives downregulated mitochondrial glycerol-3-phosphate dehydrogenase (GPD2) expression, higher accumulation of glycerol-3-phosphate, fatty acid unsaturation, and enhanced glycerophospholipid (GPL) biosynthesis. Subsequently, targeting GPL biosynthesis (FSG67) restored DNA-damaging agent (SN-38) sensitivity in SLFN11-deficient EWS model, revealing a potential metabolic vulnerability to overcome chemoresistance. Furthermore, SLFN11 knockout tumors exhibited an elevated phosphocholine/glycerophosphocholine ratio, offering a potential non-invasive diagnostic biomarker.",
+    "authors": "Chakraborty Kasturee; Burman Ritambhar; Satheesh Saharsh; Kieffer Matthew; Karuhatty Chandni; Yuan Zuo-Fei; Tan Haiyan; Lkhagva Ankhbayar; High Anthony A; Wang Xusheng; Refaat Alaa; Twarog Nathaniel R; Zhang Weixing; Wang Yaxu; Fan Yiping; Li Qian; Madan Babu M; Shelat Anang A; Stewart Elizabeth; Dyer Michael A; Bagga Puneet",
+    "journal": "Cell death & disease",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:17.505342"
+  },
+  {
+    "pmid": "41620415",
+    "title": "Transition to bio-based plastic packaging reveals complex climate-biodiversity trade-offs.",
+    "abstract": "Plastics are a major contributor to global greenhouse gas emissions and biodiversity loss, with packaging accounting for around 40% of European plastic production. Bio-based plastics are often promoted as a climate-friendly alternative, yet their broader environmental implications remain unclear. Here, we conduct a harmonized life cycle assessment of fossil- and bio-based plastic packaging, integrating end-of-life fate and plastic leakage. We find that while bio-based plastics reduce greenhouse gas emissions, they increase ecosystem damage, primarily driven by land use. At the product level, outcomes are sensitive to feedstock origin and waste management. When mismanaged, environmentally persistent bio-based plastics contribute substantially to ecosystem damage. Scaling scenarios for Europe show that even complete substitution with bio-based plastics cannot offset the environmental burden of continued demand growth. Only strong demand-side measures, particularly demand reduction and improved circularity, can mitigate trade-offs across climate change and biodiversity, calling for a shift from material substitution to systemic interventions in production and consumption.",
+    "authors": "Erradhouani Bilal; Coma Veronique; Sonnemann Guido; Loubet Philippe",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:17.850437"
+  },
+  {
+    "pmid": "41620414",
+    "title": "Multicomponent synergistic immobilization via in-situ and dynamic exchange strategies for constructing hierarchical biopharmaceuticals.",
+    "abstract": "Hierarchical immobilization of multicomponent biomacromolecules has been demonstrated to be a favorable protocol for constructing advanced biopharmaceuticals, but still with formidable challenges. Herein, we innovate a multicomponent synergistic immobilization approach combining an in-situ method with a structural-transformation-promoted dynamic exchange method in a flexible zeolitic pyrimidine framework (ZPF) platform to construct multicomponent biopharmaceuticals. In-depth mechanism investigation reveals that special functional groups (e.g., carboxyl, sulfhydryl, imidazolyl) on protein surface can significantly promote the dynamic structural transformation of ZPF and allow for the efficient immobilization of proteins on the surface of ZPF crystals via dynamic exchange approach. By combining with the in-situ method, which can immobilize biomacromolecules in the inner part of ZPF crystals, multicomponent biomacromolecules can be regionally localized within ZPF crystals. This controlled spatial preparation provides substantial advantages over conventional core-shell architectures for cascading enzyme immobilization and enables the development of advanced anticancer agents demonstrating enhanced therapeutic efficacy for female Balb/c nu mice. Moreover, this platform can also generate highly efficient hierarchical antibacterial formulations to significantly enhance the wound-healing process of male Sprague-Dawley (SD) rats. This study provides a revolution to immobilize multicomponent biomacromolecules and represents an innovative and effective platform of biopharmaceuticals with immense potential for anticancer and antibacterial formulations.",
+    "authors": "Yang Mingfang; Meng Xin; Shi Ruixuan; Xie Linglong; Zuo Along; Wang Lijie; Guo Jinbiao; Sun Yingxiao; Yu Jiangyue; Di Zeyan; Zhang Zhenjie; Chen Yao",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:18.195578"
+  },
+  {
+    "pmid": "41620413",
+    "title": "Tunable chiral and nematic states in the triple-Q antiferromagnet Co",
+    "abstract": "Complex spin configurations in magnetic materials, ranging from collinear single-Q to non-coplanar multi-Q states, exhibit rich symmetry and chiral properties. However, their detailed characterization is often hindered by the limited spatial resolution of neutron diffraction techniques. Here we employ magnetic circular dichroism and magnetic linear dichroism to investigate the triangular lattice antiferromagnet Co",
+    "authors": "Kirstein Erik; Park Pyeongjae; Cho Woonghee; Batista Cristian D; Park Je-Geun; Crooker Scott A",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:18.540158"
+  },
+  {
+    "pmid": "41620412",
+    "title": "Recurrent connections facilitate occluded object recognition by explaining-away.",
+    "abstract": "Despite the ubiquity of recurrent connections in the brain, their role in visual processing is less understood than that of feedforward connections. Occluded object recognition, an important cognitive capacity, is thought to rely on recurrent processing of visual information, but it remains unclear whether and how recurrent processing improves recognition of occluded objects. Using convolutional models of the visual system, we demonstrate how a distinct form of computation arises in recurrent-but not feedforward-networks that leverages information about the occluder to \"explain-away\" the occlusion-i.e., recognition of the occluder provides an account for missing or altered features, potentially rescuing recognition of occluded objects. This occurs without any constraint placed on the computation and is observed both across a systematic architecture sweep of convolutional models and in a model explicitly constructed to approximate the primate visual system. In line with these results, we find evidence consistent with explaining-away in a human psychophysics experiment. Finally, we developed an experimentally inspired recurrent model that recovers fine-grained features of occluded stimuli by explaining-away. Recurrent connections' capability to explain-away may extend to more general cases where undoing context-dependent changes in representations benefits perception.",
+    "authors": "Kang Byungwoo; Midler Benjamin; Chen Feng; Druckmann Shaul",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:18.887523"
+  },
+  {
+    "pmid": "41620411",
+    "title": "Tomato antiviral ubiquitin-proteasome system recognizes viral 59\u2009kDa protein to confer tomato chlorosis virus\u00a0resistance.",
+    "abstract": "Viral diseases critically impact crop yields, necessitating insights into plant-pathogen recognition and resistance. In tomato (Solanum lycopersicum), tomato chlorosis virus\u00a0(ToCV) employs 59\u2009kDa protein (p59) to facilitate movement and degrade the host Catalase1 (SlCAT1), disrupting redox homeostasis. Importantly, tomato has evolved an antiviral ubiquitin-proteasome system (UPS) featuring the Antiviral E2 ubiquitin-conjugating enzyme (SlAVE2) and Antiviral E3 ubiquitin ligase (SlAVE3) pair, which specifically recognizes p59 to trigger antiviral defenses. During infection, this system ubiquitinates SlWRKY6, alleviating its repression of SlAVE3 and creating a positive feedback loop that enhances SlAVE3 expression. SlAVE3 then targets p59 for ubiquitination and degradation, inhibiting viral spread. Notably, p59 co-opts this UPS to degrade SlCAT1, illustrating a counter-defense interplay. Domestication analysis reveals selection of AVE3 from S. pimpinellifolium to S. lycopersicum, with SpAVE3 conferring stronger ToCV resistance than SlAVE3 through improved p59 targeting and reduced SlCAT1 degradation. This study unveils a domesticated antiviral UPS, providing a foundation for breeding ToCV-resistant tomatoes.",
+    "authors": "Zhao Dan; Liu Xiaoqian; Li Hongbo; Xia Tianchen; Jia Qi; Li Peidong; Shan Qing; Li Changqian; Li Hui; Gai Yilei; Lin Tao; Zang Lianyi; Zhou Tao; Wei Jin-Wei; Zhu Xiaoping; Gong Biao",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:19.230843"
+  },
+  {
+    "pmid": "41620410",
+    "title": "Nanotwin architecture and ultra-high valley degeneracy lead to high thermoelectric performance in GeTe-based thermoelectric materials.",
+    "abstract": "Here, we achieve a high peak ZT of 2.5 as well as an exceptional average ZT of 1.9 through nanotwin architecture and inducing ultra-high valley degeneracy. We find that nanotwins, ordered vacancy arrays and point defects serve as intense phonon scattering centers for enhancing wide-frequency phonon scattering, resulting in ultralow lattice thermal conductivity in GeTe. Interestingly, density-functional theory calculations reveal that CuBiS",
+    "authors": "Li Song; Yang Yuxuan; Fei Xiaoyu; Geng Yang; Nan Jiajun; Peng Pubao; Li Guizhong; Zhang Yang; Liu Xiaobing; Zhang Yongsheng; Wu Haijun; Tang Guodong",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:19.575237"
+  },
+  {
+    "pmid": "41620408",
+    "title": "Saturation of space weathering in shaping lunar regolith particle morphology.",
+    "abstract": "The lunar mare regolith preserves tripartite records of volcanism, impacting, and space weathering. However, previous studies based on limited soil particle numbers were hindered by issues of sample representativeness. Here we conduct micro-CT scans of bulk soil samples from Chang'e-5 (nearside) and Chang'e-6 (farside), and develop machine learning-based image segmentation and classification methods to identify a vast number of basalt, agglutinate, breccia, and monomineralic particles. The Chang'e-5 basalt exhibits higher plagioclase content than Chang'e-6, while agglutinates from Chang'e-6 have lower void ratios, respectively indicating different lava origins and more intense micrometeorite bombardment for farside Chang'e-6. Despite their contrasting volcanic and impacting histories, the soil particles for these youngest nearside/farside samples exhibit similar morphometric distributions, suggesting that space weathering reached saturation in shaping surficial soil particle morphology in\u2009~\u20092.2 million years or less. These findings may extend to other mare regions and help establish space weathering models for other airless bodies.",
+    "authors": "Luo Ao; Cui Yifei; Wang Guodong; Nie Jiayan; Xu Chuansheng; Zhang Zihan; Zhang Jun; Li Yang; Zhao Qi; He Huaiyu",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:19.917766"
+  },
+  {
+    "pmid": "41620407",
+    "title": "Ultralow CNT-reinforced phase-change fibers for scalable wearable thermoregulation.",
+    "abstract": "Phase-change materials (PCMs) demonstrate transformative potential for wearable thermal management systems; however, their practical implementation faces challenges due to trade-offs among energy storage density, mechanical robustness, and phase-change stability. Here, we present a nanotechnology-directed strategy that integrates ultralow carbon nanotubes (CNT, 0.1\u2009wt.%) scaffolds with three-dimensional (3D) interpenetrating polymer networks (IPNs), achieving remarkable synergy between crystallinity control and thermal regulation. The resultant phase-change fibers (PCFs) demonstrate dual-functional optimization. Firstly, they exhibit excellent latent heat storage (\u2206H",
+    "authors": "Geng Xiaoye; Wang Ziyu; Xiong Feng; Liu Lifang; Zhen Ziting; Jin Yongkang; Qin Mulin; Su Jianwen; Gao Song; Wang Yonggang; Wang Qining; Zou Ruqiang",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:20.260771"
+  },
+  {
+    "pmid": "41620406",
+    "title": "Strain-invariant omnidirectional stretchable MXetronics.",
+    "abstract": "Titanium carbide MXene flakes hold great promise for system-level MXene-based electronics (MXetronics) due to their outstanding electrical conductivity and diverse functional properties. However, the weak MXene interlayer bonding often causes film fracturing under mechanical strain, ultimately leading to device failure, manifested as unstable operation, inaccurate data transmission, and potential electrical disconnection. Here, we present strain-invariant, omnidirectionally stretchable MXetronics (sos-MXetronics) through hierarchical stiffness microgrid engineering. This strategy synergistically integrates patterned elastiff regions and modulus-buffered interconnects, effectively preventing performance shifts in sos-MXetronics. This circular sos-MXetronics with a radius of 3.3\u2009cm integrates a near-field communication (NFC) antenna, eight micro-supercapacitors (MSCs), three resistive sensors, and interconnected conductive networks, demonstrating exceptional strain invariance with 95-98% performance retention even under 40% strain. With the capability to minimize motion-induced artifacts, the system ensures accurate blood pressure (BP) monitoring without electrical disconnection, even during wrist deformations. This breakthrough not only marks a significant step toward the practical application of MXene in omnidirectional stretchable MXetronics, but also paves the way for reliable, high-performance electronics based on two-dimensional materials for next-generation healthcare monitoring systems that seamlessly integrate with the human body under real-world conditions.",
+    "authors": "Wang Shenglong; Deng Weili; Huang Haichao; Yan Zhuocheng; Wang Yongbin; Zhou Tingting; Ao Yong; Wang Zihan; Zhang Jiabin; Tian Guo; Lan Boling; Sun Yue; Xu Tianpei; Yang Tao; Huang Longchao; Jin Long; Lu Jun; Yang Weiqing",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:20.605935"
+  },
+  {
+    "pmid": "41620405",
+    "title": "Enhanced methane chlorination via RuO",
+    "abstract": "Chloromethane (CH",
+    "authors": "Fu Ziyan; Zhou Yunpeng; Cao Ziming; Yang Sen; Huang Liu; Wu Zhongbiao; Lu Yunhao; Chen Wei; Weng Xiaole; Wang Zheng; Shi Le",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:20.950407"
+  },
+  {
+    "pmid": "41620404",
+    "title": "A spatiotemporal atlas of cerebrovascular development in zebrafish.",
+    "abstract": "The vertebrate brain requires precisely patterned vasculature, yet the molecular and cellular dynamics of cerebrovascular development remain incompletely understood. While single-cell studies have profiled brain vasculature, integrating these data across molecular, cellular, and architectural scales remains challenging. We combine in situ sequencing, single-cell transcriptomics, and 3D vascular reconstruction to map zebrafish brain endothelial development (3-11 dpf). Quantitative 3D analysis reveals a developmental shift from lateral vascularization to intraparenchymal angiogenesis, coinciding with blood-brain barrier (BBB) maturation. We identify 6 endothelial subtypes with conserved mammalian signatures, showing capillary endothelial cells (CapECs), the predominant intracranial subtype exhibiting stage-specific enrichment of transporter and tight junction modules. Spatial transcriptomics show progressive CapEC enrichment in mesencephalic/metencephalic regions versus arterial EC accumulation in prosencephalic vessels. Functional assays confirm BBB competency by 11 dpf, while genetic perturbation of three uncharacterized CapEC-enriched genes (slc16a1a, zgc:158423, cldc1) disrupts vascular patterning and BBB integrity. This multidimensional atlas provides an evolutionary perspective on cerebrovascular development, bridges molecular profiles with vascular architecture, and offers insights into developmental dynamics across scales.",
+    "authors": "Li Xiaoyu; Ke Shanshan; Wu Chengchao; Wu Mei; Ren Yunfei; Wang Zitong; Tang Jialan; Zheng Yuying; Mi Da; Zhang Jingjing",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:21.290818"
+  },
+  {
+    "pmid": "41620403",
+    "title": "Safety and biologic activity of a bispecific T cell receptor targeting HIV Gag in males living with HIV: a first-in-human trial.",
+    "abstract": "HIV persistence in reservoirs despite antiretroviral therapy (ART) is a barrier to a permanent cure. We present the affinity-enhanced TCR bispecific IMC-M113V as a potential therapeutic for targeted HIV reservoir elimination. Preclinical studies demonstrate that IMC-M113V redirects T cells towards cells expressing the variable viral peptide, Gag",
+    "authors": "Vandekerckhove Linos; Fox Julie; Mora-Peris Borja; Navarro Jordi; Allard Sabine D; Uriel Alison J; Moreno Guill\u00e9n Santiago; Boffito Marta; Post Frank A; Estrada Vicente; Mothe Beatriz; Delporte Mareva; Benlahrech Adel; Rahman Haseeb; Clubley James; Treveil Agatha; Chamberlain Jonathan; Harrison Rory; Hock Miriam; Yuan Yuan; Wustner Jason; Moureau Sylvie; Whale Andrew D; Wallace Zo\u00eb; Singh Praveen K; Titanji Kehmia; Dorrell Lucy; Fidler Sarah",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:21.636019"
+  },
+  {
+    "pmid": "41620402",
+    "title": "Experimental realization of dice-lattice flat band at the Fermi level in layered electride YCl.",
+    "abstract": "Flat electronic bands, where interactions among electrons overwhelm their kinetic energies, hold the promise for exotic correlation physics. The dice lattice has long been theorized as a host of flat bands with intriguing band topology. However, to date, no material has ever been found to host the characteristic flat bands of a dice lattice. Here, using angle-resolved photoemission spectroscopy (ARPES), we discover a dice-lattice flat band at E",
+    "authors": "Geng Songyuan; Wang Xin; Guo Risi; Qiu Chen; Chen Fangjie; Wang Qun; Li Kangjie; Hao Peipei; Liang Hanpu; Huang Yang; Wu Yunbo; Cui Shengtao; Sun Zhe; Kim Timur K; Cacho Cephise; Dessau Daniel S; Zhou Benjamin T; Li Haoxiang",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:21.981238"
+  },
+  {
+    "pmid": "41620401",
+    "title": "Targeting hypoxic exosomal IGFBP2 overcomes CD47-mediated immune evasion in glioblastoma.",
+    "abstract": "Glioblastoma (GBM) acquires malignant traits through complex molecular adaptations that sustain immune evasion, often characterized by hypoxia and overexpression of the phagocytosis checkpoint CD47. However, the role of hypoxic drivers coordinating CD47-dependent immune evasion remains poorly defined. Here, we integrated single cell RNA sequencing and proteomic analysis to identify that insulin-like growth factor binding protein 2 (IGFBP2) was co-expressed with CD47 in hypoxic mesenchymal-like GBM subpopulations, synergistically promoting tumor progression and immune evasion. Mechanically, hypoxia induced IGFBP2 expression via HIF-2\u03b1-mediated transcriptional activation and further increased IGFBP2-positive exosome secretion through HIF-1\u03b1-dependent RAB3A upregulation. Moreover, IGFBP2 was predominantly localized on the exosome surface via integrin \u03b15\u03b21 and activated integrin/FAK/STAT3 signaling to enhance CD47 expression and inhibit macrophage phagocytosis. Clinically, serum exosomal IGFBP2 levels correlated with tumor grade and could serve as a diagnostic biomarker. Importantly, combinatorial blockade of IGFBP2 and CD47 synergistically suppressed tumor growth and prolonged survival in orthotopic GBM models. Together, our findings uncovered the hypoxia-exosomal IGFBP2-CD47 axis in GBM immune evasion and provided a compelling rationale for combination therapy to improve immunotherapy efficacy in GBM.",
+    "authors": "Qi Yanhua; Zhao Rongrong; Zhang Xinglong; Xia Huize; Zhang Ping; Wang Qingtong; Zhao Shulin; Wang Shaobo; Zhao Hongyu; Guo Xiaofan; Qiu Wei; Li Boyan; Pan Ziwen; Qiu Jiawei; Gao Zijie; Wang Chengwei; Lu Haiquan; Li Gang; Xue Hao",
+    "journal": "Cell death & disease",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:22.328907"
+  },
+  {
+    "pmid": "41620400",
+    "title": "BCL-xL as a therapeutic target in cetuximab-refractory colorectal cancer.",
+    "abstract": "Despite recent medical advances, colorectal cancer (CRC) remains the second-leading cause of cancer-related death worldwide. For patients with KRAS wild-type metastatic CRC, the monoclonal antibody cetuximab, which targets the epidermal growth factor receptor (EGFR), is an approved treatment option. However, therapeutic success is often limited by the emergence of drug-resistant cancer cell populations within a few months. Therefore, alternative strategies to effectively target cetuximab-refractory CRC are urgently needed. Here, we sought to identify second-line therapeutic strategies using a CRC cell line with acquired cetuximab resistance as a model. Transcriptomic profiling of the resistant cells identified the apoptosis pathway as a potential therapeutic target, which was supported by their increased susceptibility to BH3-mimetics targeting the anti-apoptotic proteins MCL-1 and BCL-xL under both 2D and 3D culture conditions. These findings were validated in organotypic CRC slice cultures generated from cetuximab-resistant patient-derived xenografts (PDXs). Multiplex immunofluorescence staining demonstrated that BCL-xL inhibition effectively triggered apoptosis in heterogeneous PDX tumor slice models, including models harboring oncogenic BRAF mutations. Our findings suggest that cetuximab-resistant CRC retains apoptotic competence, and that BCL-xL inhibition serves as a robust alternative therapeutic strategy that is largely independent of the tumor mutational profile.",
+    "authors": "Asmanidou Stella; Thiel Julia; Ekstrom Thomas L; Schueler Julia; Oswald Eva; Metzger Patrick; Blaumeiser Andreas C; Boerries Melanie; Wiebl Lisa-Marie; Schiffler Ronja; Tamas Raluca; Essmann Frank; Dong Meng; Johnsen Steven A; Kontermann Roland E; Olayioye Monilola A",
+    "journal": "Cell death & disease",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:22.671656"
+  },
+  {
+    "pmid": "41620399",
+    "title": "Discover the maze-like network for glabridin biosynthesis.",
+    "abstract": "Flavonoid diversity arises from modifications of a few precursors by tailored enzymes, yet the complexity of their evolved metabolic networks complicates pathway elucidation and design. Here, by combining chromosome-scale genome assembly with large-scale transcriptome analysis, we identify and reconstruct the glabridin biosynthetic pathway in yeast, enabling de novo production of this antioxidant flavonoid from Glycyrrhiza glabra L. By analyzing 183 licorice transcriptomes, we discover four classes of enzymes capable of modify isoflavan scaffolds. Among 13 theoretical routes, we validate six functional pathways, revealing a ladder-like, multi-route tailoring network. This network features a multi-step \"protection-deprotection\" mechanism driven by a dynamic methylation-demethylation cycle that regulate intermediate hydrophilicity and enzyme affinity, thereby enabling species-specific glabridin synthesis. Reconstruction of this network in yeast shows that metabolic redundancy and interconnectivity enhance robustness and yield compared to single-route designs. These results establish a biosynthetic paradigm with broad implications for natural product discovery and biomanufacturing.",
+    "authors": "Zhang Zhen; Li Wenqiang; Meng Fanze; Jin Yanming; Sun Wentao; Kuang Qina; Ren Shichao; Liu Wei; Zhang Liang; Qin Lei; Lv Bo; Jia Haiyang; Li Chun",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:23.016789"
+  },
+  {
+    "pmid": "41620398",
+    "title": "SLC46A1 deficiency-mediated folate restriction suppresses colorectal cancer progression through epigenetic-transcriptional reprogramming.",
+    "abstract": "The association between folate metabolism abnormalities and the development of colorectal cancer (CRC) remains controversial. Here, we report that the folate exerts a tumor-suppressive role in CRC; however, the manifestation of this effect is restricted by the expression level of folate transporter SLC46A1 in CRC cells. Multi-cohort profiling revealed significant downregulation of SLC46A1 in CRC tissues compared to adjacent normal tissues, where low expression independently predicted poor overall survival. Functional studies demonstrated that SLC46A1-mediated folate uptake suppressed tumor proliferation, migration, and invasion both in vitro and in vivo. Mechanistically, SLC46A1 deficiency restricted intracellular folate availability and impaired cellular methylation potential, as evidenced by a reduced SAM/SAH ratio, leading to DNA hypomethylation at specific sites such as the FOS proto-oncogene promoter. This epigenetic reprogramming triggers transcriptional activation of key oncogenic effectors CCND1, BCL2, and PLAU involved in CRC progression. Clinically, we found a significant inverse correlation between SLC46A1 expression and folate levels in tumor interstitial fluids of CRC, suggesting impaired folate uptake in low SLC46A1 tumors. Multi-color immunofluorescence across two cohorts further demonstrated conserved inverse associations between SLC46A1 and FOS expression in primary tumors and metastatic lesions. This study elucidates the molecular mechanism by which folate inhibits CRC progression through the \"SLC46A1-epigenetic-transcriptional regulation\" axis, providing mechanistic insights into folate deficiency-driven CRC progression and biomarkers for precision CRC intervention. This study elucidates the tumor-suppressive role of the folate transporter SLC46A1 in CRC. In normal cells, SLC46A1 facilitates folate uptake, supporting one-carbon metabolism and maintaining genomic stability. In CRC, however, SLC46A1 downregulation induces intracellular folate deficiency, triggering locus-specific DNA hypomethylation at the FOS promoter, which activates oncogenic transcription of key downstream effectors (CCND1, BCL2, PLAU), driving tumor progression. The graphical abstract illustrates the differential impact of SLC46A1 on folate metabolism and gene expression in normal versus tumor cells, highlighting its potential as a therapeutic target in CRC.",
+    "authors": "Zhou Yelu; Liu Yanxing; Liu Yi; Che Chang; Zhao Yihan; Yu Jianing; Li Xinhang; Li Ang; Chen Shuyi; Wang Haojia; Zhou Mingzhen; Liu Dan; He Wenfang; Wang Zhuo; Han Hua; Wang Xin; Lu Yuanyuan; Wu Kaichun; Zhao Xiaodi",
+    "journal": "Cell death & disease",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:23.363026"
+  },
+  {
+    "pmid": "41620397",
+    "title": "Aeromonas in South Asia: genomic insights into an environmental pathogen and reservoir of antimicrobial resistance.",
+    "abstract": "Aeromonads are an ecologically versatile group of bacteria that cause infections in aquatic animals and are recognised as emerging human pathogens. Despite this, our understanding of Aeromonas diversity, especially the relationship between clinical and environmental strains, remains limited. Here, we present a genomic analysis of the Aeromonas genus, comprising 1853 genomes, and a detailed comparison of clinical and environmental strains from South Asia, including 996 newly sequenced genomes from Bangladesh and India. Phylogenetic analyses revealed that Aeromonas is a highly diverse genus, with no distinct clade separating clinical and environmental isolates. We identified 28 Aeromonas species and 905 novel sequence types, comprising 72.5% of the genomes. Notably, we show a high incidence of antimicrobial resistance (AMR) genes across all isolates, including against front and last-line antibiotics. Finally, we highlight frequent misidentification of Aeromonas as Vibrio cholerae, which is relevant to cholera-endemic regions where both genera co-exist and are associated with diarrhoeal disease. Our study underscores Aeromonas as an important environmental AMR reservoir and emerging multi-species pathogen capable of spilling over into human populations.",
+    "authors": "Singh Nisha; Golicha Rahma O; Thakur Chetan; Beale Mathew A; Dorman Matthew J; Cazares Adrian; Taylor-Brown Alyce; Johura Fatema-Tuz; Rashid Mahamud-Ur; Monira Shirajum; Zohura Fatema; Parvin Tahmina; Bhuiyan Sazzadul Islam; Sultana Marzia; Mohan Balvinder; Domman Daryl; George Christine Marie; Kariuki Samuel; Alam Munirul; Taneja Neelam; Thomson Nicholas R",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:23.707364"
+  },
+  {
+    "pmid": "41620396",
+    "title": "Mutant TDP-43 drives impairments in axonal transport and glycolysis in a mouse stem-cell-derived motor neuron model of amyotrophic lateral sclerosis (ALSO).",
+    "abstract": "TDP-43 dysfunction is thought to be central to ALSO pathogenesis. Studying mutations in the gene which encodes TDP-43, TARDBP, provides a valuable opportunity to gain insight into how TDP-43 dysfunction alters cellular homoeostasis. Our group has previously developed a TDP-43",
+    "authors": "Carroll Emily; Scaber Jakub; Pasniceanu Iris-Stefania; Dafinca Ruxandra; Gordon David; Candalija Ana; Talbot Kevin",
+    "journal": "Cell death & disease",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:24.049547"
+  },
+  {
+    "pmid": "41617976",
+    "title": "Targeting the USP7-PRMT6 epigenetic axis overcomes chemoresistance in breast cancer by coordinating H3R2me2a deposition and RNF168 methylation for DNA repair and ferroptosis blockade.",
+    "abstract": "Platinum resistance in breast cancer remains a major therapeutic challenge due to convergent escape mechanisms. Here, we identify the PRMT6/USP7 complex as a dual epigenetic orchestrator of chemoresistance. Mechanistically, USP7-mediated deubiquitination of H2BK120ub facilitates PRMT6-dependent deposition of the repressive mark H3R2me2a, concomitant with the exclusion of activating H3K4me3. This coordinated histone crosstalk reprograms the chromatin landscape, leading to transcriptional silencing of the ferroptosis regulator TAZ (WWTR1). Consequently, TAZ suppression disrupts lipid peroxidation and blocks cisplatin-induced ferroptosis, a critical cell death pathway. Simultaneously, the PRMT6/USP7 complex recruits the E3 ubiquitin ligase RNF168 to sites of DNA damage, promoting H2AX monoubiquitination and robust activation of both homologous recombination (HR) and non-homologous end-joining (NHEJ) repair pathways, thereby enhancing DNA damage tolerance. To translate this mechanism, we engineered an injectable hydrogel for the sequential co-delivery of cisplatin and PRMT6/USP7 inhibitors, demonstrating significantly enhanced therapeutic efficacy. Our study unveils a previously unrecognized bifunctional role for the PRMT6-USP7 axis in orchestrating epigenetic reprogramming and DNA repair to confer platinum resistance, providing profound mechanistic insights and a compelling co-targeting strategy for overcoming chemoresistance in breast cancer.",
+    "authors": "Yang Tianshu; Wen Hong; Zhang Jing; Pan Yiyang; Yang Feng; Wu Xuan; Zhao Jun; Peng Ke; Yang Lijie; Mei Jie; Cai Yujiao; Wang Yan; Xiao Weidong",
+    "journal": "Cell death and differentiation",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:24.393593"
+  },
+  {
+    "pmid": "41617707",
+    "title": "Insights into the structure and modulation of human TWIK-2.",
+    "abstract": "The Tandem of pore domain in a Weak Inward Rectifying K",
+    "authors": "Ma Qianqian; Hernandez Ciria C; Navratna Vikas; Kumar Arvind; Rana Jaimin K; Zong Jiameng; Lee Abraham; Mosalaganti Shyamal",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:18:24.736922"
+  }
+]

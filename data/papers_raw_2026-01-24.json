@@ -1,0 +1,335 @@
+[
+  {
+    "pmid": "41581503",
+    "title": "PIKFYVE inhibition mitigates disease in models of diverse forms of ALSO.",
+    "abstract": "",
+    "authors": "Hung Shu-Ting; Linares Gabriel R; Chang Wen-Hsuan; Eoh Yunsun; Krishnan Gopinath; Mendonca Stacee; Hong Sarah; Shi Yingxiao; Santana Manuel; Kueth Chuol; Macklin-Isquierdo Samantha; Perry Sarah; Duhaime Sarah; Maios Claudia; Chang Jonathan; Perez Joscany; Couto Alexander; Lai Jesse; Li Yichen; Alworth Samuel V; Hendricks Eric; Wang Yaoming; Zlokovic Berislav V; Dickman Dion K; Parker J Alex; Zarnescu Daniela C; Gao Fen-Biao; Ichida Justin K",
+    "journal": "Cell",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:23:17.320835"
+  },
+  {
+    "pmid": "41581148",
+    "title": "Targeting ZDHHC12-mediated PARP1 palmitoylation potentiates PARP inhibitor cytotoxicity.",
+    "abstract": "Poly(ADP-ribose) polymerase inhibitors (PARPi) elicit cytotoxicity by trapping PARP1 at DNA lesions, but clinical resistance remains a major challenge. Here, we identify reversible S-palmitoylation as a negative regulator of PARP1 chromatin engagement. Mass spectrometry reveals PARP1 palmitoylation at conserved cysteines within its DNA-binding domains. DNA damage reduces PARP1 palmitoylation, enhancing DNA binding, whereas inhibition of depalmitoylases APT1/2 elevates palmitoylation and suppresses DNA binding. The palmitoyltransferase ZDHHC12 catalyzes PARP1 palmitoylation, and its inhibition, along with the blockade of palmitate synthesis or global palmitoylation, augments PARP1 trapping and sensitizes high-grade ovarian cancer (HGSOC) cells to the PARPi Niraparib. Patient-derived PARP1 variants R138C and R591C display hyper-palmitoylation, impaired trapping, and PARPi resistance through an indirect mechanism independent of palmitoylation at the mutation sites. ZDHHC12 knockdown restores PARP1 trapping and resensitizes resistant cells and xenografts to Niraparib. These findings establish ZDHHC12-mediated PARP1 palmitoylation as a targetable vulnerability to overcome PARPi resistance.",
+    "authors": "Zhang Xining; Liu Ye; Liao Xingming; Wang Min; Liu Jiao; Wen Yuemei; Liu Rongdiao; Sang Xiaolin; Li Guohui; Liu Pixu; Chu Huiying; Cheng Hailing",
+    "journal": "Cell reports",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:23:17.666196"
+  },
+  {
+    "pmid": "41581144",
+    "title": "SREBP-1 upregulates SOAT1 to promote tumor growth by preventing lipotoxicity.",
+    "abstract": "Rapidly growing tumors require abundant supplies of cholesterol, but excess cholesterol can be cytotoxic. How cancer cells balance this demand while avoiding lipotoxicity remains unclear. Our study found that SOAT1, the enzyme that converts cholesterol into cholesteryl esters for storage in lipid droplets, is concurrently upregulated with SREBP-1, a master transcription factor that governs cholesterol uptake and biosynthesis across multiple cancer types. Mechanistically, SREBP-1 binds the SOAT1 promoter and transcriptionally activates its expression, coupling cholesterol acquisition with intracellular storage. Genetic silencing of SOAT1, while preserving SREBP-1 activity, resulted in the accumulation of free cholesterol and induced mitochondrial oxidative stress, impairing the growth of patient-derived organoids and xenografts from lung cancer and glioblastoma, the most lethal brain tumor, and significantly prolonging survival in preclinical mouse models. These findings reveal a dual role of SREBP-1 in controlling both cholesterol acquisition and storage to maintain cholesterol homeostasis, prevent lipotoxicity, and sustain tumor growth.",
+    "authors": "Zhong Yaogang; Mazik Logan; Su Huali; Chiang Cheng-Yao; Geng Feng; Mo Xiaokui; Wang Qiang; Kou Yongjun; Chen Wei; Li Zaibo; Horbinski Craig; Chakravarti Arnab; Wang Qi-En; Guo Deliang",
+    "journal": "Cell reports",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:23:18.009636"
+  },
+  {
+    "pmid": "41580749",
+    "title": "Long-read sequencing reveals increased isoform diversity in key transcription factor effectors of intercellular signalling at the invertebrate-vertebrate transition.",
+    "abstract": "Several intercellular signalling pathways (including wingless (Wnt), hedgehog (Hh), and bone morphogenetic protein (BMP)) are used repeatedly in animals throughout development and evolution and are also frequent targets for disease-associated disruptions. We have previously shown that the major transcriptional effectors of \u03b2-catenin-dependent Wnt signalling, the TCF/LEF proteins, in contrast to other pathway components, have a higher gene number and isoform diversity in vertebrates versus invertebrates, but this increased diversity has only been poorly quantified. Considering that isoform diversity correlates with organism complexity, any increase in major signalling effectors is likely to have made a significant contribution to vertebrate evolution.\nUsing de novo long-read transcriptomes, we compared isoform number per gene for the chordates Ciona intestinalis, Lampetra planeri and Xenopus tropicalis, thus encompassing the invertebrate sister group to vertebrates, as well as a cyclostome and a gnathostome vertebrate. We find a significant increase in the number of transcript isoforms per gene expressed during embryo development and organogenesis at the invertebrate-to-vertebrate transition, specifically for the main transcription factor effectors of the Wnt/\u03b2-catenin, Hh and BMP pathways, i.e. TCF/LEF, GLI and SMAD.\nOur results implicate an increase in isoform diversity of the transcription factors of major intercellular signalling pathways as having a disproportionate role in the evolutionary origin and diversification of vertebrates.",
+    "authors": "Torres-Aguila Nuria P; Salonna Marika; Shimeld Sebastian M; Hoppler Stefan; Ferrier David E K",
+    "journal": "BMC biology",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:23:18.355249"
+  },
+  {
+    "pmid": "41580530",
+    "title": "CARM1-mediated hypoxanthine-enriched exosomes rewire inosine metabolism and impair CD8",
+    "abstract": "Cancer cells utilize tumor-derived exosomes to suppress antitumor immunity. Herein, we identify co-activator-associated arginine methyltransferase 1 (CARM1) as a key regulator of exosome biogenesis and metabolite sorting that inhibiting CD8",
+    "authors": "Yin Jilong; Su Zhipeng; Hu Xi; Sun Haojie; Sun Zenghui; Zhou Shuyu; Xu Wenwen; Xi Ying; Liu Lanlan; Zhang Jinwei; Zhao Qian; Qiao Yi; Zhang Jian; Zhang Yingjie; Xu Ying; Fan Yuchen; You Xiaona; Meng Xiangbo; Liu Fabao",
+    "journal": "Cell death and differentiation",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:23:18.700514"
+  },
+  {
+    "pmid": "41580505",
+    "title": "Single amino-acid differences define H2B variants and modify chromatin accessibility to induce EMT in breast cancer.",
+    "abstract": "Histones scaffold genomic DNA and regulate access to the transcriptional machinery. However, naturally occurring histone variants can alter histone-DNA interactions, DNA and histone modifications, and the chromatin interactome. Hence, alterations in histone variant deposition can disrupt chromatin, and are increasingly recognized as a way to trigger various disease, including cancer. While significant attention has been placed on the biochemical and functional roles of H2A, H3, and H4 histone variants, the variants of H2B remain largely understudied. Here, we show that H2B variants are dysregulated in breast cancer and that certain variants are associated with specific breast cancer subtypes. HIST1H2BO overexpression (in particular) is more common in Asian, African American/Black, and young female populations and is associated with a worse prognosis. In vitro studies show that H2B1O compacts nucleosome structure. Incorporating H2B1O into chromatin activates pro-inflammatory and oncogenic pathways, induces epithelial-to-mesenchymal transition (EMT), and generates resistance to first-line chemotherapeutic agents. Thus, H2B1O acts much like an onco-histone, with H2B variant expression being a prognostic biomarker for breast cancer and a potential new target for drug therapies to enhance treatment efficacy.",
+    "authors": "Dhahri Hejer; Lau Kin H; Saintilnord Wesley N; Lopes Elisson; Damico Hannah N; Hegazy Youssef A; Palma Flavio R; Melters Dani\u00ebl P; Chandler Darrell P; Dalal Yamini; Licht Jonathan D; Bonini Marcelo G; Fondufe-Mittendorf Yvonne N",
+    "journal": "Oncogene",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:23:19.047001"
+  },
+  {
+    "pmid": "41580442",
+    "title": "Printing technologies for monitoring crop health.",
+    "abstract": "Agricultural production requires low-cost sensors capable of delivering reliable, high-resolution data across large areas. Rising food demand, limited arable land, and severe soil degradation have accelerated the adoption of precision agriculture, which relies on real-time monitoring of soil, plant, and environmental conditions. Central to this shift is the development of scalable sensor technologies enabled by advances in materials science. Printing techniques, including inkjet, screen, aerosol jet, 3D printing, and direct laser writing, offer versatile routes to fabricate flexible, large-area, and plant-integrated sensors. This Review surveys recent progress in printable low-dimensional materials for agricultural sensing, examines their physicochemical properties in relation to sensor performance, and discusses key challenges and future opportunities requiring interdisciplinary integration.",
+    "authors": "Pan\u00e1\u010dek David; Kupka Vojt\u011bch; Nalepa Martin-Alex; D\u011bdek Ivan; \u00c1lvarez-Diduk Ruslan; Olenik Selin; Flauzino Jose; Zdra\u017eil Jan; Jakubec Petr; Zdra\u017eil Luk\u00e1\u0161; Sp\u00edchal Luk\u00e1\u0161; Sonigara Keval K; Zbo\u0159il Radek; Pumera Martin; Merko\u00e7i Arben; Wang Joseph; De Diego Nuria; G\u00fcder Firat; Otyepka Michal",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:23:19.390243"
+  },
+  {
+    "pmid": "41580438",
+    "title": "Preclinical profiling of antibody drug conjugates targeting oncofetal chondroitin sulfate.",
+    "abstract": "Antibody-drug conjugates (ADC) offer a targeted cancer treatment approach by delivering cytotoxic payloads directly to tumor cells. However, resistance mechanisms, poor tumor penetration, and off-target toxicity often limit clinical efficacy. Vartumab targets oncofetal chondroitin sulfate (ofCS), a pan-cancer target present on tumor cells and in the malignant stroma, with low expression in normal tissues. As part of transitioning Vartumab to clinical evaluation, two linker-payloads known to mediate bystander effects, valine-citrulline (vc)-monomethyl auristatin E (MMAE) and glycine-glycine-phenylalanine-glycine (ggfg)-Deruxtecan (DXd), were investigated for design of Vartumab ADCs. We show that the ADCs maintain specificity to ofCS proteoglycans, cancer cells, and tissue biopsies, exhibiting specific binding to a wide range of malignant and metastatic tissues. Biodistribution assessment of Vartumab ADCs in mice shows strong and specific tumor uptake, with minimal accumulation in other organs. Both ADCs induced bystander killing of antigen-negative cells in the presence of antigen-positive cells and displayed potent anti-tumor activities in a cell-derived xenograft melanoma model. Furthermore, we show that Vartumab conjugates with bystander-capable linker-payloads exhibit greater in vivo potency compared to those with payloads lacking significant bystander effect. Finally, toxicity assessment in rats indicates that the ADC-MMAE is well-tolerated upon repeated doses, with similar dose-limiting toxicities as reported for clinically approved MMAE-conjugated ADCs. Our data support further clinical development of Vartumab-based ADCs.",
+    "authors": "Skafte Ann; Vidal-Calvo Elena Ethel; Choudhary Swati; Mujollari Joana; Dagil Robert; Martin-Salazar Anne; Oo Htoo Zarni; Duvnjak Lara; Theander Thor G; Daugaard Mads; Gustavsson Tobias; Salanti Ali",
+    "journal": "Cell death & disease",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:23:19.735387"
+  },
+  {
+    "pmid": "41580435",
+    "title": "Curvature programmed inkjet printing enables adaptive deposition for Gaussian sintering lasers.",
+    "abstract": "The inherent Gaussian intensity distribution of laser beams causes critical issues such as ablation, spattering, and porosity during laser sintering and melting. Although modulating the intensity distribution by a beam shaper can alleviate these problems, it suffers from high cost, limited durability, and significant energy loss. To address these challenges, we propose a thickness-matching strategy that aligns film geometry with the laser intensity profile. Mathematical analysis provides the optimal thickness distribution, while inkjet printing with computable parameters enables curved circuits with ideal profiles. The curved profile strategy demonstrates enhanced performance in both semiconducting and metallic circuits. For indium tin oxide (ITO) conductive glass, up to a 3.8-fold improvement in conductance and a 5.1% increase in transmittance are achieved compared with planar circuits, while for copper (Cu) conformal circuits, the electrical conductivity is improved by 160% compared with planar circuits. This work establishes a practical additive manufacturing route for high-performance conformal circuits.",
+    "authors": "Chen Xiangyu; Zhang Mengsen; Zhu Jianqin; Tao Zhi; Qiu Lu",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:23:20.079724"
+  },
+  {
+    "pmid": "41580430",
+    "title": "Essential role of NONO-HOXA1-Wnt axis in cardiomyocyte differentiation.",
+    "abstract": "NONO is recognized as a critical molecular scaffold involved in both transcriptional and posttranscriptional regulation. Mutations in NONO are frequently linked to congenital heart diseases (CHDs) in humans. However, the mechanisms by which NONO regulates cardiac development remain elusive. Here, we identified NONO as a pivotal dual-function regulator of cardiomyocyte differentiation in human induced pluripotent stem cells (hiPSCs). NONO deficiency in hiPSCs results in a distinct defect in early cardiomyocyte differentiation. Mechanistically, NONO interacts with HOXA1 and regulates the dynamic expression of key genes during early cardiomyocyte differentiation. ChIP-seq analysis reveals that NONO loss reduces HOXA1 occupancy at target genes, compromising its transcriptional regulation. Additionally, NONO and HOXA1 cooperatively activate the Wnt signaling. Taken together, these findings establish the NONO-HOXA1-Wnt axis as a key molecular mechanism in cardiomyocyte differentiation and provide insights into the etiology of CHDs associated with NONO mutations.",
+    "authors": "Feng Zhiyu; Gao Yuan; Gao Han; Sun Siyu; Na Weilan; Huang Xianghui; Li Shuolin; Tan Chaozhong; Min Shaojie; Lu Yuquan; Zhuang Quannan; Lin Siyi; Ma Xiaojing; Liu Ying; Shou Weinian; Wang Mei; Wang Jing; Gu Zhongkai; Sheng Wei; Wu Feizhen; Huang Guoying",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:23:20.424263"
+  },
+  {
+    "pmid": "41580428",
+    "title": "Potential and challenges for sustainable progress in human longevity.",
+    "abstract": "Decelerating gains in life expectancy (e",
+    "authors": "Bonnet Florian; Alliger Ina; Camarda Carlo-Giovanni; Kl\u00fcsener Sebastian; Mesl\u00e9 France; M\u00fchlichen Michael; Thuilliez Josselin; Grigoriev Pavel",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:23:20.768062"
+  },
+  {
+    "pmid": "41580425",
+    "title": "Sec8: a novel positive regulator of RIG-I in anti-RNA viral defense.",
+    "abstract": "Sec8, an exocyst complex subunit, is pivotal in facilitating the docking of exocytic vesicles to fusion sites on the plasma membrane. However, its involvement in the antiviral innate immune response and virus replication remains unclear. In this study, Sec8 is identified as a novel positive regulator of RIG-I, enhancing the IFN-I signaling response against RNA viruses both in vivo and in vitro. Additionally, Sec8 stabilizes RIG-I by inhibiting its ubiquitination and subsequent proteasome-mediated degradation. Mechanistically, STUB1 degrades RIG-I via K48-linked ubiquitination at Lys190, while Sec8 suppresses STUB1 mRNA by reducing the expression of p53 and competes with STUB1 for binding to RIG-I's CARD domain, thereby preventing STUB1-mediated RIG-I degradation. Importantly, Sec8-deficient mice were more susceptible to RNA virus infection compared to wild-type mice. These findings elucidate a mechanism that Sec8 positively regulates RIG-I in the antiviral innate immune response, offering insights for developing novel therapeutic strategies and targeted antiviral medications.",
+    "authors": "Wang Lin; Ma Wenqing; Hou Peili; Jin Rong; Wei Xinxin; Li Xingyu; He Daniel Chang; Wang Hongmei; He Hongbin",
+    "journal": "Cell death & disease",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:23:21.112729"
+  },
+  {
+    "pmid": "41580424",
+    "title": "A stabilized tandem antigen chimera that elicits potent malaria transmission-reducing activity.",
+    "abstract": "Malaria parasite transmission remains a barrier to elimination since asymptomatic individuals sustain the infectious reservoir. Transmission-blocking vaccine (TBV) candidates targeting Plasmodium falciparum (Pf) gametocyte surface proteins Pfs230 and Pfs48/45 have shown promise in clinical trials. Several vaccine candidates have been developed for these antigens, yet it is unclear which elicit the most robust and durable transmission-blocking responses. From structure-function relationships of monoclonal antibodies in complex with both antigens, we report the development of a stabilized tandem antigen chimera (STAC), which presents the most potent epitopes from Pfs230 domain 1\u00a0(Pfs230-D1) and Pfs48/45 domain 3\u00a0(Pfs48/45-D3) in a single construct, while masking non-functional epitopes using an engineered pseudo-native domain disposition. Iterative structure-guided optimization improved antigen yields and stability, while nanoparticle-based multimerization enhanced the functional transmission-reducing activity elicited by the immunogen in female mice. Immunizations with STAC genetically conjugated to self-assembling protein nanoparticles elicited antibodies with potent transmission-reducing activity comparable or superior to the multimerized Pfs230-D1 and Pfs48/45-D3. These findings establish STAC as a promising next-generation TBV candidate to disrupt malaria transmission and accelerate elimination efforts. More broadly, our results support the engineering of highly ordered and stable multi-domain antigens in a single protein as a strategy for the cost-efficient development of multi-component vaccines.",
+    "authors": "Ivanochko Danton; Miura Kazutoyo; Hailemariam Sophia; Ravichandran Rashmi; Song Yiting; Huang Wei-Chiao; Stoter Rianne; Teelen Karina; van Gemert Geert-Jan; Leaf Elizabeth M; Chan Sidney; Men Christine; Semesi Anthony; Shiu Carol; MacGill Randall S; Long Carole A; Jore Matthijs M; King Neil P; Lovell Jonathan F; Julien Jean-Philippe",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:23:21.457583"
+  },
+  {
+    "pmid": "41580421",
+    "title": "Recreating viable YY",
+    "abstract": "Papaya is a trioecious species with XX females, XY males, and XY",
+    "authors": "Yue Jingjing; Liu Juan; Zeng Qiuxia; Wai Ching Man; Deng Ban; Tong Yihan; Zuo Liping; Xiang Tao; Xie Wangyang; Zhao Xiaobing; Lai Juan; Liao Jingjin; Lai Qingqing; Xu Liangwei; Zhu Yating; He Juan; Zhang Mingjing; Nie Suyue; Lin Zeng; Liang Yanqing; Jiang Shaolian; Chen Xi; Wang Bowei; Huang Yongji; Xu Yi; Nguyen-Edquilang Julie; Ma Yaying; Fumia Nathan; Jones Tyler; Quesada-Rojas Patricia; Mora-Newcomer Eric; Zhang Jisen; Yu Qingyi; Wang Ming-Li; Ming Ray",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:23:21.802290"
+  },
+  {
+    "pmid": "41580420",
+    "title": "Modulation of Nudt21 levels reveals dose-dependent roles of alternative polyadenylation in tissue regeneration.",
+    "abstract": "Stem cells continually self-renew and differentiate to sustain tissue homeostasis, yet the role of post-transcriptional mechanisms in guiding these processes remains incompletely understood. Here, we demonstrate that the regulation of 3'UTR length via alternative mRNA polyadenylation (APA) is essential for stem cell function across diverse tissues. Modulating the APA regulator Nudt21 reveals that stem cell self-renewal and differentiation depend on distinct dosage thresholds and thus can be uncoupled. Specifically, moderate Nudt21 suppression\u00a0 elicits a maturation arrest of stem cells due to 3'UTR-shortening of differentiation-associated mRNAs that escape miRNA regulation and perturb ceRNA networks. By contrast, complete Nudt21 suppression additionally shortens the 3'UTRs of mRNAs encoding essential multiprotein complexes, including the nuclear pore, leading to complex destabilization, proteotoxic stress, DNA damage, and cell cycle arrest. Critically, deletion of the alternative 3'UTRs of individual nucleoporins recapitulates defects observed with Nudt21 loss. We further demonstrate that the co-translational assembly of dozens of protein complexes is impaired in Nudt21-deficient cells, providing a mechanistic framework for compromised complex integrity. Collectively, our results show that APA plays distinct, dose-dependent roles in stem cell homeostasis by fine-tuning the expression of differentiation-associated genes and coordinating the biogenesis of multiprotein complexes essential for cell cycle progression.",
+    "authors": "Tsopoulidis Nikolaos; Yagi Masaki; Brumbaugh Justin; Ito Shinya; L\u00f3pez-Soriano V\u00edctor; Morris Robert; Yoon Yoseop; Messemer Kathleen A; Lin Kuan-Hung; Zaniewski Eric F; Gorelov Rebecca; Huebner Aaron J; Wagers Amy J; Hock Hanno; Kramer G\u00fcnter; Bukau Bernd; Hoetker Michael S; Shi Yongsheng; Haas Wilhelm; Hochedlinger Konrad",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:23:22.146893"
+  },
+  {
+    "pmid": "41580413",
+    "title": "Molecular recognition of thyroglobulin by sortilin.",
+    "abstract": "Sortilin is a ubiquitous membrane receptor mediating trafficking of protein cargoes. In the thyroid, sortilin binds thyroglobulin (TG) during its endocytosis, a key process in thyroid homeostasis. Although sortilin has been proposed to recognise highly iodinated TG, the molecular details of this interaction remain unknown. In this work, using an integrative structural biology approach, we reveal that sortilin binds an unstructured TG C-terminal peptide and exhibits a strong preference for the monomeric TG over the commonly known dimeric form. We find that sortilin-TG interaction is independent of the iodination state of TG and instead relies on the conversion to its monomeric state, presumably promoted by extracellular degradation. Furthermore, using AlphaPulldown and sequence analysis, we show that recognition of other reported ligands by sortilin likely relies on similar unstructured peptide motifs, which are not constrained to a single binding orientation within the receptor cavity. Overall, this study reveals the TG-sortilin binding interface and provides insights into the recognition mechanism of other cargoes by sortilin.",
+    "authors": "Boniardi Irene; Tanzi Giorgia; Di Ianni Alessio; Graziadei Andrea; Nedeljkovi\u0107 Marko; Stejskalova Camilla; Coscia Francesca",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:23:22.491024"
+  },
+  {
+    "pmid": "41580412",
+    "title": "BiG-SCAPE 2.0 and BiG-SLiCE 2.0: scalable, accurate and interactive sequence clustering of metabolic gene clusters.",
+    "abstract": "Microbial metabolic gene clusters encode the biosynthesis or catabolism of metabolites that facilitate ecological specialization, mediate microbiome interactions and constitute a major source of medicines and crop protection agents. Here, we present BiG-SCAPE and BiG-SLiCE 2.0, next-generation methods that facilitate scalable, accurate and interactive gene cluster analyses. BiG-SCAPE 2.0 updates its classification, alignment methods, and visualizations, enabling more accurate analysis, up to 8x faster runtimes and halved memory requirements. BiG-SLiCE 2.0 updates its distance metric, pHMM database, and classification logic, resulting in increased sensitivity nearing that of BiG-SCAPE. Analysis of 260,630 biosynthetic gene clusters from publicly available genomes reveals that both tools generate concurring estimates of gene cluster diversity, thus providing significantly extended methodological support for recent evidence indicating that the vast majority of natural product diversity remains unexplored.\u00a0Together, these updates will facilitate global genome mining efforts for natural product discovery and microbiome analyses scalable with current data sizes.",
+    "authors": "Draisma Arjan; Loureiro Catarina; Louwen Nico L L; Kautsar Satria A; Navarro-Mu\u00f1oz Jorge C; Doering Drew T; Mouncey Nigel J; Medema Marnix H",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:23:22.836259"
+  },
+  {
+    "pmid": "41580410",
+    "title": "An open decoupled cell design achieving electricity generation and amplification through waste-to-energy conversion.",
+    "abstract": "Conventional closed batteries are constrained by the electrical energy efficiency of 100%, inevitably leading to the reduction of electricity storage. In contrast, open decoupled batteries offer the possibility to break this limitation, but remain unexplored. Here, we develop a highly efficient and sustainable open decoupled battery through a three-electrodynamic-potential (3E) design, simultaneously realizing waste-to-energy conversion, power generation and energy storage. For decoupled electrodes, we engineer high discharge voltage (E",
+    "authors": "Zheng Zhiyang; Zheng Feng-Yi; Huang Bosi; Xu Jiahe; Xiao Zhiqiang; Liu Zhexuan; Liu Jiachang; Zhong Xiongwei; Wang Boran; Zhou Guangmin",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:23:23.181476"
+  },
+  {
+    "pmid": "41580408",
+    "title": "Bernoulli's principle-mediated Cl",
+    "abstract": "Existing technologies for chlorine (Cl",
+    "authors": "Nie Zhihao; Xu Guoliang; Duan Jingjing; Antonietti Markus; Chen Sheng",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:23:23.525928"
+  },
+  {
+    "pmid": "41580407",
+    "title": "Click-based determination of accumulation of molecules in Escherichia coli.",
+    "abstract": "Gram-negative bacterial pathogens pose a significant challenge in drug development because their outer membranes hinder the permeation of small molecules. The lack of widely adoptable methods for measuring the cytosolic accumulation of compounds in bacterial cells further hinders drug discovery efforts. To address this challenge, we report the development of the Chloroalkane Azide Membrane Permeability (CHAMP) assay, which we designed specifically to assess molecule accumulation in the cytosol of Gram-negative bacteria. The CHAMP analysis utilizes bioorthogonal epitopes anchored within HaloTag-expressing bacteria and measures the cytosolic arrival of azide-bearing test molecules through strain-promoted azide-alkyne cycloaddition. This workflow enables robust and rapid accumulation measurements of thousands of azide-tagged small molecules. Our approach consistently produces comprehensive accumulation profiles that surpass the scale of previous measurements in Escherichia coli (E. coli). We validated the CHAMP assay across various chemical and biological contexts, including hyperporinated cells, membrane-permeabilized cells, and E. coli strains with impaired TolC function, a key component of the efflux pump. The CHAMP platform provides a simple, high-throughput, and accessible method that enables the analysis of over 1000 molecules within hours. This technique addresses a critical gap in antimicrobial research and has the potential to accelerate the development of effective agents against Gram-negative pathogens.",
+    "authors": "Ongwae George M; Liu Zichen; Feng Shasha; Chordia Mahendra D; Dash Rachita; He Yuchen; Gh Mohammad Sharifian; Dalesandro Brianna E; Guo Taijie; Sharpless Karl Barry; Dong Jiajia; Sloan Siegrist M; Im Wonpil; Pires Marcos M",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:23:23.870216"
+  },
+  {
+    "pmid": "41580404",
+    "title": "A tidal disruption event from an intermediate-mass black hole revealed by comprehensive multi-wavelength observations.",
+    "abstract": "Tidal disruption events (TDEs) occur when a star crosses the tidal radius of a black hole (BH) and is ripped apart, providing a powerful way to probe dormant BHs over a wide mass range. In this study, we present our late-time observations and comprehensive multi-wavelength analyses of AT 2018cqh, a TDE at the center of a dwarf galaxy that exhibited successive flares in the optical, X-ray, and radio bands. We discovered an unexpected high-state X-ray plateau phase following the peak until the present time. Along with its reported prolonged rise lasting at least 550 days, these unique characteristics are consistent with the scenario of a TDE caused by an intermediate-mass black hole (IMBH) with a mass of approximately (1\u00a0-\u00a06)\u00a0\u00d7\u00a010",
+    "authors": "Wang Jialai; Huang Mengqiu; Xue Yongquan; Jiang Ning; Huang Shifeng; Wang Yibo; Zhu Jiazheng; Zhu Shifu; Dai Lixin; Jin Chichuan; Luo Bin; Shu Xinwen; Sun Mouyuan; Wang Tinggui; Zou Fan",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:23:24.214984"
+  },
+  {
+    "pmid": "41580401",
+    "title": "Interaction and functional specialization across a distributed neural circuit for flexible task control in macaques.",
+    "abstract": "Reversal tasks have been regarded as probes of behavioural inhibition and linked to prefrontal and specifically orbitofrontal cortex. The centrality of behavioural inhibition to reversal task performance and the task's dependence on particular prefrontal sub-regions have, however, been questioned in primates. Using a combination of whole brain recording, transient ultrasonic disruption, two types of reversal task, and a task model emphasizing identification of transitions between latent states, we show that male macaques track latent state transitions in addition to choice values in reversal tasks. Activity reflecting both these features is prominent in dorsomedial frontal cortex, and anterior and dorsomedial thalamus when, and just before, animals select choices. By contrast, hippocampal activity continually tracks the probability of a reversal between latent states. We identify patterns of activity interaction spanning the three nodes of this circuit and demonstrate that disruption of each leads to reversal task impairment albeit in different ways.",
+    "authors": "Marche K; Trudel N; Sch\u00fcffelgen U; Smart S; Harbison C M; Scholl J; Sallet J; Neubert F-X; Algermissen J; Khalighinejad N; O'Reilly J X; Klein-Fl\u00fcgge M C; Rushworth Mfs",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:23:24.560912"
+  },
+  {
+    "pmid": "41580399",
+    "title": "Entanglement-inspired frequency-agile rangefinding.",
+    "abstract": "Entanglement, a key feature of quantum mechanics, is recognized for its non-classical correlations which have been shown to provide significant noise resistance in single-photon rangefinding and communications. Drawing inspiration from the advantage given by energy-time entanglement, we developed an energy-time correlated source based on a classical laser that preserves the substantial noise reduction typical of quantum illumination while surpassing the quantum brightness limitation by over six orders of magnitude, making it highly suitable for practical remote sensing applications. A frequency-agile pseudo-random source is realized through fiber chromatic dispersion and pulse carving using an electro-optic intensity modulator. Operating at a faint transmission power of 48 \u03bcW, the distance between two buildings 154.8182 m apart can be measured with a precision better than 0.1 mm, under varying solar background levels and weather conditions with an integration time of only 100 ms. These trials verified the predicted noise reduction of this system, demonstrating advantages over quantum illumination-based rangefinding and highlighting its potential for practical remote sensing applications.",
+    "authors": "Nie Weijie; Zhang Peide; McMillan Alex; Clark Alex S; Rarity John G",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:23:24.905634"
+  },
+  {
+    "pmid": "41580398",
+    "title": "Bradyzoite subtypes rule the crossroads of Toxoplasma development.",
+    "abstract": "Toxoplasmosis is a major risk to chronically infected individuals, especially those who become immunocompromised. Although one-third of the globe is infected with Toxoplasma, no treatments prevent or eliminate cysts in part due to limited understanding of bradyzoite biology. The cyst is central to Toxoplasmosis, as transition from bradyzoites to tachyzoites drive pathology. In this study, we aim to understand the biology of bradyzoites prior to recrudescence and the developmental pathways they initiate. Here, we discover ME49EW cysts from infected mice harbor multiple bradyzoite subtypes with distinct fates. Purified subtypes exhibit defined developmental pathways in animals and in primary astrocytes. Single-bradyzoite RNA-sequencing reveals five major subtypes within cysts. We further show that a crucial subtype in chronically infected mice is absent from a widely used in vitro model of bradyzoite development. Altogether, this work establishes new foundational principles of Toxoplasma cyst development and reactivation that operate during the intermediate life cycle of Toxoplasma.",
+    "authors": "Ulu Arzu; Srivastava Sandeep; Kachour Nala; Le Brandon H; White Michael W; Wilson Emma H",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:23:25.249558"
+  },
+  {
+    "pmid": "41580397",
+    "title": "Duration of super-emitting oil and gas methane sources.",
+    "abstract": "The duration of super-emitting events (>100\u2009kg\u2009h",
+    "authors": "Cusworth Daniel H; Bon Daniel M; Varon Daniel J; Ayasse Alana K; Asner Gregory P; Heckler Joseph; Sherwin Evan D; Biraud Sebastien C; Duren Riley M",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:23:25.594734"
+  },
+  {
+    "pmid": "41580395",
+    "title": "Atroposelective interrupted CuAAC reaction using cyclic diaryliodoniums.",
+    "abstract": "Copper-catalyzed azide-alkyne cycloaddition (CuAAC) is a pivotal strategy for joining two fragments, including bioactive moieties under mild conditions. In recent years, \"interrupted\" CuAAC reaction has emerged by intercepting copper triazolide intermediates, thereby significantly broadening the scope of these transformations. However, asymmetric transformations based on the interruption of copper triazolide intermediates have remained elusive. In this work, we present an efficient and mild approach that intercepts a copper triazolide intermediate with a cyclic diaryliodonium reagent, enabling a three-component coupling of the cyclic diaryliodonium species, an alkyne, and an azide under atroposelective control. This method constitutes an asymmetric interrupted CuAAC reaction and furnishes a diverse array of structurally unique atropisomeric biaryl triazoles. Mechanistic investigations reveal an unusual secondary kinetic isotope effect for the terminal alkyne, while in situ calorimetry-based reaction progress kinetic analysis identifies the individual reaction orders of each substrate: formal 0.4th-order for cyclic diaryliodonium and first-order for both the alkyne and the azide. The overall rate is governed by copper-mediated cyclometallation of the alkyne and azide, as well as the oxidative addition of the copper triazolide intermediate to the cyclic diaryliodonium reagent.",
+    "authors": "Li Yuanyuan; Yang Shan; Duan Longhui; Gu Zhenhua",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:23:25.938024"
+  },
+  {
+    "pmid": "41580393",
+    "title": "TREM2 expression level is critical for microglial state, metabolic capacity and efficacy of TREM2 agonism.",
+    "abstract": "Triggering receptor expressed on myeloid cells 2 (TREM2) is a central regulator of microglial activity and loss-of-function coding variants are major risk factors for late onset Alzheimer's disease (LOAD). To better understand the molecular and functional changes associated with TREM2 signalling in microglia, we generated a TREM2 reporter mouse. In APP transgenic animals, bulk RNA-sequencing of isolated microglia sorted based on reporter expression highlighted TREM2 level-related changes in major immunometabolic pathways, and enrichment of genes in oxidative phosphorylation and cholesterol metabolism in microglia with increased TREM2 expression. Metabolic and lipidomic profiling of sorted microglia showed that, independent of A\u03b2 pathology, TREM2 expression correlated with signatures consistent with increased cellular redox, energetics, and cholesterol homoeostasis. In accordance, metabolic activity correlated with phagocytic capacity. Finally, we performed chronic treatment with a TREM2 agonist antibody and identified a window of TREM2 expression where microglia are most responsive, thereby informing clinical applications of TREM2 agonists.",
+    "authors": "Feiten Astrid F; Dahm Kilian; Schlepckow Kai; van Lengerich Bettina; Such Jung H; Reifschneider Anika; Wefers Benedikt; Bartos Laura M; Wind-Mark Karin; de Weird Lis; Ulas Thomas; De-Domenico Elena; Grundsch\u00f6ttel Pia; Paulusch Stefan; Tast Benjamin; Honda Tamisa; M\u00fcller Stephan A; Becker Matthias; Khalin Igor; Ricci Alessio; Liesz Arthur; Brunner Bettina; Krenner Claudia; Buschmann Katrin; Nuscher Brigitte; Spieth Lena; Junker Niklas; Berghoff Stefan A; Davis Sonnet S; Neher Jonas J; Wurst Wolfgang; Plesnila Nikolaus; Lewcock Joseph W; Simons Mikael; Lichtenthaler Stefan F; Di Paolo Gilbert; Brendel Matthias; Capell Anja; Monroe Kathryn M; Schultze Joachim L; Haass Christian",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:23:26.283319"
+  },
+  {
+    "pmid": "41580391",
+    "title": "Functional variants at 1p36.23 confer risk of schizophrenia through modulating RERE.",
+    "abstract": "Genome-wide association studies have identified 1p36.23 as a schizophrenia risk locus. However, the functional variants and genes driving the association remain unknown. Here, we identified two functional variants (i.e., rs159961 and rs301792) at the 1p36.23 risk locus. Both variants reside introns of RERE and exhibit allele-specific enhancer activity. Risk alleles of rs159961 and rs301792 increase enhancer activity by altering REST and POLR2A binding, leading to RERE upregulation. Consistently, RERE was significantly elevated in brains of schizophrenia cases. Functionally, RERE-overexpression impaired neurogenesis, altered dendritic spine density and dendritic complexity, and altered genes related to dendrite development and glutamatergic synapses. Through interacting with RARB and RXRA at the Grin2a promoter, RERE regulates the well-known schizophrenia risk gene Grin2a (encodes an NMDAR subunit), and RERE-overexpression impairs excitatory synaptic transmission. Our study indicates that functional variants rs159961 and rs301792 confer schizophrenia risk by upregulating RERE, which affects neuronal development and synaptic function.",
+    "authors": "Liu Yixing; Wang Junyang; Yang Hong; Li Yifan; Mu Changgai; Dang Xinglun; Chen Xinran; Li Danyang; Li Mingna; Liu Jiewei; Li Shiwu; Yang Jinfeng; Chen Xi; Zhang Chen; Feng Jin; Luo Xiong-Jian",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:23:26.629314"
+  },
+  {
+    "pmid": "41580389",
+    "title": "Giant near-field nonlinear electrophotonic effects in an angstrom-scale plasmonic junction.",
+    "abstract": "Plasmons facilitate a strong confinement and enhancement of near-field light, offering exciting opportunities to enhance nonlinear optical responses at the nanoscale. However, despite significant advancements, the electrically tunable range of the nonlinear optical responses at nanometer-scale plasmonic structures remains limited to a few percents per volt. Here, we transcend the limitation of the nanometer regime by expanding the concept of electrophotonics into angstrom-scale platform, enabling high-performance modulation of near-field nonlinear optical responses inaccessible in prior architectures. We demonstrate ~2000% enhancement in second-harmonic generation (SHG) within 1\u2009V of voltage application by utilizing an angstrom-scale plasmonic gap between a metallic tip and a flat metal substrate in a scanning tunneling microscope. Extending this near-field SHG scheme to sum-frequency generation that is accompanied by large frequency upconversion, we also found that such giant electrical modulation of plasmon-enhanced nonlinear optical phenomena is effective over mid-infrared to visible broad wavelength range. Our results and concepts lay the foundation for developing near-field-based angstrom-scale nonlinear electrophotonics with significant modulation depth at low driving voltage.",
+    "authors": "Takahashi Shota; Sakurai Atsunori; Mochizuki Tatsuto; Sugimoto Toshiki",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:23:26.972669"
+  },
+  {
+    "pmid": "41579344",
+    "title": "Correction.",
+    "abstract": "",
+    "authors": "",
+    "journal": "Autophagy",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:23:27.317732"
+  },
+  {
+    "pmid": "41578138",
+    "title": "Pangenome dynamics and population structure of the zoonotic pathogen Salmonella enterica serotype Hadar.",
+    "abstract": "The bacterial accessory genome, comprised of plasmids, phages, and other mobile elements, underpins the adaptability of bacterial populations. Pangenome (core and accessory) analysis of pathogens can reveal epidemiological relatedness missed by using core-genome methods alone. Employing a k-mer-based Jaccard Index approach to compute pangenome relatedness, we explore the population structure and epidemiology of Salmonella enterica serotype Hadar (Hadar), an emerging zoonotic pathogen in the United States (U.S.) linked to both commercial and backyard poultry. A total of 3384 U.S. Hadar genomes collected between 1990 and 2023 are analyzed here. Hadar populations underwent substantial shifts between 2019 and 2020 in the U.S., driven by the expansion of a lineage carrying a previously uncommon prophage-like element. Phylogenetic and pangenomic relatedness, coupled with epidemiological data, suggest this lineage emerged from extant populations circulating in commercial poultry, with subsequent dissemination into backyard poultry environments. We demonstrate the utility of pangenomic approaches for mapping vertical and horizontal diversity and informing complex dynamics of zoonotic bacterial pathogens.",
+    "authors": "Tagg Kaitlin A; Pe\u00f1il-Celis Arancha; Webb Hattie E; Stapleton G Sean; Ellison Zachary; Leeper Molly; Kim Justin Y; Simmons Mustafa; Tillman Glenn; Li Cong; Harris Beth; Morningstar-Shaw Brenda R; Steele Molly K; Mallal Daniel; Matzinger Shannon; Manion Kathy; Hergert John; Wagner Jennifer M; Schwensohn Colin; Brandenburg Joshua M; Shaw Sheryl; Benedict Katharine; Folster Jason P; Dessai Uday; Redondo-Salvo Santiago; Garcillan-Barcia M Pilar; de la Cruz Fernando",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:23:27.663376"
+  },
+  {
+    "pmid": "41577703",
+    "title": "iDesignGPT enhances conceptual design via large language model agentic workflows.",
+    "abstract": "Conceptual engineering system design faces challenges from traditional methods and emerging AI tools to fully address its inherently complex, dynamic, and creativity-driven demands. iDesignGPT is a framework that integrates large language models with established design methodologies to enable dynamic multi-agent collaboration for problem refinement, information gathering, design space exploration, and evaluation. By incorporating design metrics such as coverage, diversity, and novelty, iDesignGPT provides quantitative insights for early-stage conceptual design. Performance evaluations across six public design challenges show that iDesignGPT achieves competitive novelty and consistently higher originality and modularity than GPT-4o zero-shot, GPT-4o chain-of-thought and Deepseek-r1, based on metrics and expert assessments. Two controlled user studies show positive reception across profiles and, for novice designers, lower mental demand than human-only design and clearer design flow with iDesignGPT. These results establish iDesignGPT as a practical framework for integrating language-model agents with established engineering design methods, enabling metrics-driven support for conceptual design by both expert and novice designers.",
+    "authors": "Liu Songkai; Shen Yanqing; Zhang Yilun; Hou Zhangli; Wang Xin; Luo Jianxi; Zhang Zhinan",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:23:28.007604"
+  },
+  {
+    "pmid": "41577687",
+    "title": "CRISPR-Cas9 trans-cleavage is hindered by a flanked R-loop, an elongated spacer, and an inactive HNH domain.",
+    "abstract": "Cas9 can process poly(T) single-stranded DNA molecules upon activation in an RNA-guided manner. Here, we uncover key determinants underlying this function. First, we show that unflanked R-loops in the RNA 5' side favor trans-cleavage activity, which occur when targeting short double-stranded DNA molecules. Second, we show that elongated guide RNA spacers beyond the canonical 20 bases, even by a few bases, severely impair this collateral activity. Third, although trans-cleavage is mediated by the RuvC domain, we show that a catalytically active HNH domain contributes to an efficient process. Analysis of structural models provides tentative mechanistic insights. Together, these findings illustrate that fine modulation of Cas9 function can be achieved.",
+    "authors": "Montagud-Mart\u00ednez Roser; Ruiz Ra\u00fal; Baldanta Sara; Delicado-Mateo Rub\u00e9n; Rodrigo Guillermo",
+    "journal": "Nature communications",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:23:28.351720"
+  },
+  {
+    "pmid": "40856537",
+    "title": "Identification and characterization of a TGF-\u03b2-independent SMAD4-NFATc1-STAT3 regulatory axis.",
+    "abstract": "SMAD4, a central mediator of the TGF-\u03b2 signaling pathway, plays a critical role in regulating cellular processes such as proliferation, differentiation, and apoptosis. While SMAD4's canonical functions within TGF-\u03b2 signaling are well-established, its non-canonical, TGF-\u03b2-independent roles remain poorly understood, particularly in the context of disease biology. Here, we investigate SMAD4's TGF-\u03b2-independent functions by identifying and characterizing its protein-protein interaction network. Using pancreatic ductal adenocarcinoma as a model system, we performed a SMAD4-focused oncogenic protein-protein interaction mapping and uncovered a novel interaction between SMAD4 and NFATc1. We demonstrated that SMAD4 binds to NFATc1 in a phosphorylation-dependent but TGF-\u03b2-independent manner, sequestering NFATc1 in the cytoplasm and inhibiting its transcriptional activity. The absence of this interaction in SMAD4-deficient PDAC cells is associated with the activation of NFATc1 transcriptional programs and upregulation of STAT3 at both mRNA and protein levels. Pharmacological profiling revealed multiple STAT3 inhibitors with selective efficacy against SMAD4-deficient PDAC cells in vitro, highlighting a potential therapeutic vulnerability. These findings identify a previously uncharacterized SMAD4-NFATc1 regulatory complex and establish its biological significance in regulating NFATc1-driven transcriptional programs, such as STAT3, providing critical insights into SMAD4's TGF-\u03b2-independent functions and uncovering new opportunities for therapeutic intervention in SMAD4-deficient contexts.",
+    "authors": "Ouyang Wukun; Hao Jiaying; Niu Qiankun; Douglass Eugene F; Beusch Christian M; Gordon David E; Hall Maggie; Moffitt Richard A; Du Yuhong; Mo Xiulei",
+    "journal": "Journal of molecular cell biology",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:23:28.698367"
+  },
+  {
+    "pmid": "40844830",
+    "title": "Targeting the ubiquitin-proteasome system and drug therapy in colorectal cancer.",
+    "abstract": "Colorectal cancer (CRC) is the third most prevalent malignancy worldwide and the second leading cause of cancer-associated deaths, posing a significant threat to human health. Given the limited therapeutic options and poor prognosis associated with CRC, there is an urgent need to develop new targeted therapeutic strategies to enhance clinical outcomes. The ubiquitin-proteasome system (UPS), a central regulator for cellular protein homeostasis, plays a pivotal role in the initiation and progression of CRC. The UPS modulates several essential signaling pathways and is involved in regulating tumor immunity and resistance to chemotherapy. Thus, the UPS contributes significantly to the complex biological processes underlying CRC pathogenesis. In recent years, small-molecule compounds targeting the UPS have exhibited considerable therapeutic potential in CRC treatment. These drugs intervene in crucial steps in the UPS, such as the activity of E1, E2, and E3 enzymes, or directly target the proteasome, thereby regulating the degradation of oncogenic proteins and effectively impeding tumor progression. Moreover, emerging therapeutic strategies such as proteolysis-targeting chimera (PROTAC) and molecular glue technologies selectively degrade specific oncogenic proteins, thereby offering new avenues and promising opportunities for CRC treatment.",
+    "authors": "Su Ruixin; Shao Yingying; Wang Qian; Liu Donghui; Wang Yitong; Kong Dexin; Qiu Yuling",
+    "journal": "Journal of molecular cell biology",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:23:29.047116"
+  },
+  {
+    "pmid": "40815265",
+    "title": "egr1 and egr4 regulate zebrafish renal regeneration by promoting foxm1 expression.",
+    "abstract": "Early growth response (Egr) factors are involved in tissue development and repair. However, few studies have focused on the role of egr genes in renal regeneration after acute kidney injury (AKI) and the underlying mechanisms. In this study, we observed that egr1 and egr4 were sharply upregulated in wild type zebrafish at 1 day post-injury by gentamicin. Further experiments with egr1 and egr4 mutants showed that egr1 and egr4 were involved in zebrafish renal regeneration after AKI by regulating the proliferation and apoptosis of tubular cells. foxm1 is expressed in injured kidneys and involved in kidney repair. Loss of foxm1 inhibited zebrafish renal regeneration by decreasing the proliferation and increasing the apoptosis of tubular cells. Moreover, Egr1 and Egr4 promoted foxm1 expression by directly binding to the foxm1 promoter, thus regulating renal regeneration. Our results revealed that the rapid and transient induction of egr1 and egr4 after AKI exerts a renoprotective role through upregulating foxm1 to facilitate kidney regeneration. Therefore, the egr1/egr4-foxm1 regulatory axis holds a therapeutic potential for the treatment of AKI.",
+    "authors": "He Xian; Sun Yuhua",
+    "journal": "Journal of molecular cell biology",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:23:29.391654"
+  },
+  {
+    "pmid": "40796306",
+    "title": "RNA-binding protein Rbm38 as a multifaceted post-transcriptional regulator in zebrafish pancreatic development.",
+    "abstract": "RNA-binding motif protein 38 (Rbm38), also known as RNPC1, is a major regulator of post-transcriptional gene expression. It represents a potential candidate gene linked to the susceptibility of type 2 diabetes, and decreased RBM38 expression can enhance the proliferation of pancreatic cancer cells in humans. However, its role in pancreatic development remains elusive. In this study, we explored the function of Rbm38 using zebrafish as a model. Pancreatic expression of Rbm38 is present at larval stages and is controlled by several transcription factors acting on specific rbm38 promoter regions. The loss of Rbm38 leads to abnormal pancreatic enlargement. Mechanistically, Rbm38 is involved in several aspects of post-transcriptional regulation of pancreatic gene expression. It destabilizes pdx1 transcripts by binding to the 3'-untranslated region and regulates alternative splicing of key pancreatic transcription factor genes, including isl1a, smad2, and nkx2.2a. These findings elucidate the role of Rbm38 in pancreatic development and highlight its significance in maintaining pancreatic homeostasis.",
+    "authors": "Zhang Xiangmin; Li Xianpeng; Liu Rui; Wang Lu; Wang Yunchao; Zhang Ailong; Yang Shuaiqi; Li Hongyan",
+    "journal": "Journal of molecular cell biology",
+    "pub_date": "2026",
+    "date_fetched": "2026-02-06T16:23:29.736809"
+  }
+]
