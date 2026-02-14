@@ -84,3 +84,45 @@ Track important architectural decisions, their context, and trade-offs.
 **Consequences:**
 - Benefits: Fast tests, reliable, can test error conditions
 - Trade-offs: Mocks may diverge from real API over time
+
+### ADR-004: Use Instructor Library for Structured LLM Output (2026-02)
+
+**Context:**
+- Need to get structured, validated output from LLMs for paper scoring
+- Must work with local Ollama models via OpenAI-compatible API
+- Output must conform to Pydantic models (ArticleAnalysis)
+
+**Decision:**
+- Use Instructor library with OpenAI client pointing to Ollama
+- Define output schemas as Pydantic models
+- Use async scoring pipeline (model_eval.py) for parallel processing
+
+**Alternatives Considered:**
+- pydantic-ai -> Also explored (model_test.py), but Instructor more mature for structured output
+- Raw OpenAI function calling -> More boilerplate, less validation
+- LangChain -> Too heavy for this use case
+
+**Consequences:**
+- Benefits: Clean structured output, automatic validation, retry on parse failures
+- Trade-offs: Additional dependency, tied to OpenAI-compatible API format
+
+### ADR-005: Use Local Ollama Models for Paper Evaluation (2026-02)
+
+**Context:**
+- Need to evaluate ~50-100 papers daily for relevance to cell cycle/cancer biology
+- Want to compare multiple models against human expert judgment
+- Cost sensitivity for daily automated pipeline
+
+**Decision:**
+- Use Ollama for local model inference (qwen2.5:7b, OpenBioLLM-8B, BioMistral, llama3:8b)
+- Compare local models against frontier model (Claude API) and manual scoring
+- Run on RTX 5090 server for adequate performance
+
+**Alternatives Considered:**
+- Cloud-only (OpenAI/Anthropic) -> Too expensive for daily batch scoring
+- vLLM -> More complex setup, Ollama simpler for development
+- HuggingFace Transformers direct -> More code, Ollama handles serving
+
+**Consequences:**
+- Benefits: No per-query cost, full control, privacy for research data
+- Trade-offs: Hardware dependency, model quality varies, requires GPU server

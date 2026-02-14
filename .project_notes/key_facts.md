@@ -25,116 +25,28 @@ jsk/bio-mistral:latest               ce9609fd854f    4.1 GB
 llama3:8b                            365c0bd3c000    4.7 GB
 qwen2.5:7b-instruct-q8_0             2d9500c94841    8.1 GB
 
-## Evaluation Architecture
+## Evaluation Architecture (Simplified)
 
-### Daily Automated Flow
+### Phase 1: Ground Truth Collection (Complete)
 
-```
-MORNING (Cron Job - 6:00 AM)
-┌──────────────────────────────────────────────────────────────┐
-│ pubmed.py - Fetch Yesterday's Papers                          │
-│ ├─ Search PubMed for papers from previous day                │
-│ ├─ Save: papers_raw_YYYY-MM-DD.json                          │
-│ └─ Save: papers_for_manual_YYYY-MM-DD.json (title-only)      │
-└──────────────────────────────────────────────────────────────┘
-                            ↓
-MID-MORNING (Cron Job - 7:00 AM)
-┌──────────────────────────────────────────────────────────────┐
-│ model_scorer.py - Score with All Models (Parallel)           │
-│ ├─ Load papers_raw_YYYY-MM-DD.json                           │
-│ ├─ Score with: Frontier Model (Claude API)                  │
-│ ├─ Score with: OpenBioLLM-8B (Local)                        │
-│ ├─ Score with: Me-LLaMA-13B (Local)                         │
-│ ├─ Save: frontier_YYYY-MM-DD.json                            │
-│ ├─ Save: openbiollm_YYYY-MM-DD.json                          │
-│ └─ Save: mellama_YYYY-MM-DD.json                             │
-└──────────────────────────────────────────────────────────────┘
-                            ↓
-WHENEVER (Manual - Your Time)
-┌──────────────────────────────────────────────────────────────┐
-│ You - Manual Scoring                                          │
-│ ├─ Edit: papers_for_manual_YYYY-MM-DD.json                   │
-│ ├─ Add your_score values (0, 1, or 2)                        │
-│ └─ Save back to manual/ directory                            │
-└──────────────────────────────────────────────────────────────┘
-                            ↓
-ANYTIME (Manual Trigger)
-┌──────────────────────────────────────────────────────────────┐
-│ evaluate.py - Compute Metrics & Analysis                     │
-│ ├─ Merge model scores + your manual scores                   │
-│ ├─ Compute: Spearman correlation, Precision, Recall, F1      │
-│ ├─ Analyze by journal, score category                        │
-│ ├─ Identify disagreements & error patterns                   │
-│ ├─ Save: papers_evaluated_YYYY-MM-DD.json                    │
-│ ├─ Log: metrics_log.jsonl with timestamps                    │
-│ └─ Generate: correlation_trend.png                           │
-└──────────────────────────────────────────────────────────────┘
-                            ↓
-EVERY 3 DAYS (Cron Job - Morning)
-┌──────────────────────────────────────────────────────────────┐
-│ prompt_iterator.py - Improve Prompts                         │
-│ ├─ Analyze disagreements from past 3 days                    │
-│ ├─ Extract success examples (you scored higher)              │
-│ ├─ Extract failure examples (you scored lower)               │
-│ ├─ Build new prompts with embedded examples                  │
-│ ├─ Save new prompt versions                                  │
-│ ├─ Optionally re-score past 3 days with new prompts          │
-│ └─ Log prompt version updates                                │
-└──────────────────────────────────────────────────────────────┘
-```
+- Fetched 2 weeks of PubMed abstracts via `pubmed.py`
+- Built a Streamlit web app (`scoring_app.py`) for manual human scoring
+- Human scores saved as ground truth JSON
+- Scoring task: include/exclude + highlight + classification per paper
 
-### Key Decoupling
+### Phase 2: Model Scoring (Next)
 
-- **pubmed.py** - Independent, runs daily (automated)
-- **model_scorer.py** - Independent, runs daily after pubmed.py (automated)
-- **evaluate.py** - Independent, runs whenever needed (manual or periodic)
-- **prompt_iterator.py** - Independent, runs every 3 days (automated)
+- Generate prompts for each model to replicate the human scoring task
+- Run each model (local Ollama + frontier API) against the same papers
+- Save per-model results as JSON (one file per model)
+- Models: OpenBioLLM-8B, Bio-Mistral, LLaMA 3 8B, Qwen 2.5 7B
 
-Each script:
+### Phase 3: Benchmarking
 
-- Reads from data/ directory
-- Writes results to appropriate subdirectory
-- Logs results with timestamps
-- Can be run independently without dependencies
-
----
-
-## Modular Implementation Plan
-
-### File Organization
-
-```
-src/literature_search_agent/
-├── pubmed.py                 (existing - runs daily via cron)
-├── models/
-│   ├── model_scorer.py       (runs daily after pubmed.py)
-│   └── model_types.py        (Pydantic models, shared by all)
-├── evaluation/
-│   ├── evaluator.py          (runs independently, computes metrics)
-│   ├── metrics_tracker.py    (loads evaluation data, builds history)
-│   └── prompt_iterator.py    (runs every 3 days, updates examples)
-└── config/
-    └── config.py             (paths, model names, etc)
-
-data/
-├── raw/
-│   └── papers_raw_2025-01-24.json
-├── model_scores/
-│   ├── frontier_2025-01-24.json
-│   ├── openbiollm_2025-01-24.json
-│   └── mellama_2025-01-24.json
-├── manual/
-│   └── papers_for_manual_2025-01-24.json  (you edit these)
-├── evaluated/
-│   └── papers_evaluated_2025-01-24.json
-├── prompts/
-│   ├── frontier_v1.txt
-│   ├── openbiollm_v1.txt
-│   └── mellama_v1.txt
-└── metrics/
-    ├── metrics_log.jsonl
-    └── plots/
-```
+- Compare each model's JSON output against human ground truth
+- Compute metrics: precision, recall, F1, Spearman correlation
+- Identify per-model strengths/weaknesses by category
+- Use results to select best model and refine prompts
 
 
 ## Security Note
@@ -148,7 +60,7 @@ data/
 - **Project Name**: literature-search-agent
 - **Version**: 0.1.0
 - **Python Version**: >=3.12
-- **Package Manager**: pip/hatch
+- **Package Manager**: uv (with hatchling build backend)
 
 ## PubMed Configuration
 
@@ -193,7 +105,7 @@ data/
 
 ## Data Models
 
-### PubMedArticle
+### PubMedArticle (pubmed.py)
 
 - pmid (required)
 - title (required)
@@ -202,12 +114,43 @@ data/
 - abstract (optional)
 - pub_date (optional)
 - date_fetched (auto-generated)
+- doi (optional)
 
-### ScoringSheet
+### ScoringSheet (pubmed.py)
 
 - pmid (required)
 - title (required)
+- abstract (optional, excluded from serialization)
+- journal (required)
 - score (default: 0)
+
+### ArticleAnalysis (model_eval.py)
+
+- include: bool (include in literature review?)
+- highlight: bool (particularly important?)
+- classification: Literal (10 categories)
+- reasoning: str (2-3 sentence explanation)
+
+## Evaluation Modules (Current State)
+
+- **prompts.py** - System and user prompt templates for paper scoring
+  - 10 classification categories: Cell cycle, Genome stability, Senescence, Cancer biology, CRISPR, Imaging, AI/Biology, Evolutionary, Other
+  - Protein keywords: PP1, PP2A, CDK, Cyclin, Aurora, Polo, etc.
+- **model_test.py** - pydantic-ai with Ollama (koesn/llama3-openbiollm-8b)
+- **model_test_instructor.py** - Instructor with OpenAI-compatible API (qwen2.5:7b-instruct-q8_0)
+- **model_eval.py** - Async scoring pipeline (incomplete - references undefined `client`)
+- **model_config.py** - Pydantic Settings for model config (template, not actively used)
+- **gt_data.py** - Ground truth data stub (import only)
+
+## Unfinished / Known TODOs
+
+- Move PubMed API key from hardcoded in pubmed.py to .env
+- Complete model_eval.py (undefined `client` variable)
+- Implement evaluate.py (metrics computation)
+- Implement prompt_iterator.py (prompt improvement loop)
+- Complete gt_data.py implementation
+- Add tests for config.py, model_eval.py
+- Update README.md (still has placeholder text)
 
 ## File Naming Conventions
 

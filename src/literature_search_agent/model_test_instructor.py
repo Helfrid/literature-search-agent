@@ -8,7 +8,17 @@ from literature_search_agent.prompts import SYSTEM_PROMPT, USER_PROMPT_TEMPLATE
 class ArticleAnalysis(BaseModel):
     include: bool
     highlight: bool
-    classification: Literal["cellcycle", "genome_stability", "cancer_biology", "CRISPR", "imaging", "other"]
+    classification: Literal[
+        "Cell Cycle",
+        "Genome stability",
+        "Senescence",
+        "Cancer Biology",
+        "CRISPR/Cas9 and genome editing",
+        "Imaging",
+        "AI and Biology",
+        "Evolutionary Cell Biology",
+        "Other",
+    ]
     reasoning: str
 
 client = instructor.from_openai(

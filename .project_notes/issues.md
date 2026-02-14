@@ -29,6 +29,19 @@ Track completed work, tickets, and project milestones.
 - **Notes**: Used unittest.mock to avoid hitting real PubMed API
 
 ### 2026-01-25 - Project Memory System Setup
-- **Status**: In Progress
-- **Description**: Initializing .project_notes directory with bugs.md, decisions.md, key_facts.md, and issues.md for institutional knowledge tracking
+- **Status**: Completed
+- **Description**: Initialized .project_notes directory with bugs.md, decisions.md, key_facts.md, and issues.md. Added memory-aware protocols to CLAUDE.md.
 - **Notes**: Following project-memory skill guidelines
+
+### 2026-02 - Evaluation System Development (eval-work branch)
+- **Status**: In Progress
+- **Description**: Building paper scoring pipeline with multiple LLM models. Added prompts.py (system/user prompt templates), model_test.py (pydantic-ai + Ollama), model_test_instructor.py (Instructor + OpenAI-compatible API), model_eval.py (async scoring pipeline), model_config.py (model configuration), gt_data.py (ground truth stub).
+- **Key Commits**:
+  - `abc0722` - model work on rtx5090 server
+  - `2237423` - add scoring app, evaluation data, and ground truth module
+  - `c4bb51a` - merge: integrate upstream origin/main into eval-work
+- **Notes**: Core PubMed fetching is solid; evaluation pipeline still being developed. prompts.py and model_test.py have uncommitted changes.
+
+### 2026-02-13 - Project Memory Refresh
+- **Status**: Completed
+- **Description**: Updated .project_notes with current project state: added ADR-004 (Instructor library) and ADR-005 (local Ollama models), fixed package manager reference in key_facts.md (was pip/hatch, now uv), documented eval-work branch progress.
